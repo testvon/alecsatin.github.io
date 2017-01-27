@@ -15,7 +15,7 @@ tags:
 - Efficacy of the Word
 ---
 
-It's likely there is no harder job than the ministry.  The point of this list is not to hate on your pastor.  You should love and pray for your pastor.  By God's grace, he is doing the same for you.  
+It's likely there is no harder job than the ministry.  The point of this list is not to find reasons to pick on your pastor.  You should love and pray for your minister.  By God's grace, he is doing the same for you.  
 
 Nevertheless, doctrine matters.  God tells us to be diligent in learning and understanding those things he wants us to know.  
 
@@ -23,7 +23,9 @@ Nevertheless, doctrine matters.  God tells us to be diligent in learning and und
 
 If you can find a relatively good church, go there, get involved, and stay.  That pastor needs you.  
 
-> Should the majority of liberal Protestant ministers ever decide to be intellectually honest with their congregations, the Lutheran Reformation would seem altogether mild by comparison.  Protestant parishioners would, I am convinced, leave their churches wholesale. -Otten, Baal or God. 1988, p. ii. as quoted in Leppien and Smith, p. 25.
+> Should the majority of liberal Protestant ministers ever decide to be intellectually honest with their congregations, the Lutheran Reformation would seem altogether mild by comparison.  Protestant parishioners would, I am convinced, leave their churches wholesale.[^3dd8ef67]
+
+[^3dd8ef67]: Otten, Baal or God. 1988, p. ii. as quoted in Leppien and Smith, p. 25.
 
 # 20 ways to tell if your pastor is apostate
 
