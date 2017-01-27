@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Alec Satin"
     url: /about/
   - title: "Posts"
@@ -18,3 +16,5 @@ main:
     url: /collection-archive/
   - title: "External Link"
     url: https://google.com
+  - title: "About"
+    url: /about/
