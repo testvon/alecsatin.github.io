@@ -4,6 +4,18 @@ main:
     url: /about/
   - title: "Posts"
     url: /year-archive/
+  - title: "Sing-along"
+    url: /songs/
+  - title: "Biblical orthodoxy"
+    url: /biblical-orthodoxy/
+  - title: "Spirit of the age"
+    url: /spirit-of-the-age/
+  - title: "for the suffering"
+    url: /suffering/
+  - title: "Personal writings"
+    url: /memoirs/
+  - title: "Book list"
+    url: /books/
   - title: "Categories"
     url: /categories/
   - title: "Pages"
