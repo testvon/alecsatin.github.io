@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Alec Satin"
+title                    : "Comfort for anxious Christians"
 title_separator          : "-"
 name                     : "Alec Satin"
 description              : "A place of comfort for anxious Christians. Writings about Biblical Orthodoxy, the spirit of the age, and the love of God."
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Alec Satin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Lutheran Christian saved by faith who writes about *Biblical Orthodoxy*, *the spirit of the age*, and learning to trust.  Reader.  Knitter.  He loves the *old songs*."
+  bio              : "Writes about Biblical Orthodoxy, the spirit of the age, and faith.  Reader.  Knitter.  Loves the old songs."
   location         :
   email            :
   uri              :
@@ -239,7 +239,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
