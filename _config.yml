@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Comfort for anxious Christians"
+title                    : "Comfort for Christians"
 title_separator          : "-"
 name                     : "Alec Satin"
-description              : "A place of comfort for anxious Christians. Writings about Biblical Orthodoxy, the spirit of the age, and the love of God."
+description              : "A place of comfort for Christians. Writings about Biblical Orthodoxy, the spirit of the age, fear, and the love of God."
 url                      : "https://alecsatin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alecsatin/alecsatin.github.io"
@@ -18,7 +18,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
