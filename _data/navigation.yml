@@ -1,25 +1,25 @@
 # main links
 left:
-    - title: Writings
+  - title: Writings
     children:
-      - title: "For the suffering"
-        url: /for-the-suffering/
-      - title: "Orthodoxy"
-        url: /biblical-orthodoxy/
-      - title: "Spirit of the Age"
-        url: /spirit-of-the-age/
-      - title: "Personal writings"
-        url: /memoirs/
-      - title: "Parentheses"
-        url: /parentheses/
+    - title: "For the suffering"
+      url: /for-the-suffering/
+    - title: "Orthodoxy"
+      url: /biblical-orthodoxy/
+    - title: "Spirit of the Age"
+      url: /spirit-of-the-age/
+    - title: "Personal writings"
+      url: /memoirs/
+    - title: "Parentheses"
+      url: /parentheses/
 
-    - title: Helps
-    children:
-      - title: "Songs"
-        url: /songs/
-      - title: "Recommended Books"
-        url: /books/
-         
+- title: Helps
+  children:
+    - title: "Songs"
+      url: /songs/
+    - title: "Recommended Books"
+      url: /books/
+     
 main:
   - title: "Alec Satin"
     url: /about/
