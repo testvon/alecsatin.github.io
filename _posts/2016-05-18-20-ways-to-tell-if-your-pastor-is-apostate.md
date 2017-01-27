@@ -14,6 +14,7 @@ tags:
 - Means of Grace
 - Efficacy of the Word
 ---
+> ...there are basically two different religions within external Christendom. The difference between these two religions is the difference between God and Baal.  Informed Christians ought to recognize that the real difference within external Christendom does not lie along traditional denominational lines...there are those within these denominations who accept the fundamental truths of historic Christianity.  On the other hand there are the modern liberals within these same denominations who reject historic Christianity.[^6af0dcd0]
 
 It's likely there is no harder job than the ministry.  The point of this list is not to find reasons to pick on your pastor.  You should love and pray for your minister.  By God's grace, he is doing the same for you.  
 
@@ -109,6 +110,6 @@ If you can find a relatively good church, go there, get involved, and stay.  Tha
 
 If you pastor believes these things, you are not in a wholesome church. 
 
-> ...there are basically two different religions within external Christendom. The difference between these two religions is the difference between God and Baal.  Informed Christians ought to recognize that the real difference within external Christendom does not lie along traditional denominational lines...there are those within these denominations who accept the fundamental truths of historic Christianity.  On the other hand there are the modern liberals within these same denominations who reject historic Christianity.[^6af0dcd0]
+
 
 [^6af0dcd0]: Patsy Leppien and J. Kincaid Smith's 1992 book _What's going on among the Lutherans_
