@@ -23,9 +23,9 @@ nav-left:
 main:
   - title: "Alec Satin"
     url: /about/
-  - title: "Posts"
+  - title: "Archive by date"
     url: /year-archive/
-  - title: "Categories"
+  - title: "Archive by category"
     url: /categories/
   - title: "Pages"
     url: /page-archive/
@@ -33,9 +33,3 @@ main:
     url: /tags/
   - title: "Sitemap"
     url: /sitemap/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
-  - title: "About"
-    url: /about/

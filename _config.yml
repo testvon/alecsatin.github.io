@@ -30,6 +30,9 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
+  notifications.enabled  : true
+  notifications.apiKey   : key-d625caa1f32c40565d4ce2fbae468498
+  notifications.domain   :
   branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -38,7 +41,7 @@ staticman:
   path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+      email                : "md5"
   generatedFields:
     date:
       type               : "date"
