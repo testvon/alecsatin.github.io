@@ -3,13 +3,13 @@ title: How the West was lost - Coping with life in a strange, new civilization b
 date: 2015-10-21
 excerpt: ...the Western civilization that produced America and Europe has been replaced, in our lifetime, and before our very eyes.  
 categories:
-- books
+  - books
 tags:
-- Worldview
-- Enlightenment
-- Post-modernism
-- Modernism
-- Recommended Reading
+  - Worldview
+  - Enlightenment
+  - Post-modernism
+  - Modernism
+  - Recommended Reading
 ---
 ![How the West was lost]({{ site.url }}{{ site.baseurl }}/assets/images/how-the-west-was-lost.jpg)
 *How the West was lost* 

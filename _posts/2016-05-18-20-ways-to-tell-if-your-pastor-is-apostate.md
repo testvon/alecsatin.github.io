@@ -2,17 +2,17 @@
 date: 2016-05-18 09:55:02+00:00
 title: 20 ways to tell if your pastor is apostate
 categories:
-- biblical-orthodoxy
+  - biblical-orthodoxy
 tags:
-- Church
-- Pastor
-- Liberal
-- Conservative
-- honesty
-- Inerrancy
-- Infallibility
-- Means of Grace
-- Efficacy of the Word
+  - Church
+  - Pastor
+  - Liberal
+  - Conservative
+  - honesty
+  - Inerrancy
+  - Infallibility
+  - Means of Grace
+  - Efficacy of the Word
 ---
 > ...there are basically two different religions within external Christendom. The difference between these two religions is the difference between God and Baal.  Informed Christians ought to recognize that the real difference within external Christendom does not lie along traditional denominational lines...there are those within these denominations who accept the fundamental truths of historic Christianity.  On the other hand there are the modern liberals within these same denominations who reject historic Christianity.[^6af0dcd0]
 

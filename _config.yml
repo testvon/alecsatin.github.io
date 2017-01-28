@@ -110,6 +110,7 @@ author:
 # Reading Files
 include:
   - .htaccess
+  - _categories
   - _pages
 exclude:
   - "*.sublime-project"
@@ -135,7 +136,9 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /templates # ignore templates
+  - _templates # ignore templates
+  - _drafts #ignore drafts
+  - _bak #ignore backups
 keep_files:
   - .git
   - .svn
@@ -245,7 +248,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "menu-left"
+        nav: "nav-left"
   # _posts
   - 
     scope:
@@ -259,4 +262,4 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "menu-left"
+        nav: "nav-left"

@@ -4,17 +4,17 @@ date: 2015-09-14 07:00:52+00:00
 excerpt: I’m neither a picture-taker nor -saver.  I’ve always preferred the moment.  But I returned home Thursday night with a bag of framed images.  And I'm so glad that I did.  [...]
 slug: photographs-and-memories
 categories:
-- memoirs
+  - memoirs
 tags:
-- Washington DC
-- death
-- loss
-- faith
-- grace
-- history
-- hope
-- memory
-- Saint Elizabeth Hospital
+  - Washington DC
+  - death
+  - loss
+  - faith
+  - grace
+  - history
+  - hope
+  - memory
+  - Saint Elizabeth Hospital
 ---
 {% include toc %}
 > For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away. -James 4.14

@@ -3,17 +3,17 @@ title: Why I unsubscribed from my friend's blog
 date: 2016-10-24
 excerpt: Over the last year I've steadily stopped following political and economics blogs.  The trajectory to a world ruled by the scientific elites clicks on towards an expected end.
 categories:
-- spirit-of-the-age
+  - spirit-of-the-age
 tags:
-- Negativity
-- Rage
-- Hate
-- Hegelian Dialectic
-- Reds
-- Blues
-- Friends
-- Blogs
-- Bloggers
+  - Negativity
+  - Rage
+  - Hate
+  - Hegelian Dialectic
+  - Reds
+  - Blues
+  - Friends
+  - Blogs
+  - Bloggers
 ---
 {% include toc %}
 Dear Mitchell (name changed),

@@ -2,18 +2,18 @@
 title: Social Isolation and the Christian
 excerpt: 
 categories:
-- for-the-suffering
+  - for-the-suffering-christian
 tags:
-- Mental Illness
-- Social Isolation
-- Loneliness
-- Anxiety
-- Social Anxiety
-- Church
-- Community
-- Love one another
-- The least of these
-- Real Christianity
+  - Mental Illness
+  - Social Isolation
+  - Loneliness
+  - Anxiety
+  - Social Anxiety
+  - Church
+  - Community
+  - Love one another
+  - The least of these
+  - Real Christianity
 ---
 {% include toc %}
 Christians aren't supposed to have emotional problems.  But we do.  Believers in the Lord Jesus Christ are just as fallen as other people, though forgiveness (Psalm 103:12) does makes all the difference.  Even so, reconciliation with God the Father does not eliminate the suffering which marks this side of eternity.  Pretending otherwise is a foolishness in which those of us who struggle with social isolation cannot allow ourselves to indulge.   

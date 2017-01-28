@@ -1,23 +1,23 @@
 # main links
-menu-left:
+nav-left:
   - title: Writings
     children:
       - title: "For the suffering"
-        url: /for-the-suffering/
-      - title: "Orthodoxy"
+        url: /for-the-suffering-christian
+      - title: "Biblical Orthodoxy"
         url: /biblical-orthodoxy/
-      - title: "Spirit of the Age"
+      - title: "The spirit of the Age"
         url: /spirit-of-the-age/
       - title: "Personal writings"
         url: /memoirs/
-      - title: "Parentheses"
-        url: /parentheses/
 
-  - title: Helps
+  - title: Off-topic writing
+        
+  - title: Comfort
     children:
-      - title: "Songs"
+      - title: "Songs (sing along)"
         url: /songs/
-      - title: "Recommended Books"
+      - title: "Books"
         url: /books/
      
 main:
