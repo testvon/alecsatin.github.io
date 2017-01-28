@@ -30,6 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
+  allowedOrigins         : ["localhost", "alecsatin.com", "alecsatin.github.io"]
   branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
