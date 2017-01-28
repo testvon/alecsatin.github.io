@@ -4,7 +4,7 @@ date: 2015-09-14 07:00:52+00:00
 excerpt: I’m neither a picture-taker nor -saver.  I’ve always preferred the moment.  But I returned home Thursday night with a bag of framed images.  And I'm so glad that I did.  [...]
 slug: photographs-and-memories
 categories:
-- Memoir
+- memoirs
 tags:
 - Washington DC
 - death
@@ -16,7 +16,7 @@ tags:
 - memory
 - Saint Elizabeth Hospital
 ---
-
+{% include toc %}
 > For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away. -James 4.14
 
 This past week marked another death in my family.  This one broke the last thread connecting me to the town where I was born.  My uncle's Federal-style brick home in Georgetown, DC was both the heart of our gatherings and the center touchstone for the scattered who remained.

@@ -3,7 +3,7 @@ title: Thy Strong Word - The Efficacy Of The Word In The Scriptures And The Luth
 date: 2015-10-21
 excerpt: I have written Thy Strong Word for one purpose, to teach the Biblical doctrine of the efficacy of the Word and thereby utterly destroy the Church  Growth Movement in the Lutheran Church.
 categories:
-- Books
+- books
 tags:
 - Bible
 - Recommended Reading

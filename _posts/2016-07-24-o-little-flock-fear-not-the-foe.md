@@ -6,7 +6,7 @@ header:
     id: qOdlhd0CCOw
     provider: youtube
 categories:
-  - Songs
+  - songs
 tags:
   - hymn
   - traditional

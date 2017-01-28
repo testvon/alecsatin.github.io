@@ -6,7 +6,7 @@ header:
     id: fwwtF66AM80
     provider: youtube
 categories:
-  - Songs
+  - songs
 tags:
   - hymn
   - contemporary

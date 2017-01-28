@@ -3,13 +3,13 @@ title:
 date: 
 excerpt: 
 categories:
-- Books
-- Songs
-- Spirit of the Age
-- Biblical Orthodoxy
-- For the Suffering
-- Memoir
-- Parentheses
+- books
+- songs
+- spirit-of-the-age
+- biblical-orthodoxy
+- for-the-suffering
+- memoirs
+- off-topic
 tags:
 - 
 ---

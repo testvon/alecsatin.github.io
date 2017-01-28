@@ -244,6 +244,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "menu-left"
   # _posts
   - 
     scope:
@@ -256,3 +258,5 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "menu-left"
