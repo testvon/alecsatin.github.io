@@ -43,8 +43,10 @@ main:
     url: /
   - title: "*Writings*"
     url: /
-  - title: "*Comfort*"
-    url: /
+  - title: "Songs"
+    url: /songs/
+  - title: "Request prayer"
+    url: /request-prayer/
   - title: "About"
     url: /about/
   - title: "Guest Book"

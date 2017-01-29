@@ -16,4 +16,4 @@ There are other readers to this website who will pray for you, as will the autho
 When your prayer is answered, consider returning to add a new comment letting people know what happened and how.  May God bless you.
 
 # Important note
-> This is not the proper forum for help if you are in a crisis situation.  In that case, please contact [The Samaritans](http://www.samaritans.org), call 911 (if you are in the US), or visit your local emergency room or police station.  
+> This is not the proper forum for emergency help.  If you are in a crisis situation contact [Befrienders](http://www.befrienders.org/), Samaritans [US](http://www.samaritansnyc.org) - [UK](http://www.samaritans.org), call 911, or visit your local emergency room or police station.  Do whatever you need to to do to get physically near to another human being and ask for help.
