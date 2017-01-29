@@ -44,6 +44,7 @@ layout: default
         {% endif %}
         {% include page__author.html %}
         {% include page__taxonomy.html %}
+        {% include page__subscribe.html %}
         {% if page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
