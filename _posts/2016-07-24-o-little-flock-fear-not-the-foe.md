@@ -5,8 +5,7 @@ header:
   video:
     id: qOdlhd0CCOw
     provider: youtube
-categories:
-  - songs
+categories: songs
 tags:
   - hymn
   - traditional
@@ -22,6 +21,9 @@ In regard to translator Catherine Winkworth, Charles Hutchins has this to say:
 >(she is) the most gifted translator of any foreign sacred lyrics into our tongue, after Dr. Neale and John Wesley; and in practical services rendered, taking quality with quantity, the first of those who have laboured upon German hymns. Our knowledge of them is due to her more largely than to any or all other translators; and by her two series of Lyra Germanica, her Chorale Book, and her Christian Singers of Germany, she has laid all English-speaking Christians under lasting obligation. [^1b765900]
 
 [^1b765900]: From *Annotations of the Hymnal* by Charles Hutchins, M.A., 1872.
+
+[Note!](/songs/o-little-flock-fear-not-the-foe/){: .btn .btn--warning} If you're reading this through an RSS feed or an email subscription, you must visit the website to watch the video.
+{: .notice}
 
 # Lyrics
 

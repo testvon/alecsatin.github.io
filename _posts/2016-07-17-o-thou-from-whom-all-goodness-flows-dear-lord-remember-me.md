@@ -1,12 +1,12 @@
 ---
 title: "O thou from whom all goodness flows, dear Lord remember me"
 date: 2016-07-17
+excerpt: "Thomas Haweis's inspiration for this hymn is the last chapter of the book of Nehemiah.  The people of God did not know they were forbidden to bring Ammonites and Moabites into the congregation.  Their worship-leader Eliashib had even prepared a room in the court of God's house to make it more comfortable for the Ammonite Tobiah, to whom he was related by marriage.  The spiritual food intended for the Levites was not delivered. "
 header:
   video:
     id: qucc8BNu83o
     provider: youtube
-categories:
-  - songs
+categories: songs
 tags:
   - hymn
   - traditional
@@ -18,6 +18,9 @@ Thomas Haweis's inspiration for this hymn is the last chapter of the book of Neh
 Making the church a mission-field has predictable results. Unbelievers become the priority.  Believers starve like the Levites of Nehemiah's time.  They are forced to go outside the church to find sustenance for themselves and their families.  
 
 Opening the church doors to unbelieving Ammonites and Moabites means intermarriage with them.  Your grandchildren will speak half in the language of God, and half in the language of pagan unbelief (Nehemiah 13.23-24). This is not saving faith.  People who believe in this way will be lost.
+
+[Note!](/songs/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/){: .btn .btn--warning} If you're reading this through an RSS feed or an email subscription, you must visit the website to watch the video.
+{: .notice}
 
 # Cross and comfort
 

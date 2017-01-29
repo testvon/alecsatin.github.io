@@ -5,8 +5,7 @@ header:
   video:
     id: tKJyb_oiNOw?start=22
     provider: youtube
-categories:
-  - songs
+categories: songs
 tags:
   - hymn
   - traditional
@@ -14,6 +13,9 @@ tags:
   - Lutheran Hymnal
 ---
 May you remember today this wonderful gift granted through faith in Jesus Christ.  *By grace I'm saved, grace free and boundless* by Christian Scheidt, 1709-1761.
+
+[Note!](/songs/by-grace-im-saved-grace-free-and-boundless/){: .btn .btn--warning} If you're reading this through an RSS feed or an email subscription, you must visit the website to watch the video.
+{: .notice}
 
 # Lyrics 
 

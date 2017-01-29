@@ -15,7 +15,7 @@ tags:
   - memory
   - Saint Elizabeth Hospital
 ---
-{% include toc %}
+{% include toc title="Contents" icon="book" %}
 > For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away. -James 4.14
 
 This past week marked another death in my family.  This one broke the last thread connecting me to the town where I was born.  My uncle's Federal-style brick home in Georgetown, DC was both the heart of our gatherings and the center touchstone for the scattered who remained.

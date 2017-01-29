@@ -5,8 +5,7 @@ header:
   video:
     id: fwwtF66AM80
     provider: youtube
-categories:
-  - songs
+categories: songs
 tags:
   - hymn
   - contemporary
@@ -15,6 +14,9 @@ tags:
 Do you remember the slang term, *reality check*?  It's a reminder from a friend when one's thinking is distorted.  As the current political drama beats down on all of us, this hymn can serve as a welcome balm and pull us back into a Biblical way of thinking.  Kings and queens rise and fall, but God is on the throne.  He establishes governments.  In contrast to this fallen, sinful world, The Lord has decreed an eternity in which righteousness will reign in justice and without sin, tears or suffering.  Glory to Him.
 
 May God richly bless you today and every day, through Jesus Christ, his only begotten Son, our Lord, the same yesterday, today and forever.  Amen.
+
+[Note!](/songs/a-few-more-years-shall-roll/){: .btn .btn--warning} If you're reading this through an RSS feed or an email subscription, you must visit the website to watch the video.
+{: .notice}
 
 # Lyrics #
 
