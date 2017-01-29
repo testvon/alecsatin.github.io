@@ -39,15 +39,15 @@ nav-left:
       - title: "Sitemap"
         url: /sitemap/  
 main:
-  - title: "Alec Satin"
+  - title: "Recent posts"
+    url: /
+  - title: "*Writings*"
+    url: /
+  - title: "*Comfort*"
+    url: /
+  - title: "About"
     url: /about/
-  - title: "Archive by date"
-    url: /year-archive/
-  - title: "Archive by category"
+  - title: "Guest Book"
+    url: /guestbook/
+  - title: "Archive"
     url: /categories/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Tags"
-    url: /tags/
-  - title: "Sitemap"
-    url: /sitemap/
