@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About the author"
+permalink: /beliefs/
+title: "Statement of faith"
 excerpt: ""
 modified: 
 ---

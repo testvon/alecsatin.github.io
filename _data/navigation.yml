@@ -2,24 +2,42 @@
 nav-left:
   - title: Writings
     children:
-      - title: "For the suffering"
-        url: /for-the-suffering-christian
       - title: "Biblical Orthodoxy"
         url: /biblical-orthodoxy/
-      - title: "The spirit of the Age"
-        url: /spirit-of-the-age/
       - title: "Personal writings"
         url: /memoirs/
-
-  - title: Off-topic writing
-        
+      - title: "The spirit of the Age"
+        url: /spirit-of-the-age/
+      - title: "For the suffering"
+        url: /for-the-suffering-christian
   - title: Comfort
     children:
-      - title: "Songs (sing along)"
+      - title: "Songs to uplift"
         url: /songs/
-      - title: "Books"
+      - title: "Recommended reading"
         url: /books/
-     
+      - title: "Guestbook"
+        url: /guestbook/
+      - title: "Request prayer"
+        url: /request-prayer/
+  - title: Off-topic writing 
+    children:
+      - title: "Placeholder"
+        url: /
+  - title: About 
+    children:
+      - title: "The author"
+        url: /about/
+      - title: "Statement of faith"
+        url: /beliefs/   
+      - title: "Website history"
+        url: /about-website/    
+  - title: Website 
+    children:
+      - title: "Contact"
+        url: /contact/    
+      - title: "Sitemap"
+        url: /sitemap/  
 main:
   - title: "Alec Satin"
     url: /about/
