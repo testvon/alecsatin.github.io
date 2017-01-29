@@ -30,9 +30,6 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  notifications.enabled  : true
-  notifications.apiKey   : key-d625caa1f32c40565d4ce2fbae468498
-  notifications.domain   :
   branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
