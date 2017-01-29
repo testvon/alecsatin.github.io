@@ -3,8 +3,7 @@ title: Photographs and memories
 date: 2015-09-14 07:00:52+00:00
 excerpt: I’m neither a picture-taker nor -saver.  I’ve always preferred the moment.  But I returned home Thursday night with a bag of framed images.  And I'm so glad that I did.  [...]
 slug: photographs-and-memories
-categories:
-  - memoirs
+categories: memoirs
 tags:
   - Washington DC
   - death

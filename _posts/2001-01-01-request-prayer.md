@@ -1,7 +1,12 @@
 ---
-permalink: /request-prayer/
 title: "Request prayer"
-excerpt: ""
+date: 2017-01-29 10:29
+excerpt: "If you would like prayer, please enter a comment at the end of this page."
+permalink: /request-prayer/
+slug: request-prayer
+categories: website
+tags:
+  # -
 modified: 
 ---
 If you would like prayer, please enter a comment at the end of this page.  
