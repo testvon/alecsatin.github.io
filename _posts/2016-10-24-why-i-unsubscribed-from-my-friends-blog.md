@@ -14,7 +14,6 @@ tags:
   - Friends
   - Blogs
   - Bloggers
-modified: 2017-01-29 14:21
 ---
 {% include toc title="Contents" icon="book" %}
 Dear Mitchell (name changed),

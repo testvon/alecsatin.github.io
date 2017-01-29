@@ -51,5 +51,7 @@ main:
     url: /about/
   - title: "Guest Book"
     url: /guestbook/
+  - title: "Search"
+    url: /search/
   - title: "Archive"
     url: /categories/
