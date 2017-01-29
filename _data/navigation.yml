@@ -1,4 +1,24 @@
-# main links
+# top navigation menu
+main:
+  - title: "Recent posts"
+    url: /
+  - title: "Search"
+    url: /search/
+  - title: "*Writings*"
+    url: /
+  - title: "Songs"
+    url: /songs/
+  - title: "Request prayer"
+    url: /request-prayer/
+  - title: "About"
+    url: /about/
+  - title: "Guest Book"
+    url: /guestbook/
+  - title: "Subscribe"
+    url: /subscribe/
+  - title: "Archive"
+    url: /categories/
+# left side navigation menu
 nav-left:
   - title: Writings
     children:
@@ -38,20 +58,3 @@ nav-left:
         url: /contact/    
       - title: "Sitemap"
         url: /sitemap/  
-main:
-  - title: "Recent posts"
-    url: /
-  - title: "*Writings*"
-    url: /
-  - title: "Songs"
-    url: /songs/
-  - title: "Request prayer"
-    url: /request-prayer/
-  - title: "About"
-    url: /about/
-  - title: "Guest Book"
-    url: /guestbook/
-  - title: "Search"
-    url: /search/
-  - title: "Archive"
-    url: /categories/

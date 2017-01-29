@@ -1,6 +1,8 @@
 ---
 title: 
 date: 
+slug:
+permalink:
 excerpt: 
 categories:
 tags:
