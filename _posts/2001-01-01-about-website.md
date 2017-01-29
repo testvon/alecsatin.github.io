@@ -8,4 +8,5 @@ categories: website
 tags:
 modified: 2017-01-29 08:00
 ---
-# History of the website
+{% include toc title="Contents" icon="book" %}
+content here

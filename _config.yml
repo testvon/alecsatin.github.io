@@ -137,9 +137,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _templates # ignore templates
-  - _drafts #ignore drafts
-  - _bak #ignore backups
+  - _working #ignore working folder
 keep_files:
   - .git
   - .svn

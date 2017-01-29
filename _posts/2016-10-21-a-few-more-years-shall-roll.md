@@ -15,7 +15,7 @@ Do you remember the slang term, *reality check*?  It's a reminder from a friend 
 
 May God richly bless you today and every day, through Jesus Christ, his only begotten Son, our Lord, the same yesterday, today and forever.  Amen.
 
-[Note!](/songs/a-few-more-years-shall-roll/){: .btn .btn--warning} If you're reading this through an RSS feed or an email subscription, you must visit the website to watch the video.
+**Please note:** If you're reading this through an email or RSS feed, you must [visit the website directly](/songs/a-few-more-years-shall-roll/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 # Lyrics #

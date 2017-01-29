@@ -15,7 +15,7 @@ tags:
   - Blogs
   - Bloggers
 ---
-{% include toc %}
+{% include toc title="Contents" icon="book" %}
 Dear Mitchell (name changed),
 
 You asked why I unsubscribed after reading your messages for so long.  Over the last year I've steadily stopped following political and economics blogs.  Yours was one of the last remaining.  The material you send is excellent.  I get it.  No further details are needed.  The trajectory to a world ruled by the scientific elites clicks on towards an expected end.

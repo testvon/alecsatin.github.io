@@ -19,7 +19,7 @@ Making the church a mission-field has predictable results. Unbelievers become th
 
 Opening the church doors to unbelieving Ammonites and Moabites means intermarriage with them.  Your grandchildren will speak half in the language of God, and half in the language of pagan unbelief (Nehemiah 13.23-24). This is not saving faith.  People who believe in this way will be lost.
 
-[Note!](/songs/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/){: .btn .btn--warning} If you're reading this through an RSS feed or an email subscription, you must visit the website to watch the video.
+**Please note:** If you're reading this through an email or RSS feed, you must [visit the website directly](/songs/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 # Cross and comfort

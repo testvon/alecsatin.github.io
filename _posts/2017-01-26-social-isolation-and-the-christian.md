@@ -15,7 +15,7 @@ tags:
   - The least of these
   - Real Christianity
 ---
-{% include toc %}
+{% include toc title="Contents" icon="book" %}
 Christians aren't supposed to have emotional problems.  But we do.  Believers in the Lord Jesus Christ are just as fallen as other people, though forgiveness (Psalm 103:12) does makes all the difference.  Even so, reconciliation with God the Father does not eliminate the suffering which marks this side of eternity.  Pretending otherwise is a foolishness in which those of us who struggle with social isolation cannot allow ourselves to indulge.   
 
 It may be that we who take on the name of Christ have **more issues** than other people.  As Jesus said,
