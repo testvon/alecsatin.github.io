@@ -110,7 +110,6 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _categories
   - _pages
 exclude:
   - "*.sublime-project"
@@ -242,6 +241,7 @@ defaults:
       type: "pages"
     values:
       layout: single
+      author: "Alec Satin"
       author_profile: false
       read_time: true
       comments: true
@@ -256,6 +256,7 @@ defaults:
       type: "posts"
     values:
       layout: single
+      author: "Alec Satin"
       author_profile: false
       read_time: true
       comments: true
