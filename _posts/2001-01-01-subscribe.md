@@ -1,10 +1,10 @@
 ---
-title: "Subscribe to updates to Comfort for Christians"
+title: "Subscribe to Comfort for Christians updates"
 date: 2001-01-01 08:00
 slug: subscribe
 permalink: /subscribe/
 read_time: false
-excerpt: "Subscribe to updates to Comfort for Christians"
+excerpt: "Subscribe to Comfort for Christians updates"
 categories: website
 tags:
 modified: 2017-01-29 17:18
