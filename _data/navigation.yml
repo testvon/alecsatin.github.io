@@ -2,21 +2,15 @@
 main:
   - title: "Recent posts"
     url: /
-  - title: "Search"
-    url: /search/
   - title: "*Writings*"
     url: /
-  - title: "Songs"
-    url: /songs/
-  - title: "Request prayer"
-    url: /request-prayer/
+  - title: "*Comfort*"
+    url: /
   - title: "About"
     url: /about/
-  - title: "Guest Book"
-    url: /guestbook/
-  - title: "Subscribe"
-    url: /subscribe/
-  - title: "Archive"
+  - title: "Search"
+    url: /search/
+  - title: "Archives"
     url: /categories/
 # left side navigation menu
 nav-left:
@@ -26,8 +20,6 @@ nav-left:
         url: /biblical-orthodoxy/
       - title: "Personal writings"
         url: /memoirs/
-      - title: "The spirit of the Age"
-        url: /spirit-of-the-age/
       - title: "For the suffering"
         url: /for-the-suffering-christian
   - title: Comfort
@@ -36,25 +28,23 @@ nav-left:
         url: /songs/
       - title: "Recommended reading"
         url: /books/
-      - title: "Guestbook"
-        url: /guestbook/
-      - title: "Request prayer"
-        url: /request-prayer/
-  - title: Off-topic writing 
+  - title: Other writings 
     children:
-      - title: "Placeholder"
-        url: /
+      - title: "The spirit of the Age"
+        url: /spirit-of-the-age/
   - title: About 
     children:
       - title: "The author"
         url: /about/
       - title: "Statement of faith"
         url: /beliefs/   
-      - title: "Website history"
+      - title: "About the website"
         url: /about-website/    
   - title: Website 
     children:
       - title: "Contact"
         url: /contact/    
+      - title: "Subscribe"
+        url: /subscribe/  
       - title: "Sitemap"
         url: /sitemap/  
