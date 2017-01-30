@@ -14,7 +14,7 @@ tags:
 ---
 May you remember today this wonderful gift granted through faith in Jesus Christ.  *By grace I'm saved, grace free and boundless* by Christian Scheidt, 1709-1761.
 
-**Please note:** If you're reading this through an email or RSS feed, you must [visit the website](/songs/by-grace-im-saved-grace-free-and-boundless/){: .btn .btn--warning} to watch the video.
+**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/by-grace-im-saved-grace-free-and-boundless/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 # Lyrics 
