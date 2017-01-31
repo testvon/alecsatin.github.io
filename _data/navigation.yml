@@ -2,10 +2,10 @@
 main:
   - title: "Recent posts"
     url: /
-  - title: "*Writings*"
-    url: /
-  - title: "*Comfort*"
-    url: /
+  - title: "Writings"
+    url: /writings/
+  - title: "Comfort"
+    url: /comfort/
   - title: "About"
     url: /about/
   - title: "Search"
@@ -21,7 +21,7 @@ nav-left:
       - title: "Personal writings"
         url: /memoirs/
       - title: "For the suffering"
-        url: /for-the-suffering-christian
+        url: /for-the-suffering-christian/
   - title: Comfort
     children:
       - title: "Songs to uplift"
