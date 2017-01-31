@@ -10,9 +10,9 @@ modified: 2017-01-30 15:37
 ---
 {% include toc title="Contents" icon="book" %}
 
-[Alecsatin.com](http://www.alecsatin.com) started in 2002.  Just like the protagonist Christian in John Bunyan's *Pilgrim's Progress*, your author has taken long journeys off the path.
+[Alecsatin.com](http://www.alecsatin.com) launched in 2002.  Over the years [your author](/about/) has taken long journeys off the path, much like the protagonist "Christian" in John Bunyan's *Pilgrim's Progress*.
 
-This site has mirrored some of those detours - through counseling psychology, new age trance states, and tarot.  For a time the focus was a vocational one, on software project management.  You may well wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we are here.
+This site has mirrored some of those detours - through counseling psychology, experiential trance states, and tarot.  For a time the focus was a vocational one, on software project management.  You may well wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we are here.
 
 In the end, Bunyan's Christian succeeded in his journey through the intercession of his gracious Lord through the helping hands of real people along the way.  In like manner faithful Christian friends acting in accordance with the all-powerful Word continue to be there for me.  
 

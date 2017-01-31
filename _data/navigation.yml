@@ -5,7 +5,7 @@ main:
   - title: "Writings"
     url: /writings/
   - title: "About"
-    url: /about/
+    url: /about-website/
   - title: "Search"
     url: /search/
   - title: "Archives"
@@ -32,12 +32,13 @@ nav-left:
         url: /spirit-of-the-age/
   - title: About 
     children:
+      - title: "About the website"
+        url: /about-website/    
       - title: "The author"
         url: /about/
       - title: "Statement of faith"
         url: /beliefs/   
-      - title: "About the website"
-        url: /about-website/    
+
   - title: Website 
     children:
       - title: "Contact"
@@ -46,3 +47,7 @@ nav-left:
         url: /subscribe/  
       - title: "Sitemap"
         url: /sitemap/  
+    
+  - title: Disclaimer
+    children:
+      - title: "Nothing presented is intended to convey legal, medical, psychological, or professional advice of any kind."
