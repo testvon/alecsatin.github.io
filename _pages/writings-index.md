@@ -5,21 +5,30 @@ slug: writings
 permalink: /writings/
 excerpt: "Writings on Comfort for Christians - Alec Satin"
 ---
-# [Posts on Biblical Orthodoxy](/biblical-orthodoxy/)
-## [Statement of faith](/beliefs/)
-# [Personal writings](/memoirs/)
-## [About the author](/about)
-## [Posts for the suffering](/for-the-suffering-christian/)
+# Writings (by category)
+
+## [Biblical Orthodoxy](/biblical-orthodoxy/)
+
+## [Personal writings](/memoirs/)
+
+## [For the suffering](/for-the-suffering-christian/)
     
-# Writings on other things
+# Helps (by category)
 
-## The spirit of the Age
-[The spirit of the Age](/spirit-of-the-age/)
-  
-# Website 
+## [Songs to uplift](/songs/)
 
-## About the website - Comfort for Christians
-[About the website](/about-website/)
+## [Recommended reading](/books/)
 
-## Contact
-[Contact](/contact/)      
+# Other writings (by category)
+
+## [The spirit of the Age](/spirit-of-the-age/)
+
+# Website
+
+## [About the website](/about-website/)
+
+## [About the author](/about)
+
+## [Statement of faith](/beliefs/)
+
+## [Contact](/contact/)      
