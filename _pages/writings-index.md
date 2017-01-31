@@ -7,7 +7,7 @@ excerpt: "Writings on Comfort for Christians - Alec Satin"
 ---
 # Writings (by category)
 
-## [Biblical Orthodoxy](/biblical-orthodoxy/)
+[Biblical Orthodoxy](/biblical-orthodoxy/)
 
 ## [Personal writings](/memoirs/)
 

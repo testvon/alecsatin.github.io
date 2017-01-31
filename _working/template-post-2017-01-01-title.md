@@ -5,8 +5,7 @@ slug:
 permalink:
 excerpt: 
 categories:
-tags:
-- 
+tags: - 
 ---
 {% include toc title="Contents" icon="book" %}
 content here
