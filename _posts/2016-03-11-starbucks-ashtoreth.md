@@ -1,6 +1,8 @@
 ---
 title: Ashteroth lives!
 date: 2016-03-11 08:00
+redirect_from:
+  - /starbucks-ashtoreth/
 excerpt: "Recognize Ashtoreth, for this is one of the things God has told you in his Word that he consistently hates."
 categories: spirit-of-the-age
 tags: 

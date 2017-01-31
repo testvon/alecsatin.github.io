@@ -3,6 +3,8 @@ title: Why I unsubscribed from my friend's blog
 date: 2016-10-24
 excerpt: Over the last year I've steadily stopped following political and economics blogs.  The trajectory to a world ruled by the scientific elites clicks on towards an expected end.
 categories: memoirs
+redirect_from:
+  - /why-i-unsubscribed/
 tags:
   - Negativity
   - Rage

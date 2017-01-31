@@ -1,6 +1,8 @@
 ---
 date: 2016-05-18 09:55:02+00:00
 title: 20 ways to tell if your pastor is apostate
+redirect_from:
+  - /20-ways-to-tell-if-your-pastor-is-apostate/
 categories:
   - biblical-orthodoxy
 tags:

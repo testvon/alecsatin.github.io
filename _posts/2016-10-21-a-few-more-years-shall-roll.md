@@ -6,6 +6,8 @@ header:
     id: fwwtF66AM80
     provider: youtube
 categories: songs
+redirect_from:
+  - /a-few-more-years-shall-roll/
 tags:
   - hymn
   - contemporary

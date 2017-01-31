@@ -6,6 +6,8 @@ header:
     id: qOdlhd0CCOw
     provider: youtube
 categories: songs
+redirect_from:
+  - /o-little-flock-fear-not-the-foe/
 tags:
   - hymn
   - traditional

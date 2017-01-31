@@ -6,6 +6,9 @@ header:
     id: tKJyb_oiNOw?start=22
     provider: youtube
 categories: songs
+redirect_from:
+  - /by-grace-im-saved-grace-free-and-boundless/
+  - /by-grace-im-saved/
 tags:
   - hymn
   - traditional

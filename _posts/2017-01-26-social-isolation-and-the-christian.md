@@ -1,8 +1,9 @@
 ---
 title: Social Isolation and the Christian
 excerpt: 
-categories:
-  - for-the-suffering-christian
+categories: for-the-suffering-christian
+redirect_from:
+  - /social-isolation-and-the-christian/
 tags:
   - Mental Illness
   - Social Isolation

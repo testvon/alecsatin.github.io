@@ -7,6 +7,8 @@ header:
     id: qucc8BNu83o
     provider: youtube
 categories: songs
+redirect_from:
+  - /o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
 tags:
   - hymn
   - traditional

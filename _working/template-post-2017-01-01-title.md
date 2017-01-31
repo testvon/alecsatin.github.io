@@ -3,6 +3,7 @@ title:
 date: 
 slug:
 permalink:
+redirect_from:
 excerpt: 
 categories:
 tags: - 
