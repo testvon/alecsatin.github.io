@@ -105,12 +105,12 @@ According to the designer Rob Janoff, it is not a reference to the computing ter
 1 byte =8 bits
 8(Eight) bits,or binary digit can be used to represent ,two states of information;
 
-ONE/ZERO
-ON/OFF
-TRUE/FALSE
-MALE/FEMALE
-IGNORANCE/KNOWLEDGE
-GOOD/EVIL
+- ONE/ZERO
+- ON/OFF
+- TRUE/FALSE
+- MALE/FEMALE
+- IGNORANCE/KNOWLEDGE
+- GOOD/EVIL
 
 The more bytes, more intelligence, the more information you can store or process faster.
 
