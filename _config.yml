@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Comfort for Christians"
 title_separator          : "-"
 name                     : "Alec Satin"
-description              : "Writings about Biblical Orthodoxy, the Spirit of the Age, and faith. Encouraging songs.  Good books.  Personal memoirs.  Hope for the suffering and Good News for all of us who believe in Him."
+description              : "Writes about Biblical Orthodoxy, the spirit of the age, and living faith. Loves the old songs."
 url                      : "https://alecsatin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alecsatin/alecsatin.github.io"
@@ -45,9 +45,9 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   :  # blank (default) uses feed.xml
+  path                   :  "/feed/index.xml"   # blank (default) uses feed.xml
   title: "Comfort for Christians | Writings by Alec Satin"
-  description: "Writings about Biblical Orthodoxy, the Spirit of the Age, and faith. Encouraging songs.  Good books.  Personal memoirs.  Hope for the suffering and Good News for all of us who believe in Him."
+  description: "Writings about Biblical Orthodoxy, the spirit of the age, and living faith. No matter what you grapple with in your life, God's grace and goodness can be made manifest in you. This is his will for all his children."
 
 # SEO Related
 google_site_verification :
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Alec Satin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<a href='/writings/'>Writes</a> about <a href='/biblical-orthodoxy/'>Biblical Orthodoxy</a>, the <a href='/spirit-of-the-age/'>spirit of the age</a>, and <a href='/memoirs/'>living faith</a>.  Loves the old <a href='/songs/'>songs</a>."
+  bio              : "Writes about Biblical Orthodoxy, the spirit of the age, and living faith. Loves the old songs."
   location         :
   email            :
   uri              :
