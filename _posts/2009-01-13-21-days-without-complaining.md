@@ -79,4 +79,4 @@ Are you willing to continue until you reach 21 days of no complaining?
 
 Let me know what you think in the comments.
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

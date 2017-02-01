@@ -18,13 +18,16 @@ nav-left:
         url: /biblical-orthodoxy/
       - title: "Personal writings"
         url: /memoirs/
+      - title: "Have you ever wondered..."
+        url: /ever-wonder/
       - title: "For the suffering"
         url: /for-the-suffering-christian/
+
   - title: Comfort
     children:
       - title: "Songs to uplift"
         url: /songs/
-      - title: "Recommended reading"
+      - title: "Some books"
         url: /books/
   - title: Other writings 
     children:
@@ -39,8 +42,10 @@ nav-left:
       - title: "Statement of faith"
         url: /beliefs/   
 
-  - title: Website 
+  - title: Miscellaneous pages 
     children:
+      - title: "Search"
+        url: /search
       - title: "Contact"
         url: /contact/    
       - title: "Subscribe"

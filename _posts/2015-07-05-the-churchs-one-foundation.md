@@ -28,4 +28,4 @@ This version is sung by St.Andrew's Church, Egmore, Chennai, Tamil Nadu , India.
 
 _Thank you dear Lord for your love and protection.  Help your true church.  Keep us strong in faith, hope and charity.  In Jesus' precious name.  Amen._
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

@@ -63,4 +63,4 @@ raise the glorious harvest home.
 
 Henry Alford (1844)
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

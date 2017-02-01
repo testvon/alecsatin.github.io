@@ -235,4 +235,4 @@ May you continue to be healthy and well.
 
 Alec
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

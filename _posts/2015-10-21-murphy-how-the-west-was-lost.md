@@ -23,4 +23,4 @@ tags:
 > 
 > We sometimes have to “pinch” ourselves to remember that society once had roots in a universe that knew something of moral absolutes, where the horrible behaviors we now read about in every morning newspaper were so rare that one such event in a year would have felt like the world is just about to end.  But these things are what passes for “normalcy” today.  We are still able to be reminded of what we know in our bones, although it gets harder all the time: something has gone terribly wrong. -Patrick Michael Murphy
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

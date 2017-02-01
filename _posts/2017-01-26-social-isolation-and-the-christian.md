@@ -80,4 +80,4 @@ If you are socially isolated, please make a decision to do everything you can to
 
 God bless you, and keep you, and make his face to shine upon you, and give you rest.  *Amen*.
 
-<div>Originally published at: <a href="/">Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

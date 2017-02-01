@@ -116,4 +116,4 @@ If you pastor believes these things, you are not in a wholesome church.
 
 [^6af0dcd0]: Patsy Leppien and J. Kincaid Smith's 1992 book _What's going on among the Lutherans_
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

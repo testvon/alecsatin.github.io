@@ -75,4 +75,4 @@ _Thank you my dear God, for the time you gave these loved ones, and for the bles
 
 > Jesus wept.  -John 11.35
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

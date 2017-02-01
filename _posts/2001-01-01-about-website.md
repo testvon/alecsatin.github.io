@@ -53,4 +53,4 @@ The post from 2016, [Why I unsubscribed from my friend's blog](/memoirs/why-i-un
 
 It's my opinion that **Left** and **Right** as they are presently construed have little overlap with **Classical Liberalism** or **Traditional Conservatism**.  Programmed words like **red state**, **blue state**, **Republican**, and **Democrat** are like teams one joins or hates.  Overweening self-righteousness, jingoism, and do-goodism are a heady mix.  And those who have or desire power love to utilize such energies for their own ends.  Let them.  For you and I, let us render to Caesar the things that be Caesar's and render to God the things that be God's (Mark 12:17).
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

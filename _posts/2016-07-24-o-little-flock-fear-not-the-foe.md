@@ -75,4 +75,4 @@ Tune: "Kommt her zu mir"
 Melody: German, c. 1400
 
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

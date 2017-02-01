@@ -75,4 +75,4 @@ How I long for that blessed day when we will be reunited with all those we've lo
 
 Please enjoy this heartfelt rendition by the Covenant Presbyterian Church of Huntsville.  And may you be richly blessed today in your worship of our great and merciful Lord.  Amen.
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

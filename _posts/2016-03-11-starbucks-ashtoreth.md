@@ -195,4 +195,4 @@ Wherefore, my dearly beloved, flee from idolatry. I speak as to wise men; judge 
 
 ![Ashtoreth modern]({{ site.url }}{{ site.baseurl }}/assets/images/modern-ashtoreth.jpg)*Ashtoreth disguised in plain sight?*
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

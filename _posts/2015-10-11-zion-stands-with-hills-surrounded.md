@@ -58,4 +58,4 @@ Author: Thomas Kelly, 1806, cento
 Composer: Thomas Morely, 1891
 Tune: "Zion"
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

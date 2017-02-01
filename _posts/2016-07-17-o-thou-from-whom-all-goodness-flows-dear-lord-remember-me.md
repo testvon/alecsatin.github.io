@@ -80,4 +80,4 @@ Tune: "St. Bernard"
 1st Published in: Tochter Zion
 Town: Cologne, 1741
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

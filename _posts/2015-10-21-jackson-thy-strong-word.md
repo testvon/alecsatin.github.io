@@ -35,4 +35,4 @@ tags:
 > 
 > Some people will object that Thy Strong Word is not an ordinary theology book. I intended to collect and use as much material as possible, from as many sources as possible, to promote confidence in the efficacy of the Word. -Gregory Jackson, from the introduction.
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

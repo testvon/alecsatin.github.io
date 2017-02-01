@@ -47,4 +47,4 @@ The Lord bless you and keep you, Mitchell, may he shine his face upon you and gi
 
 Alec
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

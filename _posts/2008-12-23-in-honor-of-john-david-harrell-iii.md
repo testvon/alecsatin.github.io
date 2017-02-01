@@ -40,4 +40,4 @@ Thank you for all the times we shared.
 
 May our paths cross again on other shores than these, in that place where we shall remember our tears no more, and where God will wipe every tear from our eyes.  In Jesus' name, Amen.
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

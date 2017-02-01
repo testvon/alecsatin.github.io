@@ -96,4 +96,4 @@ My personal belief is that the project manager can almost never err on the side 
 Wish you well.
 Alec
 
-<div>Originally published at: <a href='/'>Comfort for Christians</a></div>
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
