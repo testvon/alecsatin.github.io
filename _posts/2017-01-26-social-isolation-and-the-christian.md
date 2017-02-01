@@ -79,4 +79,4 @@ If you are socially isolated, please make a decision to do everything you can to
 > If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and does not find fault; and it shall be given him. (James 1:5)
 
 God bless you, and keep you, and make his face to shine upon you, and give you rest.  *Amen*.
-<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
+<div>Originally published at: <a href="/" class="btn">Comfort for Christians</a></div>
