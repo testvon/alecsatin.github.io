@@ -45,7 +45,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   :  "/feed/index.xml"   # blank (default) uses feed.xml
+  path                   :  # blank (default) uses feed.xml
   title: "Comfort for Christians | Writings by Alec Satin"
   description: "Writings about Biblical Orthodoxy, the spirit of the age, and living faith. No matter what you grapple with in your life, God's grace and goodness can be made manifest in you. This is his will for all his children."
 
