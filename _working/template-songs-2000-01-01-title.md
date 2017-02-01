@@ -3,7 +3,7 @@ title: ""
 date: 2017-01-29 12:57
 header:
   video:
-    id: qucc8BNu83o
+    id:
     provider: youtube
 excerpt: ""
 categories: songs

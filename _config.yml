@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Alec Satin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Writes about Biblical Orthodoxy, the spirit of the age, and faith.  Reader.  Knitter.  Loves the old songs."
+  bio              : "Writes about Biblical Orthodoxy, the spirit of the age, and faith.  Loves the old songs."
   location         :
   email            :
   uri              :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alecsatin"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -244,7 +244,7 @@ defaults:
     values:
       layout: single
       author: "Alec Satin"
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -259,7 +259,7 @@ defaults:
     values:
       layout: single
       author: "Alec Satin"
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
