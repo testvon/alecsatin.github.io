@@ -1,7 +1,7 @@
 ---
 title: Trevor Hammack - Deleted
 date: 2015-06-25 07:00:34+00:00
-excerpt: 
+excerpt: "A separation needs to be made between what disqualifies a man from being a pastor, and what eliminates a man's credibility as a journalist.  If a minister commits adultery, and this is a proven case, then the man should step down as a pastor."
 redirect_from: 
   - /trevor-hammack-deleted/
 categories: spirit-of-the-age
