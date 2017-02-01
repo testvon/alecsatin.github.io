@@ -46,3 +46,5 @@ Why did I unsubscribe?  Because my nation is lost and there's little point in tr
 The Lord bless you and keep you, Mitchell, may he shine his face upon you and give you rest, through Jesus Christ, his son, our Lord.  Amen.
 
 Alec
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

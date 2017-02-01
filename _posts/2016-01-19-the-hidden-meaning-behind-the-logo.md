@@ -144,3 +144,5 @@ The story of this logo, find its way in to the popular culture and continue to r
 # Steve Wozniak 
 
 Steve Wozniak is also a sworn member of the Freemasons. Wozniak describes his impetus for joining the Freemasons as being able to spend more time with his wife at the time, Alice. Alice belonged to the Order of the Eastern Star, associated with the Masons. He says that although he took the necessary oaths and is a lifetime Freemason, he doesn't actually put a whole lot of stock in the mystical and religious overtones of the oath or the order. He says that he joined the Freemasons for one specific purpose, but he is very unlike the other members of the order. He says he quickly rose to a third degree Freemason because, whatever he does, he tries to do well. He was initiated in 1980 at Charity Lodge No. 362 in Campbell, California
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

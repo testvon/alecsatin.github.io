@@ -67,3 +67,5 @@ Years ago I gave my heart to Jesus and was reborn. My life has not been a good e
 
 I love you, Sandy.
 Alec
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

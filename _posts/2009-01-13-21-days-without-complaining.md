@@ -78,3 +78,5 @@ Would you start today and take it with me?
 Are you willing to continue until you reach 21 days of no complaining?
 
 Let me know what you think in the comments.
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

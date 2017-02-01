@@ -73,3 +73,6 @@ Translated by: Catherine Winkworth, 1855, alt.
 Titled: "Verzage nicht, du Haeuflein klein"
 Tune: "Kommt her zu mir"
 Melody: German, c. 1400
+
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

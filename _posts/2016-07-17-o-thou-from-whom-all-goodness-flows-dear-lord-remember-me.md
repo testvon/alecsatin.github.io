@@ -79,3 +79,5 @@ Author: Thomas Haweis, c. 1791, alt., ab.
 Tune: "St. Bernard"
 1st Published in: Tochter Zion
 Town: Cologne, 1741
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

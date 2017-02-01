@@ -76,3 +76,6 @@ Author: Christian L. Scheidt, 1742, cento
 Titled: "Aus Gnaden soll ich selig werden"
 Composer: Kornelius H. Dretzel, 1731
 Tune: "O dass ich tausend"
+
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

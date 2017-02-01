@@ -23,3 +23,5 @@ Remaining text
 # Lyrics
 
 # Source
+
+<div>Originally published at: <a href="/">Comfort for Christians</a></div>

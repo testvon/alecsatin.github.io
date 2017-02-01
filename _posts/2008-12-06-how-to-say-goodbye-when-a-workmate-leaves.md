@@ -128,3 +128,5 @@ Twitter: alecsatin
 
 May you have a good week.
 Alec
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

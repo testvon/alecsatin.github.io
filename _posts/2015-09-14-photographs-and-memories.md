@@ -74,3 +74,5 @@ I’m neither a picture-taker nor -saver.  I’ve always preferred the moment.  
 _Thank you my dear God, for the time you gave these loved ones, and for the blessing of family.  Please continue to save, and have mercy on those that remain, that they would trust and believe on the Lord Jesus Christ.  Amen._
 
 > Jesus wept.  -John 11.35
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

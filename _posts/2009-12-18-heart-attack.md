@@ -234,3 +234,5 @@ Quite an experience. Appreciate your posting it.
 May you continue to be healthy and well.
 
 Alec
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

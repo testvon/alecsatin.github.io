@@ -57,3 +57,5 @@ Text: Ps. 125:2
 Author: Thomas Kelly, 1806, cento
 Composer: Thomas Morely, 1891
 Tune: "Zion"
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

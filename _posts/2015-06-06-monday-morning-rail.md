@@ -36,3 +36,5 @@ The truly innocent ones among us who actually stand up for freedom and justice a
 
 
 Dear friends, there really was a time of wonder, of hope, of a future.  May God have mercy on us and show us the way back.  Amen.
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

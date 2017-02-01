@@ -194,3 +194,5 @@ Wherefore, my dearly beloved, flee from idolatry. I speak as to wise men; judge 
 *But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils. (1 Corinthians 10:20)*
 
 ![Ashtoreth modern]({{ site.url }}{{ site.baseurl }}/assets/images/modern-ashtoreth.jpg)*Ashtoreth disguised in plain sight?*
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

@@ -74,3 +74,5 @@ I first came upon this hymn while browsing through *Hymns Ancient and Modern* in
 How I long for that blessed day when we will be reunited with all those we've loved who've gone to sleep in the Lord.  We'll meet brothers and sisters of like precious faith whom we've never known.  What joy we shall have then, when we will forever be with our Lord.
 
 Please enjoy this heartfelt rendition by the Covenant Presbyterian Church of Huntsville.  And may you be richly blessed today in your worship of our great and merciful Lord.  Amen.
+
+<div>Originally published at: <a href='/'>Comfort for Christians</a></div>

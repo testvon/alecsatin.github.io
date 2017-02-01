@@ -9,4 +9,6 @@ categories:
 tags: - 
 ---
 {% include toc title="Contents" icon="book" %}
-content here
+
+
+<div>Originally published at: <a href="/">Comfort for Christians</a></div>
