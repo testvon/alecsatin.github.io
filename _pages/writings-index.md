@@ -7,18 +7,23 @@ excerpt: "Writings on Comfort for Christians - Alec Satin"
 ---
 - [Biblical Orthodoxy](/biblical-orthodoxy/)
 - [Personal writings](/memoirs/)
-- [For the suffering](/for-the-suffering-christian/)
 - [Have you ever wondered...](/ever-wondered/)
+- [For the suffering](/for-the-suffering-christian/)
+- [The spirit of the Age](/spirit-of-the-age/)
     
 # Helps
-- [Songs to uplift](/songs/)
+- [Songs](/songs/)
+- [Cats, dogs, lemurs](/cats-dogs-lemurs/)
 - [Some books](/books/)
+- [Honor](/honor/)
 
-# Other writings
-- [The spirit of the Age](/spirit-of-the-age/)
-
-# Miscellaneous pages
+# About
 - [About the website](/about-website/)
 - [About the author](/about)
 - [Statement of faith](/beliefs/)
-- [Contact](/contact/)      
+
+# Miscellaneous pages
+- [Search](/search/)
+- [Contact](/contact/)
+- [Subscribe](/subscribe/)
+- [Sitemap](/sitemap/)

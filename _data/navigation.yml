@@ -1,13 +1,15 @@
 # top navigation menu
 main:
+  - title: "...and non-Christians, too"
+    url: /website/for-non-christians/
   - title: "Recent posts"
-    url: /
+    url: /    
   - title: "Writings"
     url: /writings/
-  - title: "About"
-    url: /about-website/
   - title: "Search"
     url: /search/
+  - title: "About"
+    url: /about-website/
   - title: "Archives"
     url: /categories/
 # left side navigation menu
@@ -24,9 +26,9 @@ nav-left:
         url: /for-the-suffering-christian/
       - title: "The spirit of the Age"
         url: /spirit-of-the-age/
-  - title: Comfort
+  - title: Helps
     children:
-      - title: "Songs to uplift"
+      - title: "Songs"
         url: /songs/
       - title: "Cats, dogs, lemurs"
         url: /cats-dogs-lemurs/
