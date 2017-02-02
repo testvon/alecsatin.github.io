@@ -14,25 +14,26 @@ main:
 nav-left:
   - title: Writings
     children:
-      - title: "Biblical Orthodoxy"
-        url: /biblical-orthodoxy/
       - title: "Personal writings"
         url: /memoirs/
-      - title: "Have you ever wondered..."
+      - title: "Biblical Orthodoxy"
+        url: /biblical-orthodoxy/
+      - title: "Ever wondered..."
         url: /ever-wonder/
       - title: "For the suffering"
         url: /for-the-suffering-christian/
-
+      - title: "The spirit of the Age"
+        url: /spirit-of-the-age/
   - title: Comfort
     children:
       - title: "Songs to uplift"
         url: /songs/
+      - title: "Cats, dogs, lemurs"
+        url: /cats-dogs-lemurs/
       - title: "Some books"
         url: /books/
-  - title: Other writings 
-    children:
-      - title: "The spirit of the Age"
-        url: /spirit-of-the-age/
+      - title: "Honor"
+        url: /honor/
   - title: About 
     children:
       - title: "About the website"
@@ -41,7 +42,6 @@ nav-left:
         url: /about/
       - title: "Statement of faith"
         url: /beliefs/   
-
   - title: Miscellaneous pages 
     children:
       - title: "Search"
@@ -52,7 +52,6 @@ nav-left:
         url: /subscribe/  
       - title: "Sitemap"
         url: /sitemap/  
-    
   - title: Disclaimer
     children:
       - title: "Nothing presented is intended to convey legal, medical, psychological, or professional advice of any kind."
