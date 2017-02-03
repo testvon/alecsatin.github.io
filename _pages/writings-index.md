@@ -7,7 +7,7 @@ excerpt: "Writings on Comfort for Christians - Alec Satin"
 ---
 - [Biblical Orthodoxy](/biblical-orthodoxy/)
 - [Personal writings](/memoirs/)
-- [Have you ever wondered...](/ever-wondered/)
+- [Have you ever wondered...](/ever-wonder/)
 - [For the suffering](/for-the-suffering-christian/)
 - [The spirit of the Age](/spirit-of-the-age/)
     
