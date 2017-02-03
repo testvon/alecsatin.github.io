@@ -37,7 +37,7 @@ header:
 <p>May the things you find here be a help and encouragement to you now and in the future.  -Alec Satin</p>
 
 </section>
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<a name="recent-posts"></a><h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
