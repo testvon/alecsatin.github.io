@@ -2,55 +2,80 @@
 title: "Website history"
 date: 2001-01-01 08:00
 slug: about-website
+header:
+  image: /assets/images/christian-pilgrims-progress.jpg
+  caption: "Christian on his journey, from John Bunyan's *Pilgrim's Progress*"
 permalink: /about-website/
-excerpt: "About Comfort for Christians, help for anxious Christians, encouragement, resources, writings on faith"
+excerpt: "About Alec Satin's Comfort for Christians website, personal writings on biblical orthodoxy, living with faith and the spirit of the age."
 categories: website
 tags:
 modified: 2017-01-30 15:37
 ---
 {% include toc title="Contents" icon="book" %}
 
-[Alecsatin.com](http://www.alecsatin.com) launched in 2002.  Over the years [your author](/about/) has taken long journeys off the path, much like the protagonist "Christian" in John Bunyan's *Pilgrim's Progress*.
+In the time since the first version of [www.alecsatin.com](http://www.alecsatin.com) was launched in 2002, [your author](/about/) - just like John Bunyan's character *Christian* - has taken long unfortunate journeys off the straight and narrow path.
 
-This site has mirrored some of those detours - through counseling psychology, experiential trance states, and tarot.  For a time the focus was a vocational one, on software project management.  You may well wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we are here.
+# Detours and a common thread
 
-In the end, Bunyan's Christian succeeded in his journey through the intercession of his gracious Lord through the helping hands of real people along the way.  In like manner faithful Christian friends acting in accordance with the all-powerful Word continue to be there for me.  
+This site has mirrored some of those detours.  Counseling psychology, experiential trance states, and tarot have all been featured.  For a time the content was work-related as I plunged headlong into software project management.  
 
-With these words and reflections I hope to be here for you.
+You may wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we have here on earth.
 
-# While it's yet day
-
-In 2015 and 2016 the site operated under the title *While it's yet day*.  The 300 or so posts written at that time were an effort to record my observations on American society and the state of Evangelicalism.  
+In the end, Bunyan's *Christian* succeeded in his journey to the celestial city.  He was helped through the intercession of his gracious Lord working through people he met along the way.  In like manner faithful Christian friends have cared for me up again and again, and especially in those times when my strength has failed.
 
 # The thinking behind Comfort for Christians
 
-Throughout my life as an American Christian I've found it difficult to find a place in the "organized" church.  Introverted, private, a sometime-loner, and having lost many of my family and friends to that great curse which afflicts all mankind (physical death), it's my suspicion that there are other Christians who suffer privately and quietly in similar ways.   My goal is to provide you with an ongoing resource and place of encouragement.  I'm here as a brother in Christ to support you in your faith.
+Throughout my years as an American Christian I've found it difficult to find a comfortable place in the *organized church*.  Introverted, private, a kind-of loner, and having lost most of my family and many friends to that great curse which afflicts us all (physical death), it's my belief that there are other Christians who suffer privately and quietly in similar ways.   My hope is that you'll find this site an ongoing resource and source of encouragement..  
 
-# Why I left Wordpress for Jekyll
+I'm here as a brother in Christ to support you in your faith.
+
+# Why I left Wordpress after 15 years
 
 ## Security issues
-Over the last year, 3900 IP addresses were banned for trying to hack into my Wordpress site.  Dealing with this is a complete waste of time.  Goodbye Wordpress means saying sayonara to this hassle.
+In the last year, 3900 IP addresses were banned for trying to hack into my self-hosted Wordpress site.  Dealing with security concerns causes stress and eats up time.  
 
-## Speed issues and other distractions
-Wordpress is slow.  Caching, plugins, maintenance, all were distractions.  By moving to a static, non-database platform, you should notice a speed advantage.  I'll be able to focus on what I'm trying to say, and not the neediness of the software.
+## Maintenance issues
+Almost everything in Wordpress requires extra plugins and/or custom coding.  These plugins are updated regularly.  Each update needs to be checked to make sure it doesn't break something else.  
 
-## Where are the pretty pictures?
-Images rarely add to the quality of the information a blog such as this one can provide.  You can find pretty pictures everywhere.  The only images here going forward will be those germane to and necessary for the message being conveyed.
+## Speed issues
+Wordpress is an amazing piece of database software.  But even with a caching plugin, it is slow.  
 
-## Wordpress likes
-That *like button* was a function of automattic and wordpress and so could not come along with us to this new platform.  If you find yourself wanting to *like* a post, please share it using one of the buttons at the end of the post, make a comment, or [drop me a message](/contact/).  It takes a smidgen more effort.  But it makes a bigger impact than a *like* ever could.
+# Hello Jekyll
+
+Jekyll is software which generates static-page websites.  Think *Front Page* for the twenty-first century.  By eliminating most of the back-end distractions, I'll be able to focus on what I'm trying to say, and not the neediness of the software.
+
+By moving *Comfort for Christians* you should notice a speed advantage whether you are reading on a laptop, tablet, or phone.
+
+# Where are the pretty pictures?
+Trying to find copyright-free images to match each blog post took ridiculous amounts of time.  Such images rarely add to the quality of the information a blog like this one can provide.
+
+# What happened to the *like buttons*?
+
+Those *like buttons* were hooked up to wordpress dot com and so could not come along with us to Jekyll.
+
+If you find yourself wanting to *like* a post, (and I hope you do), please [share it](#share) using one of the buttons included.  It takes a little more effort than the like button.  But it encourages the author (each time) and has a greater potential to let the material be seen by others than a *like* ever could.
+
+And you can always comment.  Something as short as, *I like it.* is A-OK.
 
 ## Comments
-The new commenting system is active now.  A subscribe to comments feature is in the works.  This will notify you (if you request) when someone replies to a post to which you've made a comment.
+
+Commenting is active now.  A subscribe to comments feature is in the works. 
 
 ## Old posts
-The posts from *While it's yet day* have been archived off-line.  As time permits they are being reviewed for tone and content.  Some will be added back here in original or modified form.
+The posts from *While it's yet day* have been archived off-line.  As time permits they are being reviewed for tone and content.  Some are being added back.
 
-If you would like to see a post you remember, even vaguely, [send me a note](/contact/).  I'll see what I can do to bring it back online.
+If you'd like to see a post you remember but can't find, [send a note](/contact/).  
 
 # A word about politics
-The post from 2016, [Why I unsubscribed from my friend's blog](/memoirs/why-i-unsubscribed-from-my-friends-blog/), captured some of my reasons for stepping away from politics.  My thinking is still developing, but any writings along those lines will be framed from a larger historical perspective and may be found under the category [spirit of the age](/spirit-of-the-age/).  This should enable us (I hope) to be able to consider the issues as Christian citizens of that heavenly kingdom with a minimum of rancor and division.
 
-It's my opinion that **Left** and **Right** as they are presently construed have little overlap with **Classical Liberalism** or **Traditional Conservatism**.  Programmed words like **red state**, **blue state**, **Republican**, and **Democrat** are like teams one joins or hates.  Overweening self-righteousness, jingoism, and do-goodism are a heady mix.  And those who have or desire power love to utilize such energies for their own ends.  Let them.  For you and I, let us render to Caesar the things that be Caesar's and render to God the things that be God's (Mark 12:17).
+The post from 2016, [Why I unsubscribed from my friend's blog](/memoirs/why-i-unsubscribed-from-my-friends-blog/), captures some of my reasons for stepping away from politics.  Like some of you I am sick to death of it all.
+
+While my thinking on this subject is still developing, you can expect significantly fewer posts of a political bent.  Any writings along those lines will be framed from a larger historical perspective.  This should enable us to consider the issues as Christian citizens of that heavenly kingdom with a minimum of rancor and division.
+
+It's my opinion that *Left* and *Right* as they are presently construed are significantly different than *classical Liberalism* or *traditional Conservatism*.  Programmed words like *red state*, *blue state*, *Republican*, and *Democrat* are like teams one joins or hates.  Pride, self-righteousness, jingoism, and do-goodism are a heady mix which seem to be overtaking people on all sides.  And those who have or desire power love to utilize these energies for their own ends.  
+
+Let them.  
+
+For you and I, let us render to Caesar the things that be Caesar's and render to God the things that be God's (Mark 12:17).
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

@@ -2,8 +2,8 @@
 date: 2016-03-04 17:42:44+00:00
 redirect_from: 
   - /censorship-and-online-christian-discussion/
-title: Rudeness and civility in Christian comments and moderation
-excerpt: "Josh and Rev N have challenged me to think more deeply about the issues of comment moderation, blog censorship and the nature of Christian conversation. How can we be less like the world in our online speech?"
+title: Is comment moderation the same as censorship?
+excerpt: "Josh and Rev N have challenged me to think more deeply comments and moderation.  Are websites a free speech zone?  Should rudeness be tolerated? There must be a way for us to show grace in online speech."
 header:
   image: assets/images/rudeness-civility-christian-comment-moderation.jpg
   caption: 
@@ -25,9 +25,7 @@ tags:
 ---
 {% include toc title="Contents" icon="book" %}
 
-Over the last few weeks I've been barraged by angry messages, most of which have not appeared on the blog.  Josh and Rev N have challenged me to think more deeply about the issues of comment moderation, blog censorship and the nature of Christian conversation.  I'm not sure how wrong I've been in my actions, but am willing to change my stance going forward.
-
-If you have anything to add to this discussion, your contributions will be most welcome. 
+From time to time this site is drowned in angry messages.  If they are rude, crude, or abusive, they do not appear on the blog.  Josh and Rev N have challenged me to think about the limits of free speech on private blogs.  I'm not sure how wrong I've been in my actions, but am willing to change my stance going forward.  If you have anything to add to this discussion, your contributions will be most welcome. 
 
 - How can we be less like the world in our online speech?
 - How can we be faithful to the Word of God, while being kind to one another?
@@ -52,11 +50,9 @@ One error I've made is to assume that others share my assumptions of what consti
 
 
 
-Ducky is known around the web.  In a comment thread on a political blog Ducky tried to discredit me by revealing my past history of [reading tarot cards](/memoirs/tarot-cards/). This had nothing to do with what was being discussed.  Ducky revealed it only to smear me and derail the conversation.
+In a comment thread on another blog Ducky tried to discredit me by revealing my past history of [reading tarot cards](/memoirs/tarot-cards/). This had nothing to do with what was being discussed.  Ducky revealed it only to smear me and derail the conversation.
 
-On this blog, Ducky is given a large amount of leeway.  He is annoying at times.  But he is not dangerous.  He does not attack true Christian faith.
-
-Ducky is of the world.  He makes no pretense of being a Christian.  How much better the online behavior should be of those who call themselves Christians!
+Ducky makes no pretense of being a Christian.  He has many valuable things to say, such as his [comment on *Photographs and memories*](http://localhost:4000/memoirs/photographs-and-memories/#comment5).  It really surprised me that he took such a cheap shot.
 
 
 
@@ -66,26 +62,24 @@ Ducky is of the world.  He makes no pretense of being a Christian.  How much bet
 
 
 
-Dan Trabue is a deceptive man.  He presents himself as an innocent Christian lamb who only wants to spread peace and love.  The reality is quite different.  He's left a long trail over years of contrary behavior.  When people catch on to his game, he zeroes in with invective and abuse.
+Dan Trabue presents himself as an innocent Christian lamb who only wants to spread peace and love.  Yet he's been banned from many Christian blogs for years behavior to the contrary.  When people catch on to his game, he zeroes in with invective and abuse.  
 
-On the [While it's yet day version of this website](/about-website/) there was a page with extensive documentation about Dan Trabue.  He objected that the page might interfere with his ability to get a new job.  I therefore removed the page.  If he resumes his aggressive behavior against orthodox Biblical Christians, the page *About Dan Trabue* will go back up.  
+On the [While it's yet day version of this website](/about-website/) there was a page with extensive documentation about Dan Trabue.  He objected that the page might interfere with his ability to get a new job.  Out of kindness to him, the page has been removed under the condition that he stops his aggressive behavior against orthodox Biblical Christians.  If he crosses my path again,  the page *About Dan Trabue* will go back up.  
 
 Some information about him is still availble online [here](https://1eternitymatters.wordpress.com/2011/05/03/false-teacher-profile/). 
 
 
-## 3. Rev. N.
+## 3. Rev. N
 
 
 
 
 
-N. is a retired Lutheran pastor who has made many helpful and germane comments.  In February he submitted a long (190 word) comment which was barely related to the subject of the post.  It was harshly critical of the government.  And it brought in the topic of geostationary universal rotation.
+Rev. N is a retired Lutheran pastor who made many helpful comments.  Then one day he submitted a long entry of 190 words unrelated to the subject of the post.  The comment was harshly critical of the government.  And it brought in the topic of *geocentricity*.
 
-The resulting email exchange became a character assassination attack on me.  This otherwise kind and respectful Christian man suddenly seemed unwilling to give me any benefit of the doubt.  I had made the mistake of referring to his comment as *flat earth* instead of *geocentric*.  
+The resulting email exchange became a character assassination attack on me.  This otherwise kind and respectful Christian man suddenly seemed unwilling to give me any benefit of the doubt because I had wrongly misunderstood his comment to be relating to *flat earth*.
 
-Let me publicly apologize to this brother for tagging him with a "flat earth" label when he believes in "geocentric earth".  I am also sorry for offending him so deeply by moderating his comment.
-
-Let's move on.
+I was wrong for misreading what he said, and have apologized to him.  
 
 ## 4. Don Vega 
 
@@ -93,9 +87,9 @@ Let's move on.
 
 
 
-Don Vega's response to [this week's earlier post](/biblical-orthodoxy/apostate-christian-comments/) was unsurprisingly harsh.  There was little evidence of Christian grace in his comments at [Extra Nos](http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html).  And none at all in his communications to me.
+Don Vega left a harsh and abusive comment which showed little evidence of Christian grace.  You can see a somewhat less aggressive tone in his comments at [Extra Nos](http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html).
 
-When his comment did not appear on the post, he proceeded to [slander me online](http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html?showComment=1457026856192#c8430463623354438463). He also continued to paper me with email messages after 3 separate requests for him not to contact me again.  I can't print the profanity and other un-Christian language he used.
+When his comment did not appear on this blog, he proceeded to [slander me online](http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html?showComment=1457026856192#c8430463623354438463). He also continued to paper me with email messages after 3 separate requests for him not to contact me again.  I can't print the profanity he used.
 
 Here's my [public response](http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html?showComment=1457028187014#c5839851054149582370):
 

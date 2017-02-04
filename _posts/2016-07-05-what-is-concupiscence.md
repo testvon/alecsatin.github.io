@@ -2,7 +2,7 @@
 title: What is concupiscence?
 date: 2016-07-05 12:30:12+00:00
 excerpt:  
-categories:  biblical-orthodoxy
+categories:  ever-wonder
 redirect_from: /what-is-concupiscence/
 tags:
 - If you love yourself as the world loves you are proving concupiscence.
