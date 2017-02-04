@@ -16,14 +16,14 @@ main:
 nav-left:
   - title: Writings
     children:
-      - title: "Personal writings"
-        url: /memoirs/
       - title: "Biblical Orthodoxy"
         url: /biblical-orthodoxy/
-      - title: "Ever wondered..."
+      - title: "Have you ever wondered..."
         url: /ever-wonder/
       - title: "For the suffering"
         url: /for-the-suffering-christian/
+      - title: "Personal writings"
+        url: /memoirs/
       - title: "The spirit of the Age"
         url: /spirit-of-the-age/
   - title: Helps
