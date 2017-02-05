@@ -5,6 +5,8 @@ excerpt: "A separation needs to be made between what disqualifies a man from bei
 redirect_from: 
   - /trevor-hammack-deleted/
 categories: spirit-of-the-age
+header:
+  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
 tags:
 - pastors
 - news-media

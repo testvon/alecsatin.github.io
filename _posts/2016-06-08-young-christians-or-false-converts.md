@@ -4,6 +4,7 @@ redirect_from:
   - /young-christians-or-false-converts-you-decide/
 title: Young Christians or false converts? You decide.
 header:
+  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
   video:
     id: VZkgY-bP7yk
     provider: youtube

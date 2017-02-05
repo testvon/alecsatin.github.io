@@ -5,6 +5,8 @@ redirect_from:
 title: 21 Days Without Complaining?
 excerpt: "A long time ago on a contract far, far away, our PMO lead took us to task.  You are all focusing on what is wrong."
 categories: old-stuff
+header:
+  teaser: "/assets/images/category-old-stuff-grey.png"
 tags:
 - complaining
 - negativity

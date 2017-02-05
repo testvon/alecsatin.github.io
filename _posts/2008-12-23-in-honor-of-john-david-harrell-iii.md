@@ -5,6 +5,8 @@ redirect_from:
   - /in-honor-of-john-david-harrell-iii-aug-26-1957-june-30-2008/
 excerpt: "On hearing the news, one of our mutual friends, John Wotherspoon, said, I think about that guy every day. How can it be that he is gone?"
 categories: memoirs
+header:
+  teaser: "/assets/images/category-memoirs-grey.png"
 tags: 
   - death
   - loss

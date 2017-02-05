@@ -4,6 +4,8 @@ redirect_from:
   - /did-jesus-believe-the-old-testament/
 title: Did Jesus believe the Old Testament was historically true?
 categories: ever-wonder
+header:
+  teaser: "/assets/images/category-ever-wonder-grey.png"
 tags:
   - inerrancy
   - infallibility

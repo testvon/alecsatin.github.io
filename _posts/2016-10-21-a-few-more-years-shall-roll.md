@@ -2,10 +2,11 @@
 title: "A few more years shall roll"
 date: 2016-10-21 06:00
 header:
+  teaser: "/assets/images/category-song-grey.png"
   video:
     id: fwwtF66AM80
     provider: youtube
-categories: songs
+categories: song
 redirect_from:
   - /a-few-more-years-shall-roll/
 tags:

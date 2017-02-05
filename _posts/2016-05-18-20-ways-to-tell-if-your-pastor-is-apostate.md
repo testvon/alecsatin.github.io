@@ -4,6 +4,8 @@ title: Is your pastor apostate? Twenty ways to tell
 redirect_from:
   - /20-ways-to-tell-if-your-pastor-is-apostate/
 categories: ever-wonder
+header:
+  teaser: "/assets/images/category-ever-wonder-grey.png"
 tags:
   - Church
   - Pastor

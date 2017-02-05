@@ -2,8 +2,9 @@
 title: How the West was lost - Coping with life in a strange, new civilization by Patrick Michael Murphy
 date: 2015-10-21
 excerpt: ...the Western civilization that produced America and Europe has been replaced, in our lifetime, and before our very eyes.  
-categories:
-  - books
+categories: books
+header:
+  teaser: /assets/images/category-books-grey.png
 tags:
   - Worldview
   - Enlightenment

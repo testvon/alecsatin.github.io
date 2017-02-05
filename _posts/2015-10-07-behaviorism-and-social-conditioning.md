@@ -5,6 +5,8 @@ excerpt: "Marketers seek to plant in you feelings of fear, lust, hate.  The most
 redirect_from: 
   - /shop-hate-fear/ 
 categories:  spirit-of-the-age
+header:
+  teaser: /assets/images/category-spirit-of-the-age.png
 tags:  
   - corporatism
   - social-conditioning

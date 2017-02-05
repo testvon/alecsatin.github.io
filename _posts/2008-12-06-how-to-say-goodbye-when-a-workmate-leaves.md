@@ -5,6 +5,8 @@ redirect_from:
   - /how-to-say-goodbye-when-a-workmate-leaves/
 excerpt: "Transitioning relationships from work into other parts of our lives requires a little work – but can happen.  It won’t happen automatically."
 categories: old-stuff
+header:
+  teaser: "/assets/images/category-old-stuff-grey.png"
 tags:
 - work
 - corporate-life

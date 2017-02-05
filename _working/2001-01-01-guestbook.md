@@ -5,6 +5,8 @@ excerpt: ""
 slug: guestbook
 permalink: /guestbook/
 categories: website
+header:
+  teaser: "/assets/images/category-website-grey.png"
 read_time: false
 tags:
 #  -

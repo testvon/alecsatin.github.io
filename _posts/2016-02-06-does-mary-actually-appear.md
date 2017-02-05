@@ -4,6 +4,8 @@ redirect_from:
   - /does-mary-actually-appear/
 title: Does Mary actually appear to people?
 categories: ever-wonder
+header:
+  teaser: "/assets/images/category-ever-wonder-grey.png"
 tags:
   - Mary
   - saints

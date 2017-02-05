@@ -5,10 +5,12 @@ redirect_from:
   - /heard-on-the-streets-of-nyc/
 excerpt:  
 header:
+  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
   video:
     id: 27791873
     provider: vimeo
-categories:  spirit-of-the-age
+categories: spirit-of-the-age
+
 tags:  
   - youth
   - ignorance

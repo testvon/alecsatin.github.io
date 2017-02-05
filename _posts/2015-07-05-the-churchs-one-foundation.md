@@ -2,6 +2,7 @@
 title: The Church's One Foundation
 date: 2015-07-05 07:00:55+00:00
 header:
+  teaser: "/assets/images/category-song-grey.png"
   video:
     id: b0hieUU_jz4
     provider: youtube
@@ -10,7 +11,7 @@ excerpt: '"The Church''s One Foundation" was written in response to a serious he
   in the faith and knowledge that God Himself chooses people from every nation. [...]'
 redirect_from: 
   - /the-churchs-one-foundation/
-categories: songs
+categories: song
 tags:
   - The-Lutheran-Hymnal
   - faith

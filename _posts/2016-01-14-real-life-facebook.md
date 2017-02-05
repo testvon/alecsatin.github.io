@@ -4,10 +4,12 @@ redirect_from:
   - /real-life-facebook/
 title: Real life Facebook
 header:
+  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
   video:
     id: LO-1VaR3PPo?rel=0
     provider: youtube
 categories: spirit-of-the-age
+
 tags:
   - Facebook
   - social-conditioning

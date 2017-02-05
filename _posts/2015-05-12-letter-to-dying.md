@@ -5,6 +5,8 @@ redirect_from:
 title: Letter to my dying aunt
 excerpt: "Today when I visited you in the hospital, it took all my courage to say, _You need to ask God to help you_. But I didn’t go far enough. What I wanted to say is written in this letter."
 categories: memoirs
+header:
+  teaser: "/assets/images/category-memoirs-grey.png"
 tags:
 - death
 - dying

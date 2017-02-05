@@ -6,7 +6,9 @@ header:
     id:
     provider: youtube
 excerpt: ""
-categories: songs
+categories: song
+header:
+  teaser: "/assets/images/category-song-grey.png"
 tags:
   - hymn
   - traditional

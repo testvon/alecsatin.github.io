@@ -5,6 +5,7 @@ redirect_from:
 title: Is Darwinian Evolution Science Fiction?
 categories: ever-wonder
 header:
+  teaser: /assets/images/category-ever-wonder-grey.png
   video:
     id: eU9orSrGx1w
     provider: youtube

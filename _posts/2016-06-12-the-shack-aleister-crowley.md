@@ -5,6 +5,8 @@ redirect_from:
   - /the-shack-aleister-crowley/
 excerpt: "What is the gospel of the self-proclaimed 'wickedest man on earth', the British Golden Dawn magus Aleister Crowley"
 categories: spirit-of-the-age
+header:
+  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
 tags: 
   - false-gospel
   - apostasy

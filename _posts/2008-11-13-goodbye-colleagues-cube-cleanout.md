@@ -5,6 +5,8 @@ redirect_from:
   - /goodbye-colleagues-cube-cleanout/
 excerpt: "When someone resigns, there are inevitable questions.  We want to know why.  We want to know how it will impact us.  Some questions we ask"
 categories: old-stuff
+header:
+  teaser: "/assets/images/category-old-stuff-grey.png"
 tags: 
   - work
   - corporate-life

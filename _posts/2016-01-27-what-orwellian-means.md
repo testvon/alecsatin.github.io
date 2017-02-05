@@ -4,6 +4,7 @@ redirect_from:
   - /what-orwellian-means/
 title: What does Orwellian really mean?
 header:
+  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
   video:
     provider: youtube
     id: oe64p-QzhNE

@@ -2,11 +2,12 @@
 title:  How Bloom's Taxonomy helps explain the problems of American education
 date: 2016-06-21 12:27:45
 header:
+  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
   image: /assets/images/blooms-taxonomy.png
 redirect_from:  
   - /blooms-taxonomy/
 excerpt:  
-categories:  spirit-of-the-age
+categories: spirit-of-the-age
 tags:  
   - education
   - ignorance

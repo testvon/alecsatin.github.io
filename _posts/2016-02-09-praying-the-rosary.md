@@ -3,6 +3,7 @@ date: 2016-02-09 10:50:57+00:00
 redirect_from:
   - /praying-the-rosary/
 header:
+  teaser: "/assets/images/category-ever-wonder-grey.png"
   image: /assets/images/praying-the-rosary.jpg
 title: Is praying the rosary a good thing for Christians to do?
 categories: ever-wonder

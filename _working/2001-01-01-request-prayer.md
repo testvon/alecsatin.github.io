@@ -6,6 +6,8 @@ permalink: /request-prayer/
 slug: request-prayer
 read_time: false
 categories: website
+header:
+  teaser: "/assets/images/category-website-grey.png"
 tags:
   # -
 modified: 2017-01-29 08:00

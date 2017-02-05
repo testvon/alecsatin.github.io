@@ -2,10 +2,11 @@
 title: "O little flock fear not the foe"
 date: 2016-07-24
 header:
+  teaser: "/assets/images/category-song-grey.png"
   video:
     id: qOdlhd0CCOw
     provider: youtube
-categories: songs
+categories: song
 redirect_from:
   - /o-little-flock-fear-not-the-foe/
 tags:

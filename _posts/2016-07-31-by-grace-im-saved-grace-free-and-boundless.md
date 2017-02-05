@@ -2,10 +2,11 @@
 title: "By grace I'm saved, grace free and boundless"
 date: 2016-07-31 06:00
 header:
+  teaser: "/assets/images/category-song-grey.png"
   video:
-    id: tKJyb_oiNOw?start=22&amp;rel=0
+    id: tKJyb_oiNOw?start=22&rel=0
     provider: youtube
-categories: songs
+categories: song
 redirect_from:
   - /by-grace-im-saved-grace-free-and-boundless/
   - /by-grace-im-saved/

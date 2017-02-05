@@ -5,6 +5,7 @@ redirect_from:
 title: Is comment moderation the same as censorship?
 excerpt: "Josh and Rev N have challenged me to think more deeply comments and moderation.  Are websites a free speech zone?  Should rudeness be tolerated? There must be a way for us to show grace in online speech."
 header:
+  teaser: "/assets/images/category-biblical-orthodoxy-grey.png"
   image: assets/images/rudeness-civility-christian-comment-moderation.jpg
   caption: 
 categories: biblical-orthodoxy

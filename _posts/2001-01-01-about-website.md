@@ -3,6 +3,7 @@ title: "Website history"
 date: 2001-01-01 08:00
 slug: about-website
 header:
+  teaser: "/assets/images/category-website-grey.png"
   image: /assets/images/christian-pilgrims-progress.jpg
   caption: "Christian on his journey, from John Bunyan's *Pilgrim's Progress*"
 permalink: /about-website/

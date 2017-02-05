@@ -6,6 +6,8 @@ redirect_from:
   - /how-to-treat-the-new-guy/
 excerpt: "It’s happened to you, to me, to all of us.  It’s your first day at a new job. How often have you been given the royal treatment?"
 categories: old-stuff
+header:
+  teaser: "/assets/images/category-old-stuff-grey.png"
 tags:
   - manners
   - the-golden-rule

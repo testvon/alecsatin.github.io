@@ -3,10 +3,11 @@ title: "O thou from whom all goodness flows, dear Lord remember me"
 date: 2016-07-17
 excerpt: "Thomas Haweis's inspiration for this hymn is the last chapter of the book of Nehemiah.  The people of God did not know they were forbidden to bring Ammonites and Moabites into the congregation.  Their worship-leader Eliashib had even prepared a room in the court of God's house to make it more comfortable for the Ammonite Tobiah, to whom he was related by marriage.  The spiritual food intended for the Levites was not delivered. "
 header:
+  teaser: "/assets/images/category-song-grey.png"
   video:
     id: qucc8BNu83o
     provider: youtube
-categories: songs
+categories: song
 redirect_from:
   - /o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
 tags:
