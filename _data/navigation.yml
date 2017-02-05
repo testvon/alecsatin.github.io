@@ -12,6 +12,8 @@ main:
     url: /about-website/
   - title: "Archives"
     url: /categories/
+  - title: "Subscribe to updates"
+    url: /subscribe/
 # left side navigation menu
 nav-left:
   - title: Writings
