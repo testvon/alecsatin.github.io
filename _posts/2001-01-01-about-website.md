@@ -4,8 +4,8 @@ date: 2001-01-01 08:00
 slug: about-website
 header:
   teaser: "/assets/images/category-website-grey.png"
-  image: /assets/images/christian-pilgrims-progress.jpg
-  caption: "Christian on his journey, from John Bunyan's *Pilgrim's Progress*"
+  image: /assets/images/bunyan-pilgrims-progress-hopeful-christian.jpg
+  caption: "Hopeful helps Christian out of the slough of despond in Bunyan's *Pilgrim's Progress*."
 permalink: /about-website/
 excerpt: "About Alec Satin's Comfort for Christians website, personal writings on biblical orthodoxy, living with faith and the spirit of the age."
 categories: website
