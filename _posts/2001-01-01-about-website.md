@@ -21,13 +21,11 @@ This site has mirrored some of those detours.  Counseling psychology, experienti
 
 You may wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we have here on earth.
 
-In the end, Bunyan's *Christian* succeeded in his journey to the celestial city.  He was helped through the intercession of his gracious Lord working through people he met along the way.  In like manner faithful Christian friends have cared for me up again and again, and especially in those times when my strength has failed.
+In the end, Bunyan's *Christian* succeeded in his journey to the celestial city.  He was helped through the intercession of his gracious Lord working through people he met along the way.  In like manner faithful Christian friends have cared and guided me again and again, and especially in those times when my strength has failed.
 
 # The thinking behind Comfort for Christians
 
-Throughout my years as an American Christian I've found it difficult to find a comfortable place in the *organized church*.  Introverted, private, a kind-of loner, and having lost most of my family and many friends to that great curse which afflicts us all (physical death), it's my belief that there are other Christians who suffer privately and quietly in similar ways.   My hope is that you'll find this site an ongoing resource and source of encouragement..  
-
-I'm here as a brother in Christ to support you in your faith.
+Throughout my years as an American Christian I've found it difficult to find a comfortable place in the *organized church*.  Introverted, private, a kind-of loner, and having lost most of my family and many friends to that great curse which afflicts us all (physical death), I just never seem to fit in to the *churchianity groove*. I suspect there are many other Christians who have had  similar experiences.   My hope is that you'll find this site an ongoing resource and source of encouragement. I'm here as a brother in Christ to support you in your faith.
 
 # Why I left Wordpress after 15 years
 
