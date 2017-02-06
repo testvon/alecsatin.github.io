@@ -12,7 +12,7 @@ header:
   video:
     id: 1JiJzqXxgxo?rel=0
     provider: youtube
-excerpt:  "Videos like this give us a small picture of what it will be like in the new heavens and the new earth, when all fear is removed from man and animal. More than 10 million views on Youtube."
+excerpt:  "Videos like this give us a small picture of what it will be like in the new heavens and the new earth, when all fear is removed from man and animal."
 ---
 
 Videos like this give us a small picture of what it will be like in the new heavens and the new earth, when all fear is removed from man and animal. 

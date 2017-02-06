@@ -34,7 +34,7 @@ St. Paul confirms it:
 
 # Don't hide your weakness
 
-There's an arrogance which seeks to pretend things are *just fine* when they are *far from okay*.  Christians learn early on to *put on a good face*. But a good face is a *put-on*.  A church of masks is a cold place.  The lonely sheep shake hands and smile quietly as they shuffle out the door.
+There's an arrogance which seeks to pretend things are *just fine* when they are *far from okay*.  Christians learn early on to *put on a good face*. But a good face is a *put-on*.  A church of masks is cold.  The lonely sheep shake hands and smile quietly as they shuffle out the door.
 
 # What it feels like
 
