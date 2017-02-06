@@ -1,6 +1,6 @@
 ---
 date: 2015-05-20 16:31:44+00:00
-excerpt: Tarot was an important part of my life for almost 20 years. I studied it intensively, wrote about it extensively, performed untold readings, and was considered knowledgeable by experts in the field. Here's why I stopped.
+excerpt: Tarot was an important part of my life for almost 20 years. I studied it, wrote about it, performed countless readings, and was considered knowledgeable by experts. Here's why I stopped.
 redirect_from:
   - /read-tarot-cards/
   - /tarot-devil-card/
@@ -27,12 +27,17 @@ tags:
   - divination
   - occult
 ---
+{% include toc title="Contents" icon="book" %}
 
-Matt writes,** “Alec, could you tell me why you took down your tarot site?”**
 
-You may have found this post by looking for one of the popular tarot articles. Or you may be a long-time friend who’s curious as to what happened to [tarot.alecsatin.com](http://alecsatin.com/read-tarot-cards/). What follows is as clear and honest an explanation as I can provide. Please consider it in the manner in which it is provided.
+Matt writes,
 
-Tarot was an important part of my life for almost 20 years. I studied it intensively, wrote about it extensively, performed untold readings, and was considered knowledgeable by experts in the field. I chose to stop practicing tarot a few years ago, and have had no regrets. Here are my reasons why.
+> Alec, could you tell me why you took down your tarot site?
+
+
+You may have found this post by looking for one of the popular tarot articles. Or you may be a long-time friend who’s curious as to what happened to [tarot.alecsatin.com](/memoirs/read-tarot-cards/). What follows is as clear and honest an explanation as I can provide. Please consider it in the manner in which it is provided.
+
+Tarot was an important part of my life for almost 20 years. I studied it, wrote about it, performed countless readings, and was considered knowledgeable by experts in the field. I chose to stop practicing tarot a few years ago, and have had no regrets. Here are my reasons why.
 
 
 
@@ -191,3 +196,5 @@ What if there is no reincarnation? What if instead this is true: *It is appointe
 
 
 Questions? [Ask](/contact/).  Or leave a comment.
+
+<div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
