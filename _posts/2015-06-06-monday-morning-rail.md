@@ -21,7 +21,7 @@ In this blog I try to give you a sense of how freedom felt.  The present fog se
 
 Zersetzung got it exactly right in Train Time (*original source removed) !!!]. Think about his words as you listen to Willie Nelson sing Steve Goodman's 1971 song, *City of New Orleans*.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/monday-morning-rail/){: .btn .btn--warning} to watch the video.
+**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/spirit-of-the-age/monday-morning-rail/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 <blockquote>
