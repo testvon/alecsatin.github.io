@@ -1,1 +1,0 @@
-<a href='/writings/'>Writes</a> about <a href='/biblical-orthodoxy/'>Biblical Orthodoxy</a>, the <a href='/spirit-of-the-age/'>spirit of the age</a>, and <a href='/memoirs/'>living faith</a>.  Loves the old <a href='/songs/'>songs</a>.
