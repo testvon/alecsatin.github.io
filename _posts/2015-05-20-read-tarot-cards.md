@@ -1,6 +1,9 @@
 ---
 date: 2015-05-20 16:31:44+00:00
 excerpt: Tarot was an important part of my life for almost 20 years. I studied it, wrote about it, performed countless readings, and was considered knowledgeable by experts. Here's why I stopped.
+header:
+  image: "/assets/images/bologna-tarot.jpg"
+  caption: "Bologna Marseilles style tarot cards"
 redirect_from:
   - /read-tarot-cards/
   - /tarot-devil-card/
