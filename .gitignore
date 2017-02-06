@@ -1,6 +1,4 @@
 *.gem
-*.sublime-project
-*.sublime-workspace
 .bundle
 .DS_Store
 .jekyll-metadata
@@ -8,7 +6,6 @@
 _asset_bundler_cache
 _site
 _drafts
-_bak
 codekit-config.json
 example/_site
 Gemfile.lock

@@ -137,6 +137,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _bak #ignore reference folder
   - _drafts #ignore working folder
 keep_files:
   - .git
