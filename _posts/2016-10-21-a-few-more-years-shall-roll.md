@@ -6,7 +6,7 @@ header:
   video:
     id: fwwtF66AM80
     provider: youtube
-categories: song
+categories: songs
 redirect_from:
   - /a-few-more-years-shall-roll/
 tags:

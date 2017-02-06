@@ -6,7 +6,7 @@ header:
   video:
     id: qOdlhd0CCOw
     provider: youtube
-categories: song
+categories: songs
 redirect_from:
   - /o-little-flock-fear-not-the-foe/
 tags:

@@ -9,7 +9,7 @@ header:
     provider: youtube
 redirect_from:
   - /for-all-the-saints-who-from-their-labors-rest/
-categories: song
+categories: songs
 tags:
 - faithfulness
 - salvation

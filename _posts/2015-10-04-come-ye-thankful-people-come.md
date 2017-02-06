@@ -9,7 +9,7 @@ header:
   video:
     id: ldJtnE9h4fU
     provider: youtube
-categories: song
+categories: songs
 tags:
 - harvest
 - fall

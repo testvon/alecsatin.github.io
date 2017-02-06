@@ -129,7 +129,7 @@ exclude:
   - config
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
+  - Gulpfile.js
   - LICENSE
   - log
   - node_modules
@@ -137,7 +137,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _working #ignore working folder
+  - _drafts #ignore working folder
 keep_files:
   - .git
   - .svn

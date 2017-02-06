@@ -6,7 +6,7 @@ header:
   video:
     id: tKJyb_oiNOw?start=22&rel=0
     provider: youtube
-categories: song
+categories: songs
 redirect_from:
   - /by-grace-im-saved-grace-free-and-boundless/
   - /by-grace-im-saved/

@@ -9,7 +9,7 @@ header:
     provider: youtube
 redirect_from: 
   - /zion-stands-with-hills-surrounded/
-categories: song
+categories: songs
 tags:
 - George Beverly Shea
 - hymn

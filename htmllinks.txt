@@ -1,0 +1,1165 @@
+Getting links from: https://alecsatin.github.io/
+├───OK─── http://rayhightower.com/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/
+├───OK─── https://alecsatin.github.io/website/for-non-christians/
+├───OK─── https://alecsatin.github.io/writings/
+├───OK─── https://alecsatin.github.io/search/
+├───OK─── https://alecsatin.github.io/about-website/
+├───OK─── https://alecsatin.github.io/categories/
+├───OK─── https://alecsatin.github.io/subscribe/
+├───OK─── https://alecsatin.github.io/assets/images/comfort-for-christians.jpg
+├───OK─── https://alecsatin.github.io/biblical-orthodoxy/
+├───OK─── https://alecsatin.github.io/ever-wonder/
+├───OK─── https://alecsatin.github.io/for-the-suffering-christian/
+├───OK─── https://alecsatin.github.io/memoirs/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/
+├───OK─── https://alecsatin.github.io/songs/
+├───OK─── https://alecsatin.github.io/cats-dogs-lemurs/
+├───OK─── https://alecsatin.github.io/books/
+├───OK─── https://alecsatin.github.io/honor/
+├───OK─── https://alecsatin.github.io/about/
+├───OK─── https://alecsatin.github.io/beliefs/
+├───OK─── https://alecsatin.github.io/search
+├───OK─── https://alecsatin.github.io/contact/
+├───OK─── https://alecsatin.github.io/sitemap/
+├───OK─── https://alecsatin.github.io/biblical-orthodoxy/faith/
+├───OK─── https://alecsatin.github.io/cats-dogs-lemurs/crow-and-kitten-are-friends/
+├───OK─── https://alecsatin.github.io/for-the-suffering-christian/social-isolation-and-the-christian/
+├───OK─── https://alecsatin.github.io/memoirs/why-i-unsubscribed-from-my-friends-blog/
+├───OK─── https://alecsatin.github.io/song/a-few-more-years-shall-roll/
+├───OK─── https://alecsatin.github.io/page2/
+├───OK─── https://alecsatin.github.io/page3/
+├───OK─── https://alecsatin.github.io/page13/
+└───OK─── https://alecsatin.github.io/feed.xml
+Finished! 52 links found. 21 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/website/for-non-christians/
+├───OK─── https://twitter.com/intent/tweet?text=Comfort%20for%20Christians%20-%20and%20non-Christians,%20too%20https://alecsatin.github.io/website/for-non-christians/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/website/for-non-christians/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/website/for-non-christians/
+├───OK─── https://daringfireball.net/projects/markdown/
+├───OK─── https://alecsatin.github.io/website
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/website/for-non-christians/
+├───OK─── https://alecsatin.github.io/old-stuff/how-to-treat-the-new-guy/
+Finished! 48 links found. 41 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/writings/
+├───OK─── https://twitter.com/intent/tweet?text=Writings%20and%20helps%20by%20category%20https://alecsatin.github.io/writings/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/writings/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/writings/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/writings/
+├───OK─── https://alecsatin.github.io/about
+Finished! 58 links found. 53 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/search/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/search/
+├───OK─── https://alecsatin.github.io/assets/images/category-cats-dogs-lemurs-grey.png
+├───OK─── https://twitter.com/intent/tweet?text=Search%20https://alecsatin.github.io/search/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/search/
+├───OK─── https://alecsatin.github.io/assets/images/category-for-the-suffering-christian-grey.png
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/search/
+├───OK─── https://alecsatin.github.io/assets/images/category-website-grey.png
+├───OK─── https://alecsatin.github.io/assets/images/category-memoirs-grey.png
+Finished! 57 links found. 49 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/about-website/
+├───OK─── https://twitter.com/intent/tweet?text=Website%20history%20https://alecsatin.github.io/about-website/
+├───OK─── https://alecsatin.github.io/assets/images/bunyan-pilgrims-progress-hopeful-christian.jpg
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/about-website/
+├───OK─── http://www.alecsatin.com/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/about-website/
+├───OK─── https://alecsatin.github.io/assets/images/category-song-grey.png
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/about-website/
+Finished! 72 links found. 65 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/categories/
+├───OK─── https://alecsatin.github.io/biblical-orthodoxy/jesus-hermeneutic/
+├───OK─── https://alecsatin.github.io/biblical-orthodoxy/rudeness-civility-christian-comment-moderation/
+├───OK─── https://alecsatin.github.io/biblical-orthodoxy/abraham-friend-of-god-jesus-calling/
+├───OK─── https://alecsatin.github.io/biblical-orthodoxy/irreverent-worship/
+├───OK─── https://alecsatin.github.io/books/murphy-how-the-west-was-lost/
+├───OK─── https://alecsatin.github.io/books/jackson-thy-strong-word/
+├───OK─── https://alecsatin.github.io/cats-dogs-lemurs/lemur-pet/
+├───OK─── https://alecsatin.github.io/cats-dogs-lemurs/when-a-dog-wants-to-pet-a-cat/
+├───OK─── https://alecsatin.github.io/ever-wonder/what-is-concupiscence/
+├───OK─── https://alecsatin.github.io/ever-wonder/how-much-of-the-new-testament-was-written-by-paul/
+├───OK─── https://alecsatin.github.io/ever-wonder/20-ways-to-tell-if-your-pastor-is-apostate/
+├───OK─── https://alecsatin.github.io/ever-wonder/hematohidrosis-sweat-drops-blood/
+├───OK─── https://alecsatin.github.io/ever-wonder/did-jesus-believe-the-old-testament/
+├───OK─── https://alecsatin.github.io/ever-wonder/praying-the-rosary/
+├───OK─── https://alecsatin.github.io/ever-wonder/does-mary-actually-appear/
+├───OK─── https://alecsatin.github.io/ever-wonder/science-fiction-evolution/
+├───OK─── https://alecsatin.github.io/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/
+├───OK─── https://alecsatin.github.io/honor/full-military-honors-arlington-national-cemetery/
+├───OK─── https://alecsatin.github.io/memoirs/photographs-and-memories/
+├───OK─── https://alecsatin.github.io/memoirs/letter-to-dying/
+├───OK─── https://alecsatin.github.io/memoirs/in-honor-of-john-david-harrell-iii/
+├───OK─── https://alecsatin.github.io/old-stuff/heart-attack/
+├───OK─── https://alecsatin.github.io/old-stuff/21-days-without-complaining/
+├───OK─── https://alecsatin.github.io/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/
+├───OK─── https://alecsatin.github.io/old-stuff/goodbye-colleagues-cube-cleanout/
+├───OK─── https://alecsatin.github.io/song/by-grace-im-saved-grace-free-and-boundless/
+├───OK─── https://alecsatin.github.io/song/o-little-flock-fear-not-the-foe/
+├───OK─── https://alecsatin.github.io/song/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+├───OK─── https://alecsatin.github.io/song/zion-stands-with-hills-surrounded/
+├───OK─── https://alecsatin.github.io/song/come-ye-thankful-people-come/
+├───OK─── https://alecsatin.github.io/song/for-all-the-saints-who-from-their-labors-rest/
+├───OK─── https://alecsatin.github.io/song/the-churchs-one-foundation/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/heard-on-the-streets-of-nyc/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/mark-zuckerberg-masking-tape/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/blooms-taxonomy/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/the-shack-aleister-crowley/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/young-christians-or-false-converts/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/gotthard-tunnel-religion-of-europe/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/modern-european-nationalism/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/secret-world-of-mormonism/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/cultural-appropriation-and-the-new-educational-milieu/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/john-hagee-hates-the-jewish-people/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/starbucks-ashtoreth/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/what-orwellian-means/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/the-hidden-meaning-behind-the-logo/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/real-life-facebook/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/behaviorism-and-social-conditioning/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/trevor-hammack-deleted/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age/monday-morning-rail/
+Finished! 96 links found. 47 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/subscribe/
+├───OK─── https://twitter.com/intent/tweet?text=Subscribe%20to%20Comfort%20for%20Christians%20updates%20https://alecsatin.github.io/subscribe/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/subscribe/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/subscribe/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/subscribe/
+Finished! 54 links found. 50 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/biblical-orthodoxy/
+Finished! 40 links found. 40 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/
+Finished! 42 links found. 42 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/for-the-suffering-christian/
+Finished! 36 links found. 36 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/memoirs/
+Finished! 39 links found. 39 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/
+Finished! 51 links found. 51 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/songs/
+Finished! 34 links found. 34 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/cats-dogs-lemurs/
+Finished! 37 links found. 37 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/books/
+Finished! 36 links found. 36 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/honor/
+Finished! 35 links found. 35 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/about/
+├───OK─── https://twitter.com/intent/tweet?text=About%20the%20author%20-%20Alec%20Satin%20https://alecsatin.github.io/about/
+├───OK─── https://www.gravatar.com/avatar/cfaf937c58b69fbbad6d376d8ba2ae5d?d=mm&s=80
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/about/
+├───OK─── https://alecsatin.github.io/assets/images/christian-pilgrims-progress.jpg
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/about/
+├───OK─── https://www.gravatar.com/avatar/941e421a138bf51718234e2bf187e24f?d=mm&s=80
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/about/
+├───OK─── https://alecsatin.github.io/assets/images/alec-satin-age-3.jpg
+├───OK─── https://www.gravatar.com/avatar/f4299fafa3a82b6dd0755edbec9a2923?d=mm&s=80
+├───OK─── https://alecsatin.github.io/assets/images/alec-satin-and-sunny.jpg
+├───OK─── https://www.gravatar.com/avatar/7f689019eb0b825f69a9b758ed4314c1%20?d=mm&s=80
+├───OK─── https://alecsatin.github.io/assets/images/the-lords-prayer-842-1024.jpg
+├───OK─── https://alecsatin.github.io/assets/images/the-lords-prayer.jpg
+├───OK─── https://alecsatin.github.io/memoirs
+Finished! 75 links found. 61 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/beliefs/
+├───OK─── https://twitter.com/intent/tweet?text=Statement%20of%20faith%20https://alecsatin.github.io/beliefs/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/beliefs/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/beliefs/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/beliefs/
+├───OK─── https://alecsatin.github.io/biblical-orthodoxy
+Finished! 61 links found. 56 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/contact/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/contact/
+├───OK─── https://twitter.com/intent/tweet?text=Contact%20the%20author%20https://alecsatin.github.io/contact/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/contact/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/contact/
+Finished! 52 links found. 48 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/sitemap/
+├───OK─── https://alecsatin.github.io/sitemap.xml
+├───OK─── https://alecsatin.github.io/404.html
+├───OK─── https://alecsatin.github.io/assets/css/main.css
+├───OK─── https://alecsatin.github.io/message-sent.html
+├───OK─── https://alecsatin.github.io/old-stuff/
+├───OK─── https://alecsatin.github.io/page-archive/
+├───OK─── https://alecsatin.github.io/search_data.json
+├───OK─── https://alecsatin.github.io/tags/
+├───OK─── https://alecsatin.github.io/year-archive/
+├───OK─── https://alecsatin.github.io/assets/css/style.css
+├───OK─── https://alecsatin.github.io/how-to-treat-the-new-guy/
+├───OK─── https://alecsatin.github.io/goodbye-colleagues-cube-cleanout/
+├───OK─── https://alecsatin.github.io/how-to-say-goodbye-when-a-workmate-leaves/
+├───OK─── https://alecsatin.github.io/in-honor-of-john-david-harrell-iii-aug-26-1957-june-30-2008/
+├───OK─── https://alecsatin.github.io/21-days-without-complaining/
+├───OK─── https://alecsatin.github.io/heart-attack/
+├───OK─── https://alecsatin.github.io/letter-to-dying/
+├───OK─── https://alecsatin.github.io/monday-morning-rail/
+├───OK─── https://alecsatin.github.io/trevor-hammack-deleted/
+├───OK─── https://alecsatin.github.io/the-churchs-one-foundation/
+├───OK─── https://alecsatin.github.io/for-all-the-saints-who-from-their-labors-rest/
+├───OK─── https://alecsatin.github.io/photographs-and-memories/
+├───OK─── https://alecsatin.github.io/good-cheer-come-ye-thankful-people-come/
+├───OK─── https://alecsatin.github.io/shop-hate-fear/
+├───OK─── https://alecsatin.github.io/zion-stands-with-hills-surrounded/
+├───OK─── https://alecsatin.github.io/darwinian-evolution-science-fiction/
+├───OK─── https://alecsatin.github.io/reverent-worship-irreverent-worship/
+├───OK─── https://alecsatin.github.io/real-life-facebook/
+├───OK─── https://alecsatin.github.io/the-hidden-meaning-behind-the-logo/
+├───OK─── https://alecsatin.github.io/the-ugliness-of-fake-christianity/
+├───OK─── https://alecsatin.github.io/what-orwellian-means/
+├───OK─── https://alecsatin.github.io/does-mary-actually-appear/
+├───OK─── https://alecsatin.github.io/praying-the-rosary/
+├───OK─── https://alecsatin.github.io/abraham-friend-of-god/
+├───OK─── https://alecsatin.github.io/did-jesus-believe-the-old-testament/
+├───OK─── https://alecsatin.github.io/censorship-and-online-christian-discussion/
+├───OK─── https://alecsatin.github.io/jesus-hermeneutic/
+├───OK─── https://alecsatin.github.io/starbucks-ashtoreth/
+├───OK─── https://alecsatin.github.io/john-hagee-hates-the-jewish-people/
+├───OK─── https://alecsatin.github.io/hematohidrosis-sweat-drops-blood/
+├───OK─── https://alecsatin.github.io/hey-why-are-you-filming-this/
+├───OK─── https://alecsatin.github.io/secret-world-of-mormonism/
+├───OK─── https://alecsatin.github.io/dont-trust-television/
+├───OK─── https://alecsatin.github.io/europe-in-4-minutes/
+├───OK─── https://alecsatin.github.io/20-ways-to-tell-if-your-pastor-is-apostate/
+├───OK─── https://alecsatin.github.io/full-military-honors-arlington-national-cemetery/
+├───OK─── https://alecsatin.github.io/the-religion-of-europe-2016-its-not-islam/
+├───OK─── https://alecsatin.github.io/young-christians-or-false-converts-you-decide/
+├───OK─── https://alecsatin.github.io/the-shack-aleister-crowley/
+├───OK─── https://alecsatin.github.io/lemur-pet/
+├───OK─── https://alecsatin.github.io/how-much-of-the-new-testament-was-written-by-paul/
+├───OK─── https://alecsatin.github.io/blooms-taxonomy/
+├───OK─── https://alecsatin.github.io/zuckerbergs-masking-tape/
+├───OK─── https://alecsatin.github.io/what-is-concupiscence/
+├───OK─── https://alecsatin.github.io/heard-on-the-streets-of-nyc/
+├───OK─── https://alecsatin.github.io/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+├───OK─── https://alecsatin.github.io/o-little-flock-fear-not-the-foe/
+├───OK─── https://alecsatin.github.io/faith/
+├───OK─── https://alecsatin.github.io/by-grace-im-saved-grace-free-and-boundless/
+├───OK─── https://alecsatin.github.io/by-grace-im-saved/
+├───OK─── https://alecsatin.github.io/a-few-more-years-shall-roll/
+├───OK─── https://alecsatin.github.io/why-i-unsubscribed/
+├───OK─── https://alecsatin.github.io/social-isolation-and-the-christian/
+├───OK─── https://alecsatin.github.io/page4/
+├───OK─── https://alecsatin.github.io/page5/
+├───OK─── https://alecsatin.github.io/page6/
+├───OK─── https://alecsatin.github.io/page7/
+├───OK─── https://alecsatin.github.io/page8/
+├───OK─── https://alecsatin.github.io/page9/
+├───OK─── https://alecsatin.github.io/page10/
+├───OK─── https://alecsatin.github.io/page11/
+├───OK─── https://alecsatin.github.io/page12/
+├───OK─── https://alecsatin.github.io/feed.xslt.xml
+├───OK─── https://alecsatin.github.io/stanford-dont-believe-what-you-see-on-video/
+Finished! 188 links found. 114 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/biblical-orthodoxy/faith/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/biblical-orthodoxy/faith/
+├───OK─── https://twitter.com/intent/tweet?text=Faith%20https://alecsatin.github.io/biblical-orthodoxy/faith/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/biblical-orthodoxy/faith/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/biblical-orthodoxy/faith/
+Finished! 50 links found. 46 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/cats-dogs-lemurs/crow-and-kitten-are-friends/
+├───OK─── https://twitter.com/intent/tweet?text=Crow%20and%20kitten%20are%20friends%20-%20Best%20Friends%20https://alecsatin.github.io/cats-dogs-lemurs/crow-and-kitten-are-friends/
+├───OK─── https://www.youtube.com/embed/1JiJzqXxgxo?rel=0
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/cats-dogs-lemurs/crow-and-kitten-are-friends/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/cats-dogs-lemurs/crow-and-kitten-are-friends/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/cats-dogs-lemurs/crow-and-kitten-are-friends/
+├───OK─── https://alecsatin.github.io/cats-dogs-lemurs
+Finished! 60 links found. 54 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/for-the-suffering-christian/social-isolation-and-the-christian/
+├───OK─── https://en.wikipedia.org/wiki/Social_isolation
+├───OK─── https://twitter.com/intent/tweet?text=Social%20Isolation%20and%20the%20Christian%20https://alecsatin.github.io/for-the-suffering-christian/social-isolation-and-the-christian/
+├───OK─── https://www.gravatar.com/avatar/3dbdfff72131d4c8d60236eead04df8a?d=mm&s=80
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/for-the-suffering-christian/social-isolation-and-the-christian/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/for-the-suffering-christian/social-isolation-and-the-christian/
+├───OK─── https://www.psychologytoday.com/blog/the-depression-cure/200907/social-isolation-modern-plague
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/for-the-suffering-christian/social-isolation-and-the-christian/
+├───OK─── https://alecsatin.github.io/for-the-suffering-christian
+└─BROKEN─ https://www.nytimes.com/2016/12/22/upshot/how-social-isolation-is-killing-us.html (BLC_UNKNOWN)
+Finished! 87 links found. 78 excluded. 1 broken.
+
+Getting links from: https://alecsatin.github.io/memoirs/why-i-unsubscribed-from-my-friends-blog/
+├───OK─── https://www.gravatar.com/avatar/114a715a8a3149694206895cff352d92?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=Why%20I%20unsubscribed%20from%20my%20friend%27s%20blog%20https://alecsatin.github.io/memoirs/why-i-unsubscribed-from-my-friends-blog/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/memoirs/why-i-unsubscribed-from-my-friends-blog/
+├───OK─── https://www.gravatar.com/avatar/b9f5b78bc13c0bcd3f424cf6fc99b8af?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/memoirs/why-i-unsubscribed-from-my-friends-blog/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/memoirs/why-i-unsubscribed-from-my-friends-blog/
+Finished! 80 links found. 74 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/song/a-few-more-years-shall-roll/
+├───OK─── https://www.youtube.com/embed/fwwtF66AM80
+├───OK─── https://www.gravatar.com/avatar/c5dc87157c90f270808353e7b0478181?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=A%20few%20more%20years%20shall%20roll%20https://alecsatin.github.io/song/a-few-more-years-shall-roll/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/a-few-more-years-shall-roll/
+├───OK─── https://www.gravatar.com/avatar/3bdf2bcad195921e0815f55f9542f3ce?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/a-few-more-years-shall-roll/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/a-few-more-years-shall-roll/
+├───OK─── https://www.gravatar.com/avatar/4257f2d98e0e2a551398de657deb6202?d=mm&s=80
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/songs/a-few-more-years-shall-roll/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+Finished! 69 links found. 58 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/page2/
+Finished! 54 links found. 54 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page3/
+Finished! 55 links found. 55 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page13/
+Finished! 50 links found. 50 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/feed.xml
+Error: Expected type "text/html" but got "application/xml"
+
+Getting links from: https://alecsatin.github.io/website
+Finished! 39 links found. 39 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/old-stuff/how-to-treat-the-new-guy/
+├───OK─── https://twitter.com/intent/tweet?text=How%20to%20treat%20the%20new%20guy%20https://alecsatin.github.io/old-stuff/how-to-treat-the-new-guy/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/old-stuff/how-to-treat-the-new-guy/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/old-stuff/how-to-treat-the-new-guy/
+├───OK─── http://www.cliffsnotes.com/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/old-stuff/how-to-treat-the-new-guy/
+├───OK─── https://alecsatin.github.io/old-stuff
+Finished! 73 links found. 67 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/biblical-orthodoxy/jesus-hermeneutic/
+├───OK─── http://birdsoftheair.blogspot.com/2016/02/wrestle-not.html
+├───OK─── https://www.gravatar.com/avatar/355f0b9acea484bdf73d02fb7b7f8ffe?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=The%20awful%20lie%20of%20the%20Jesus%20Hermeneutic%20https://alecsatin.github.io/biblical-orthodoxy/jesus-hermeneutic/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/biblical-orthodoxy/jesus-hermeneutic/
+├─BROKEN─ https://alecsatin.github.io/apostate-christian-comments/#comment-1456 (HTTP_404)
+├───OK─── http://birdsoftheair.blogspot.com/2015/08/the-jesus-hermeneutic.html
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/biblical-orthodoxy/jesus-hermeneutic/
+├───OK─── https://www.gravatar.com/avatar/2323603845cdd0e2fd96b3858ecd4ad3?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/71c3ba8edcf87393381b0a9e14fa97da?d=mm&s=80
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/biblical-orthodoxy/jesus-hermeneutic/
+├───OK─── https://web.archive.org/web/20090311090912/http:/www.sojo.net/index.cfm?action=magazine.article&issue=soj0603&article=060351
+├─BROKEN─ http://alecsatin.com/wp-message/uploads/2016/03/red-letter-christians.jpg (HTTP_404)
+├───OK─── https://www.gravatar.com/avatar/7d4db2cabbc89f06c7889bd25f614a28?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/e9277d74d65990aa1c30e925259acdad?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/5cdb885da89d27c82a450c26eb6b6351?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/67acebc59319a4d2130581bd94631b60?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/d9ba579473df4f71df3c2c28f3753056?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/e0879a49a090535f86628c4b19620586?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/d6524a19bab76e52e7b9c1215345d833?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/5347909d01ec624cbaba68cf1aefa1e1?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/c0f79e31dcb59568141d4a3dd0262df7?d=mm&s=80
+Finished! 182 links found. 161 excluded. 2 broken.
+
+Getting links from: https://alecsatin.github.io/biblical-orthodoxy/rudeness-civility-christian-comment-moderation/
+├─BROKEN─ http://localhost:4000/memoirs/photographs-and-memories/#comment5 (ERRNO_ECONNREFUSED)
+├───OK─── http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html
+├───OK─── http://www.christianpost.com/news/survey-christians-make-up-95-percent-of-u-s-religious-population-65621/
+├───OK─── https://www.gravatar.com/avatar/099098ca8d32aadbccdec954b0b2be88?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=Is%20comment%20moderation%20the%20same%20as%20censorship?%20https://alecsatin.github.io/biblical-orthodoxy/rudeness-civility-christian-comment-moderation/
+├───OK─── https://alecsatin.github.io/assets/images/rudeness-civility-christian-comment-moderation.jpg
+├───OK─── https://1eternitymatters.wordpress.com/2011/05/03/false-teacher-profile/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/biblical-orthodoxy/rudeness-civility-christian-comment-moderation/
+├───OK─── http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html?showComment=1457026856192#c8430463623354438463
+├───OK─── https://www.gravatar.com/avatar/ab28b7776dacd9e43aaa58165d7febe2?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/biblical-orthodoxy/rudeness-civility-christian-comment-moderation/
+├─BROKEN─ https://alecsatin.github.io/memoirs/tarot-cards/ (HTTP_404)
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/biblical-orthodoxy/rudeness-civility-christian-comment-moderation/
+├───OK─── http://billmuehlenberg.com/
+└───OK─── http://extranos.blogspot.com/2016/01/hitler-loses-univeral-objective.html?showComment=1457028187014#c5839851054149582370
+Finished! 124 links found. 109 excluded. 2 broken.
+
+Getting links from: https://alecsatin.github.io/biblical-orthodoxy/abraham-friend-of-god-jesus-calling/
+├───OK─── https://www.gravatar.com/avatar/8ac1945cb3cd541bc3ae6a5af73fd82a?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=Jesus%20Calling%20gets%20it%20wrong%20-%20Abraham%20was%20the%20friend%20of%20God%20https://alecsatin.github.io/biblical-orthodoxy/abraham-friend-of-god-jesus-calling/
+├───OK─── http://www.womenofgrace.com/blog/?p=16470
+├───OK─── https://alecsatin.github.io/assets/images/abraham-friend-of-god.jpg
+├───OK─── http://www.lighthousetrailsresearch.com/blog/?p=14315
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/biblical-orthodoxy/abraham-friend-of-god-jesus-calling/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/biblical-orthodoxy/abraham-friend-of-god-jesus-calling/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/biblical-orthodoxy/abraham-friend-of-god-jesus-calling/
+└───OK─── http://www.lighthousetrails.com/mm5/merchant.mvc?Screen=PROD&Store_Code=LTP&Product_Code=AJC
+Finished! 86 links found. 77 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/biblical-orthodoxy/irreverent-worship/
+├───OK─── http://birdsoftheair.blogspot.com/2016/01/applause.html
+├───OK─── http://alecsatin.com/church-growth-movement-to-the-rescue/
+├───OK─── https://www.gravatar.com/avatar/a14b5779301f13d35607590215ffe276?d=mm&s=80
+├───OK─── https://alecsatin.github.io/assets/images/irreverent-worship-hillsong-church.jpg
+├───OK─── https://twitter.com/intent/tweet?text=What%20is%20irreverent%20worship?%20https://alecsatin.github.io/biblical-orthodoxy/irreverent-worship/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/biblical-orthodoxy/irreverent-worship/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/biblical-orthodoxy/irreverent-worship/
+├───OK─── https://alecsatin.github.io/assets/images/applause.jpg
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/biblical-orthodoxy/irreverent-worship/
+Finished! 99 links found. 90 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/books/murphy-how-the-west-was-lost/
+├───OK─── https://twitter.com/intent/tweet?text=How%20the%20West%20was%20lost%20-%20Coping%20with%20life%20in%20a%20strange,%20new%20civilization%20by%20Patrick%20Michael%20Murphy%20https://alecsatin.github.io/books/murphy-how-the-west-was-lost/
+├───OK─── http://www.goodreads.com/book/show/1240115.How_the_West_Was_Lost
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/books/murphy-how-the-west-was-lost/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/books/murphy-how-the-west-was-lost/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/books/murphy-how-the-west-was-lost/
+├───OK─── https://alecsatin.github.io/books
+├───OK─── https://alecsatin.github.io/assets/images/how-the-west-was-lost.jpg
+Finished! 62 links found. 55 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/books/jackson-thy-strong-word/
+├───OK─── https://twitter.com/intent/tweet?text=Thy%20Strong%20Word%20-%20The%20Efficacy%20Of%20The%20Word%20In%20The%20Scriptures%20And%20The%20Lutheran%20Confessions%20by%20Pastor%20Gregory%20L.%20Jackson,%20PhD%20https://alecsatin.github.io/books/jackson-thy-strong-word/
+├───OK─── https://alecsatin.github.io/assets/images/thy-strong-word.jpg
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/books/jackson-thy-strong-word/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/books/jackson-thy-strong-word/
+├───OK─── https://dl.dropboxusercontent.com/u/5009355/9388354_tsw_12_7_2010.pdf
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/books/jackson-thy-strong-word/
+├───OK─── https://www.amazon.com/review/R2OFTG4TOXZLPZ/
+└───OK─── https://www.amazon.com/Thy-Strong-Word-Scriptures-Confessions/dp/1534738398
+Finished! 74 links found. 66 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/cats-dogs-lemurs/lemur-pet/
+├───OK─── https://www.youtube.com/embed/WXM8tUnSJ3o
+├───OK─── https://www.gravatar.com/avatar/773493538f37b274c44aa5673a4a4b41?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=A%20lemur%20who%20knows%20just%20what%20he%20wants%20https://alecsatin.github.io/cats-dogs-lemurs/lemur-pet/
+├───OK─── https://alecsatin.github.io/assets/images/mouse-lemur.jpg
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/cats-dogs-lemurs/lemur-pet/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/cats-dogs-lemurs/lemur-pet/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/cats-dogs-lemurs/lemur-pet/
+Finished! 71 links found. 64 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/cats-dogs-lemurs/when-a-dog-wants-to-pet-a-cat/
+├───OK─── https://www.youtube.com/embed/xPe4NbWQzkM?rel=0
+├───OK─── https://twitter.com/intent/tweet?text=When%20a%20dog%20wants%20to%20pet%20a%20kitten%20https://alecsatin.github.io/cats-dogs-lemurs/when-a-dog-wants-to-pet-a-cat/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/cats-dogs-lemurs/when-a-dog-wants-to-pet-a-cat/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/cats-dogs-lemurs/when-a-dog-wants-to-pet-a-cat/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/cats-dogs-lemurs/when-a-dog-wants-to-pet-a-cat/
+Finished! 59 links found. 54 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/what-is-concupiscence/
+├───OK─── https://www.gravatar.com/avatar/4de2f88af8cc7acbb20fb30acd641d5a?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=What%20is%20concupiscence?%20https://alecsatin.github.io/ever-wonder/what-is-concupiscence/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/what-is-concupiscence/
+├───OK─── https://www.gravatar.com/avatar/56044552587b3697da21c224a419de56?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/what-is-concupiscence/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/what-is-concupiscence/
+├───OK─── https://alecsatin.github.io/ever-wonder
+Finished! 85 links found. 78 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/how-much-of-the-new-testament-was-written-by-paul/
+├───OK─── https://www.gravatar.com/avatar/7980f3a7a9721971a8c3cad5efc86de6?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=How%20much%20of%20the%20New%20Testament%20was%20written%20by%20Paul?%20https://alecsatin.github.io/ever-wonder/how-much-of-the-new-testament-was-written-by-paul/
+├───OK─── http://www.biblebelievers.com/believers-org/kjv-stats.html
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/how-much-of-the-new-testament-was-written-by-paul/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/how-much-of-the-new-testament-was-written-by-paul/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/how-much-of-the-new-testament-was-written-by-paul/
+Finished! 69 links found. 63 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/20-ways-to-tell-if-your-pastor-is-apostate/
+├───OK─── https://www.gravatar.com/avatar/5184db56b1bd0f91ee58bc70046ab138?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=Is%20your%20pastor%20apostate?%20Twenty%20ways%20to%20tell%20https://alecsatin.github.io/ever-wonder/20-ways-to-tell-if-your-pastor-is-apostate/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/20-ways-to-tell-if-your-pastor-is-apostate/
+├───OK─── https://www.gravatar.com/avatar/f513dd485e30bda7f5f754af9c8dd6e3?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/20-ways-to-tell-if-your-pastor-is-apostate/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/20-ways-to-tell-if-your-pastor-is-apostate/
+├───OK─── https://www.gravatar.com/avatar/?d=mm&s=80
+└───OK─── https://www.gravatar.com/avatar/51835264fb5a11c4818f4f8e0155c06a?d=mm&s=80
+Finished! 100 links found. 92 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/hematohidrosis-sweat-drops-blood/
+├───OK─── https://en.wikipedia.org/wiki/File:Hematohidrosis-Indian-Journal-Dermatology-Dermatol-2013-58-6-478-119964-f1.jpg
+├───OK─── https://twitter.com/intent/tweet?text=How%20was%20it%20possible%20for%20Jesus%20to%20sweat%20drops%20of%20blood?%20https://alecsatin.github.io/ever-wonder/hematohidrosis-sweat-drops-blood/
+├───OK─── https://alecsatin.github.io/assets/images/hematohidrosis-sweating-blood.jpg
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/hematohidrosis-sweat-drops-blood/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/hematohidrosis-sweat-drops-blood/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/hematohidrosis-sweat-drops-blood/
+Finished! 68 links found. 62 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/did-jesus-believe-the-old-testament/
+├───OK─── https://twitter.com/intent/tweet?text=Did%20Jesus%20believe%20the%20Old%20Testament%20was%20historically%20true?%20https://alecsatin.github.io/ever-wonder/did-jesus-believe-the-old-testament/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/did-jesus-believe-the-old-testament/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/did-jesus-believe-the-old-testament/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/did-jesus-believe-the-old-testament/
+Finished! 81 links found. 77 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/praying-the-rosary/
+├───OK─── https://www.gravatar.com/avatar/947ed7e6b367af9b7cfbcac15586f142?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=Is%20praying%20the%20rosary%20a%20good%20thing%20for%20Christians%20to%20do?%20https://alecsatin.github.io/ever-wonder/praying-the-rosary/
+├───OK─── https://alecsatin.github.io/assets/images/praying-the-rosary.jpg
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/praying-the-rosary/
+├───OK─── https://www.pinterest.com/pin/458663543272387155/
+├───OK─── https://www.gravatar.com/avatar/d00c2c0694f1430940e41761fa289395?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/praying-the-rosary/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/praying-the-rosary/
+└───OK─── https://www.gravatar.com/avatar/1ef9a59853c1ce1e7f6f3c7a07b5d4fe?d=mm&s=80
+Finished! 105 links found. 96 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/does-mary-actually-appear/
+├───OK─── https://www.gravatar.com/avatar/96a87be8372c0f56808f360848253f6d?d=mm&s=80
+├───OK─── https://www.youtube-nocookie.com/embed/VrXWDFvayYc?rel=0
+├───OK─── https://twitter.com/intent/tweet?text=Does%20Mary%20actually%20appear%20to%20people?%20https://alecsatin.github.io/ever-wonder/does-mary-actually-appear/
+├───OK─── https://living4hisglory.wordpress.com/2016/02/04/warning-you-with-tears-wednesday-a-day-late-2/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/does-mary-actually-appear/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/does-mary-actually-appear/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/does-mary-actually-appear/
+Finished! 90 links found. 83 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/ever-wonder/science-fiction-evolution/
+├───OK─── https://www.youtube.com/embed/eU9orSrGx1w
+├───OK─── https://www.youtube-nocookie.com/embed/V5EPymcWp-g?rel=0
+├───OK─── https://twitter.com/intent/tweet?text=Is%20Darwinian%20Evolution%20Science%20Fiction?%20https://alecsatin.github.io/ever-wonder/science-fiction-evolution/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/ever-wonder/science-fiction-evolution/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/ever-wonder/science-fiction-evolution/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/ever-wonder/science-fiction-evolution/
+Finished! 63 links found. 57 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/
+├───OK─── https://www.youtube.com/embed/vhxURmVl0lQ?rel=0
+├───OK─── https://twitter.com/intent/tweet?text=Fake%20Christianity%20is%20no%20comfort%20at%20all%20https://alecsatin.github.io/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/
+├───OK─── https://1eternitymatters.wordpress.com/2016/01/19/is-forgiveness-possible-dont-ask-the-christian-left-ask-a-christian-2/
+├───OK─── https://www.gravatar.com/avatar/180f8b813fe1fbb7d41afc7a955199f4?d=mm&s=80
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/
+├───OK─── https://www.gravatar.com/avatar/1ed0700e772dba322eb2e3f5edd02515?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/5522e2495b5db91d0062e98f10d9c000?d=mm&s=80
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/
+Finished! 88 links found. 79 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/honor/full-military-honors-arlington-national-cemetery/
+├───OK─── https://www.youtube.com/embed/yHhVTC7_Wwc
+├───OK─── https://twitter.com/intent/tweet?text=Memorial%20day%20-%20Full%20military%20honors%20at%20Arlington%20National%20Cemetery%20https://alecsatin.github.io/honor/full-military-honors-arlington-national-cemetery/
+├───OK─── https://veritasdomain.wordpress.com/2016/05/30/memorial-day-and-marine-corps-body-bearers-the-last-to-let-you-down/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/honor/full-military-honors-arlington-national-cemetery/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/honor/full-military-honors-arlington-national-cemetery/
+├───OK─── https://alecsatin.github.io/honor
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/honor/full-military-honors-arlington-national-cemetery/
+Finished! 64 links found. 57 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/memoirs/photographs-and-memories/
+├───OK─── https://www.youtube.com/embed/nSJgWLSb0R0
+├───OK─── https://twitter.com/intent/tweet?text=Photographs%20and%20memories%20https://alecsatin.github.io/memoirs/photographs-and-memories/
+├───OK─── https://alecsatin.github.io/assets/images/1945-211x300.jpg
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/memoirs/photographs-and-memories/
+├───OK─── https://www.gravatar.com/avatar/e73845c782e08654a854db215f01c02b?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/memoirs/photographs-and-memories/
+├───OK─── https://alecsatin.github.io/assets/images/1979-227x300.jpg
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/memoirs/photographs-and-memories/
+Finished! 105 links found. 97 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/memoirs/letter-to-dying/
+├─BROKEN─ http://www.saksfifthavenue.com/ (HTTP_403)
+├───OK─── https://en.wikipedia.org/wiki/Mercedes-Benz_SL-Class
+├───OK─── https://www.gravatar.com/avatar/28dae98de3703d22810e4cde35dbfbe7?d=mm&s=80
+├───OK─── http://www.neimanmarcus.com/
+├───OK─── https://twitter.com/intent/tweet?text=Letter%20to%20my%20dying%20aunt%20https://alecsatin.github.io/memoirs/letter-to-dying/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/memoirs/letter-to-dying/
+├───OK─── https://www.gravatar.com/avatar/3c342108bc0d6328ea711199875b95c8?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/memoirs/letter-to-dying/
+├───OK─── http://www.myjewishlearning.com/article/the-haggadah/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/memoirs/letter-to-dying/
+└───OK─── http://www.luckscaterers.com/
+Finished! 87 links found. 76 excluded. 1 broken.
+
+Getting links from: https://alecsatin.github.io/memoirs/in-honor-of-john-david-harrell-iii/
+├───OK─── https://twitter.com/intent/tweet?text=John%20David%20Harrell%20III,%20Aug%2026,%201957%20–%20June%2030,%202008%20https://alecsatin.github.io/memoirs/in-honor-of-john-david-harrell-iii/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/memoirs/in-honor-of-john-david-harrell-iii/
+├───OK─── https://alecsatin.github.io/assets/images/john-harrell-iii.jpg
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/memoirs/in-honor-of-john-david-harrell-iii/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/memoirs/in-honor-of-john-david-harrell-iii/
+Finished! 63 links found. 58 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/old-stuff/heart-attack/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/old-stuff/heart-attack/
+├───OK─── https://twitter.com/intent/tweet?text=7%20Lessons%20Learned%20from%20a%20Heart%20Attack%20Scare%20https://alecsatin.github.io/old-stuff/heart-attack/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/old-stuff/heart-attack/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/old-stuff/heart-attack/
+├───OK─── https://alecsatin.github.io/memoirs/in-honor-of-john-david-harrell-iii
+Finished! 72 links found. 67 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/old-stuff/21-days-without-complaining/
+├───OK─── https://twitter.com/intent/tweet?text=21%20Days%20Without%20Complaining?%20https://alecsatin.github.io/old-stuff/21-days-without-complaining/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/old-stuff/21-days-without-complaining/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/old-stuff/21-days-without-complaining/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/old-stuff/21-days-without-complaining/
+└───OK─── http://acomplaintfreeworld.org/
+Finished! 65 links found. 60 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/
+├───OK─── https://twitter.com/intent/tweet?text=How%20to%20Say%20Goodbye%20When%20a%20Workmate%20Leaves%20https://alecsatin.github.io/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/
+Finished! 67 links found. 63 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/old-stuff/goodbye-colleagues-cube-cleanout/
+├───OK─── https://twitter.com/intent/tweet?text=Saying%20Goodbye%20to%20Colleagues%20-%20The%20Great%20Cube%20Cleanout%20https://alecsatin.github.io/old-stuff/goodbye-colleagues-cube-cleanout/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/old-stuff/goodbye-colleagues-cube-cleanout/
+├───OK─── http://www.43folders.com/2004/09/08/getting-started-with-getting-things-done
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/old-stuff/goodbye-colleagues-cube-cleanout/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/old-stuff/goodbye-colleagues-cube-cleanout/
+Finished! 66 links found. 61 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/song/by-grace-im-saved-grace-free-and-boundless/
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.youtube.com/embed/tKJyb_oiNOw?start=22&rel=0
+├───OK─── https://twitter.com/intent/tweet?text=By%20grace%20I%27m%20saved,%20grace%20free%20and%20boundless%20https://alecsatin.github.io/song/by-grace-im-saved-grace-free-and-boundless/
+├─BROKEN─ https://alecsatin.github.io/songs/by-grace-im-saved-grace-free-and-boundless/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/by-grace-im-saved-grace-free-and-boundless/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/by-grace-im-saved-grace-free-and-boundless/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/by-grace-im-saved-grace-free-and-boundless/
+Finished! 70 links found. 62 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/song/o-little-flock-fear-not-the-foe/
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.youtube.com/embed/qOdlhd0CCOw
+├───OK─── https://twitter.com/intent/tweet?text=O%20little%20flock%20fear%20not%20the%20foe%20https://alecsatin.github.io/song/o-little-flock-fear-not-the-foe/
+├─BROKEN─ https://alecsatin.github.io/songs/o-little-flock-fear-not-the-foe/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/o-little-flock-fear-not-the-foe/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/o-little-flock-fear-not-the-foe/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/o-little-flock-fear-not-the-foe/
+Finished! 61 links found. 53 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/song/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.youtube.com/embed/qucc8BNu83o
+├───OK─── https://twitter.com/intent/tweet?text=O%20thou%20from%20whom%20all%20goodness%20flows,%20dear%20Lord%20remember%20me%20https://alecsatin.github.io/song/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+├─BROKEN─ https://alecsatin.github.io/songs/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+Finished! 67 links found. 59 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/song/zion-stands-with-hills-surrounded/
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.youtube.com/embed/hz7WC9Lh8nA
+├───OK─── https://twitter.com/intent/tweet?text=Zion%20stands%20with%20hills%20surrounded%20https://alecsatin.github.io/song/zion-stands-with-hills-surrounded/
+├─BROKEN─ https://alecsatin.github.io/songs/2015-10-11-zion-stands-with-hills-surrounded/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/zion-stands-with-hills-surrounded/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/zion-stands-with-hills-surrounded/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/zion-stands-with-hills-surrounded/
+Finished! 66 links found. 58 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/song/come-ye-thankful-people-come/
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.youtube.com/embed/ldJtnE9h4fU
+├───OK─── https://twitter.com/intent/tweet?text=Come%20ye%20thankful%20people%20come%20https://alecsatin.github.io/song/come-ye-thankful-people-come/
+├─BROKEN─ https://alecsatin.github.io/songs/come-ye-thankful-people-come/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/come-ye-thankful-people-come/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/come-ye-thankful-people-come/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/come-ye-thankful-people-come/
+Finished! 67 links found. 59 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/song/for-all-the-saints-who-from-their-labors-rest/
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.youtube.com/embed/1qnEO1-jnL4
+├───OK─── https://twitter.com/intent/tweet?text=For%20all%20the%20saints%20who%20from%20their%20labors%20rest%20https://alecsatin.github.io/song/for-all-the-saints-who-from-their-labors-rest/
+├─BROKEN─ https://alecsatin.github.io/songs/for-all-the-saints-who-from-their-labors-rest/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/for-all-the-saints-who-from-their-labors-rest/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/for-all-the-saints-who-from-their-labors-rest/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/for-all-the-saints-who-from-their-labors-rest/
+Finished! 70 links found. 62 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/song/the-churchs-one-foundation/
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.youtube.com/embed/b0hieUU_jz4
+├───OK─── https://www.gravatar.com/avatar/d4bf87810cdfd3842285348bdc10f44b?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=The%20Church%27s%20One%20Foundation%20https://alecsatin.github.io/song/the-churchs-one-foundation/
+├─BROKEN─ https://alecsatin.github.io/songs/the-churchs-one-foundation/ (HTTP_404)
+├─BROKEN─ https://alecsatin.github.io/song (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/song/the-churchs-one-foundation/
+├───OK─── https://www.gravatar.com/avatar/5fbabe605c5af3372aff93af036a0a5e?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/song/the-churchs-one-foundation/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/song/the-churchs-one-foundation/
+Finished! 83 links found. 73 excluded. 3 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/heard-on-the-streets-of-nyc/
+├───OK─── https://twitter.com/intent/tweet?text=Heard%20on%20the%20streets%20of%20NYC%20https://alecsatin.github.io/spirit-of-the-age/heard-on-the-streets-of-nyc/
+├─BROKEN─ https://nycpastor.com/2016/07/05/heard-on-the-streets-of-nyc/ (HTTP_403)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/heard-on-the-streets-of-nyc/
+├───OK─── http://player.vimeo.com/video/27791873
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/heard-on-the-streets-of-nyc/
+├───OK─── https://alecsatin.github.io/spirit-of-the-age
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/heard-on-the-streets-of-nyc/
+Finished! 98 links found. 91 excluded. 1 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/mark-zuckerberg-masking-tape/
+├───OK─── http://www.huffingtonpost.com/2013/05/31/kathleen-taylor-religious-fundamentalism-mental-illness_n_3365896.html
+├───OK─── https://twitter.com/intent/tweet?text=Mark%20Zuckerberg%27s%20Masking%20Tape%20https://alecsatin.github.io/spirit-of-the-age/mark-zuckerberg-masking-tape/
+├───OK─── https://www.youtube-nocookie.com/embed/oStcb5J3_kg?rel=0
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/mark-zuckerberg-masking-tape/
+├───OK─── https://alecsatin.github.io/assets/images/zuckerberg-taped-camera.jpg
+├───OK─── http://www.theguardian.com/money/2012/oct/22/amazon-wipes-customers-kindle-deletes-account
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/mark-zuckerberg-masking-tape/
+├───OK─── https://alecsatin.github.io/assets/images/zuckerberg-taped-camera-2.jpg
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/mark-zuckerberg-masking-tape/
+├───OK─── https://www.bolehvpn.net/blog/2016/01/30/mummy-im-afraid-of-the-man-in-the-monitor/
+├───OK─── https://alecsatin.github.io/assets/images/amazon-kindle-you-dont-own-your-books.jpg
+├───OK─── https://alecsatin.github.io/assets/images/personality-profile-screen-from-social-media.jpg
+├───OK─── https://alecsatin.github.io/assets/images/emojis-monetized.jpg
+├───OK─── https://www.bolehvpn.net/blog/2016/06/12/this-start-up-will-help-your-landlord-check-your-facebook-posts-for-private-data/
+├───OK─── https://alecsatin.github.io/assets/images/phone-number-hacking.jpg
+├───OK─── https://www.bolehvpn.net/blog/2016/06/18/twitter-will-now-target-you-with-ads-based-on-your-emojis/
+├───OK─── https://www.bolehvpn.net/blog/2016/04/23/your-phone-number-is-all-that-hackers-need-to-track-your-calls-location-emails/
+└───OK─── https://www.bolehvpn.net/blog/2016/06/26/mark-zuckerberg-puts-tape-over-his-webcam-should-you/
+Finished! 101 links found. 83 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/blooms-taxonomy/
+├───OK─── http://www.worldwidewords.org/qa/qa-gar1.htm
+├───OK─── https://www.youtube-nocookie.com/embed/EsxHTE6CYkU?rel=0
+├───OK─── http://www.webmd.com/parenting/features/my-child-ready-preschool
+├───OK─── https://ichabodthegloryhasdeparted.blogspot.com/2016/06/what-happened-to-independent-thinking.html
+├───OK─── https://twitter.com/intent/tweet?text=How%20Bloom%27s%20Taxonomy%20helps%20explain%20the%20problems%20of%20American%20education%20https://alecsatin.github.io/spirit-of-the-age/blooms-taxonomy/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/blooms-taxonomy/
+├───OK─── https://alecsatin.github.io/assets/images/blooms-taxonomy.png
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/blooms-taxonomy/
+├───OK─── http://www.deliberatedumbingdown.com/
+├───OK─── https://alecsatin.github.io/assets/images/taxonomy-accordion-file.jpg
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/blooms-taxonomy/
+└───OK─── https://archive.org/details/TheUndergroundHistoryOfAmericanEducation_758
+Finished! 82 links found. 70 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/the-shack-aleister-crowley/
+├───OK─── https://www.youtube-nocookie.com/embed/epEQv6-5u0U?rel=0
+├───OK─── https://twitter.com/intent/tweet?text=The%20Shack%20-%20William%20Paul%20Young%20and%20Aleister%20Crowley%20https://alecsatin.github.io/spirit-of-the-age/the-shack-aleister-crowley/
+├───OK─── https://pilgrimsprogressrevisted.wordpress.com/2016/06/09/the-shack-its-dangerous-theology-and-error-full-documentary-film-by-paul-flynn/
+├───OK─── https://alecsatin.github.io/assets/images/aleister-crowley-magus.png
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/the-shack-aleister-crowley/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/the-shack-aleister-crowley/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/the-shack-aleister-crowley/
+Finished! 85 links found. 78 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/young-christians-or-false-converts/
+├───OK─── https://www.youtube.com/embed/VZkgY-bP7yk
+├───OK─── https://twitter.com/intent/tweet?text=Young%20Christians%20or%20false%20converts?%20You%20decide.%20https://alecsatin.github.io/spirit-of-the-age/young-christians-or-false-converts/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/young-christians-or-false-converts/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/young-christians-or-false-converts/
+├───OK─── http://www.christianresearchservice.com/dont-let-this-be-your-kid-disturbing-video-of-girl-from-bethel-church-in-redding-calif/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/young-christians-or-false-converts/
+Finished! 81 links found. 75 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/gotthard-tunnel-religion-of-europe/
+├───OK─── https://twitter.com/intent/tweet?text=The%20longest%20tunnel%20in%20the%20world%20and%20the%20religion%20of%20Europe%20https://alecsatin.github.io/spirit-of-the-age/gotthard-tunnel-religion-of-europe/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/gotthard-tunnel-religion-of-europe/
+├───OK─── http://player.vimeo.com/video/169442883
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/gotthard-tunnel-religion-of-europe/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/gotthard-tunnel-religion-of-europe/
+Finished! 87 links found. 82 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/modern-european-nationalism/
+├───OK─── https://www.youtube-nocookie.com/embed/LkMVOXmckOs?rel=0
+├───OK─── https://www.youtube.com/embed/GaCMXyN3qJ0
+├───OK─── https://twitter.com/intent/tweet?text=How%20to%20understand%20Europe%20in%204%20minutes%20or%20less%20https://alecsatin.github.io/spirit-of-the-age/modern-european-nationalism/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/modern-european-nationalism/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/modern-european-nationalism/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/modern-european-nationalism/
+Finished! 74 links found. 68 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/secret-world-of-mormonism/
+├───OK─── https://www.youtube.com/embed/3WNLt1FeyZI
+├───OK─── https://twitter.com/intent/tweet?text=The%20Secret%20World%20of%20Mormonism%20https://alecsatin.github.io/spirit-of-the-age/secret-world-of-mormonism/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/secret-world-of-mormonism/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/secret-world-of-mormonism/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/secret-world-of-mormonism/
+Finished! 87 links found. 82 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/cultural-appropriation-and-the-new-educational-milieu/
+├───OK─── https://www.youtube.com/embed/jDlQ4H0Kdg8
+├───OK─── https://www.gravatar.com/avatar/ee530343478aef8d3502e950c3e7888c?d=mm&s=80
+├───OK─── https://veritasdomain.wordpress.com/2016/03/29/dreadlocks-discrimination-and-the-dreadful-defense-that-its-cultural-appropriation/#comment-43938
+├───OK─── https://twitter.com/intent/tweet?text=Cultural%20appropriation%20and%20the%20new%20educational%20milieu%20https://alecsatin.github.io/spirit-of-the-age/cultural-appropriation-and-the-new-educational-milieu/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/cultural-appropriation-and-the-new-educational-milieu/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/cultural-appropriation-and-the-new-educational-milieu/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/cultural-appropriation-and-the-new-educational-milieu/
+Finished! 77 links found. 70 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/john-hagee-hates-the-jewish-people/
+├───OK─── https://www.youtube-nocookie.com/embed/h89-3_kIRDA?rel=0
+├───OK─── https://www.gravatar.com/avatar/97fe40e39c0a7860bd02e215d3fc28d2?d=mm&s=80
+├───OK─── https://living4hisglory.wordpress.com/2016/02/26/false-teacher-friday-learning-the-importance-of-being-a-berean-3/
+├───OK─── https://twitter.com/intent/tweet?text=John%20Hagee%20hates%20the%20Jewish%20People%20https://alecsatin.github.io/spirit-of-the-age/john-hagee-hates-the-jewish-people/
+├───OK─── http://www.huffingtonpost.com/2012/01/19/best-paid-pastors_n_1214043.html
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/john-hagee-hates-the-jewish-people/
+├───OK─── https://alecsatin.github.io/assets/images/capture-john-hagee-false-teaching-about-jesus.jpg
+├───OK─── https://www.youtube-nocookie.com/embed/tFv5ijz6s6A?rel=0
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/john-hagee-hates-the-jewish-people/
+├─BROKEN─ https://alecsatin.github.io/keith-green-killed/ (HTTP_404)
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/john-hagee-hates-the-jewish-people/
+Finished! 106 links found. 95 excluded. 1 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/starbucks-ashtoreth/
+├───OK─── https://en.wikipedia.org/wiki/Siren_%28mythology%29
+├───OK─── http://interferencetheory.com/Blog/files/1bb1437372cec5314a88aef460c1eed2-122.html
+├───OK─── https://twitter.com/intent/tweet?text=Ashteroth%20lives!%20https://alecsatin.github.io/spirit-of-the-age/starbucks-ashtoreth/
+├───OK─── https://www.gravatar.com/avatar/8de40693bc7ed24d3a604105de6980fe?d=mm&s=80
+├───OK─── http://www.huffingtonpost.com/aaron-hurst/starbucks-community_b_1474639.html
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/starbucks-ashtoreth/
+├───OK─── https://alecsatin.github.io/assets/images/ashtoreth.jpg
+├───OK─── https://www.gravatar.com/avatar/cd80a079f38c2891332310a59813a49a?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/starbucks-ashtoreth/
+├─BROKEN─ http://alecsatin.com/wp-message/uploads/2016/03/asherah-pole-modern.jpg (HTTP_404)
+├───OK─── https://alecsatin.github.io/assets/images/original-goddess-logo.jpg
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/starbucks-ashtoreth/
+├───OK─── https://www.gravatar.com/avatar/f938e72e2cb84ffef74baa42045fce65?d=mm&s=80
+├───OK─── https://alecsatin.github.io/assets/images/modern-ashtoreth.jpg
+└─BROKEN─ http://alecsatin.com/wp-message/uploads/2016/03/chop-down-that-asherah-pole.jpeg (HTTP_404)
+Finished! 156 links found. 141 excluded. 2 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/what-orwellian-means/
+├───OK─── http://birdsoftheair.blogspot.com/2016/01/arrogance.html
+├───OK─── https://www.youtube.com/embed/oe64p-QzhNE
+├───OK─── https://twitter.com/intent/tweet?text=What%20does%20Orwellian%20really%20mean?%20https://alecsatin.github.io/spirit-of-the-age/what-orwellian-means/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/what-orwellian-means/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/what-orwellian-means/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/what-orwellian-means/
+Finished! 73 links found. 67 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/the-hidden-meaning-behind-the-logo/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/the-hidden-meaning-behind-the-logo/
+├───OK─── https://twitter.com/intent/tweet?text=The%20hidden%20meaning%20behind%20the%20logo%20https://alecsatin.github.io/spirit-of-the-age/the-hidden-meaning-behind-the-logo/
+├───OK─── https://alecsatin.github.io/assets/images/logo-2.jpg
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/the-hidden-meaning-behind-the-logo/
+├───OK─── https://alecsatin.github.io/assets/images/logo3.jpg
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/the-hidden-meaning-behind-the-logo/
+├───OK─── https://alecsatin.github.io/assets/images/logo4.jpg
+├───OK─── https://alecsatin.github.io/assets/images/logo5.jpg
+├───OK─── https://alecsatin.github.io/assets/images/logo-a.jpg
+├───OK─── https://alecsatin.github.io/assets/images/logo7.jpg
+├───OK─── https://alecsatin.github.io/assets/images/logo8.jpg
+Finished! 114 links found. 103 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/real-life-facebook/
+├───OK─── https://www.youtube.com/embed/LO-1VaR3PPo?rel=0
+├───OK─── https://twitter.com/intent/tweet?text=Real%20life%20Facebook%20https://alecsatin.github.io/spirit-of-the-age/real-life-facebook/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/real-life-facebook/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/real-life-facebook/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/real-life-facebook/
+Finished! 69 links found. 64 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/behaviorism-and-social-conditioning/
+├───OK─── https://alecsatin.github.io/assets/images/skinner-box.jpg
+├───OK─── https://twitter.com/intent/tweet?text=How%20the%20science%20of%20behaviorism%20is%20used%20in%20social%20conditioning%20https://alecsatin.github.io/spirit-of-the-age/behaviorism-and-social-conditioning/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/behaviorism-and-social-conditioning/
+├───OK─── https://www.goodreads.com/book/show/2527900.Nudge
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/behaviorism-and-social-conditioning/
+├───OK─── https://alecsatin.github.io/assets/images/innocent-baby.jpg
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/behaviorism-and-social-conditioning/
+├───OK─── https://alecsatin.github.io/assets/images/making-life-easier.jpg
+Finished! 103 links found. 95 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/trevor-hammack-deleted/
+├───OK─── https://www.gravatar.com/avatar/927531e44de17d6459ccecf1022baada?d=mm&s=80
+├───OK─── https://twitter.com/intent/tweet?text=Trevor%20Hammack%20-%20Deleted%20https://alecsatin.github.io/spirit-of-the-age/trevor-hammack-deleted/
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/trevor-hammack-deleted/
+├───OK─── http://www.sermonaudio.com/search.asp?speakeronly=true&currsection=sermonsspeaker&keyword=Trevor_Hammack
+├───OK─── https://www.gravatar.com/avatar/1dd696c192e13fc95009dcadbf46ad92?d=mm&s=80
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/trevor-hammack-deleted/
+├───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/trevor-hammack-deleted/
+├───OK─── https://www.gravatar.com/avatar/ebe3ca105aa2ac8b60a2b79991b6d549?d=mm&s=80
+├───OK─── http://www.sermonaudio.com/sermoninfo.asp?SID=3211416553710
+├───OK─── https://www.gravatar.com/avatar/anonymous@anonymous.com?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/d557824db152e1b29173d179614d412c?d=mm&s=80
+├───OK─── http://www.sermonaudio.com/sermoninfo.asp?SID=413141710574
+├───OK─── https://www.gravatar.com/avatar/971a6c73ae77edb37211a26a14e97d96?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/ce489f580f477547b66643da95769f86?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/4e08cab1f1b4fd9d1e0044f75fb1892e?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/afa9cff8a31e99fc30fa4a8537f3618b?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/d52e1759322a1744cbceff2c24b5aa3f?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/3de458f3325bcc39d9cce8a361eb41d7?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/e7f862b74dd6d70e3abc42b63c91910c?d=mm&s=80
+├───OK─── https://www.gravatar.com/avatar/558c80720de175770a73d622d7957949?d=mm&s=80
+└───OK─── http://www.sermonaudio.com/sermoninfo.asp?SID=41014126375
+Finished! 141 links found. 120 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/spirit-of-the-age/monday-morning-rail/
+├───OK─── https://www.youtube.com/embed/0sRdwQj8h6E
+├───OK─── https://twitter.com/intent/tweet?text=Monday%20morning%20rail%20-%20Good%20morning%20America,%20how%20are%20ya%27?%20https://alecsatin.github.io/spirit-of-the-age/monday-morning-rail/
+├─BROKEN─ https://alecsatin.github.io/songs/monday-morning-rail/ (HTTP_404)
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/spirit-of-the-age/monday-morning-rail/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/spirit-of-the-age/monday-morning-rail/
+├─BROKEN─ http://www.zersetzung.org/special-exhibits/255-trains (HTTP_404)
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/spirit-of-the-age/monday-morning-rail/
+Finished! 68 links found. 61 excluded. 2 broken.
+
+Getting links from: https://alecsatin.github.io/assets/images/the-lords-prayer-842-1024.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://alecsatin.github.io/sitemap.xml
+Error: Expected type "text/html" but got "application/xml"
+
+Getting links from: https://alecsatin.github.io/404.html
+├───OK─── https://www.youtube.com/embed/eiprqeaydik
+├───OK─── https://twitter.com/intent/tweet?text=Whoops.%20%20Page%20not%20found.%20https://alecsatin.github.io/404.html
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/404.html
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/404.html
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/404.html
+Finished! 42 links found. 37 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/assets/css/main.css
+Error: Expected type "text/html" but got "text/css"
+
+Getting links from: https://alecsatin.github.io/message-sent.html
+├───OK─── https://twitter.com/intent/tweet?text=Message%20sent%20https://alecsatin.github.io/message-sent.html
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/message-sent.html
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/message-sent.html
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/message-sent.html
+Finished! 42 links found. 38 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/old-stuff/
+Finished! 39 links found. 39 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page-archive/
+Finished! 124 links found. 124 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/search_data.json
+Error: Expected type "text/html" but got "application/json; charset=utf-8"
+
+Getting links from: https://alecsatin.github.io/tags/
+Finished! 383 links found. 383 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/website/
+Finished! 39 links found. 39 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/year-archive/
+Finished! 97 links found. 97 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/assets/css/style.css
+Error: Expected type "text/html" but got "text/css"
+
+Getting links from: https://alecsatin.github.io/how-to-treat-the-new-guy/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/goodbye-colleagues-cube-cleanout/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/how-to-say-goodbye-when-a-workmate-leaves/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/in-honor-of-john-david-harrell-iii-aug-26-1957-june-30-2008/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/21-days-without-complaining/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/heart-attack/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/letter-to-dying/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/monday-morning-rail/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/trevor-hammack-deleted/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/the-churchs-one-foundation/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/for-all-the-saints-who-from-their-labors-rest/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/photographs-and-memories/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/good-cheer-come-ye-thankful-people-come/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/shop-hate-fear/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/zion-stands-with-hills-surrounded/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/darwinian-evolution-science-fiction/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/reverent-worship-irreverent-worship/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/real-life-facebook/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/the-hidden-meaning-behind-the-logo/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/the-ugliness-of-fake-christianity/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/what-orwellian-means/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/does-mary-actually-appear/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/praying-the-rosary/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/abraham-friend-of-god/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/did-jesus-believe-the-old-testament/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/censorship-and-online-christian-discussion/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/jesus-hermeneutic/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/starbucks-ashtoreth/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/john-hagee-hates-the-jewish-people/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/hematohidrosis-sweat-drops-blood/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/hey-why-are-you-filming-this/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/secret-world-of-mormonism/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/dont-trust-television/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/europe-in-4-minutes/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/20-ways-to-tell-if-your-pastor-is-apostate/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/full-military-honors-arlington-national-cemetery/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/the-religion-of-europe-2016-its-not-islam/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/young-christians-or-false-converts-you-decide/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/the-shack-aleister-crowley/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/lemur-pet/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/how-much-of-the-new-testament-was-written-by-paul/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/blooms-taxonomy/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/zuckerbergs-masking-tape/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/what-is-concupiscence/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/heard-on-the-streets-of-nyc/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/o-thou-from-whom-all-goodness-flows-dear-lord-remember-me/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/o-little-flock-fear-not-the-foe/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/faith/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/by-grace-im-saved-grace-free-and-boundless/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/by-grace-im-saved/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/a-few-more-years-shall-roll/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/why-i-unsubscribed/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/social-isolation-and-the-christian/
+Finished! 3 links found. 3 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page4/
+Finished! 56 links found. 56 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page5/
+Finished! 57 links found. 57 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page6/
+Finished! 57 links found. 57 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page7/
+Finished! 57 links found. 57 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page8/
+Finished! 57 links found. 57 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page9/
+Finished! 58 links found. 58 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page10/
+Finished! 56 links found. 56 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page11/
+Finished! 55 links found. 55 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/page12/
+Finished! 54 links found. 54 excluded. 0 broken.
+
+Getting links from: https://alecsatin.github.io/feed.xslt.xml
+Error: Expected type "text/html" but got "application/xml"
+
+Getting links from: https://alecsatin.github.io/stanford-dont-believe-what-you-see-on-video/
+├───OK─── https://www.youtube.com/embed/ohmajJTcpNk
+├───OK─── https://twitter.com/intent/tweet?text=Matthias%20Niessner%20of%20Stanford%20shows%20why%20you%20should%20be%20skeptical%20of%20anything%20you%20see%20on%20video%20https://alecsatin.github.io/stanford-dont-believe-what-you-see-on-video/
+├─BROKEN─ https://alecsatin.github.io/spirit-of-the-age/stanford-dont-believe-what-you-see-on-video/ (HTTP_404)
+├───OK─── http://www.graphics.stanford.edu/~niessner/thies2016face.html
+├───OK─── https://www.linkedin.com/shareArticle?mini=true&url=https://alecsatin.github.io/stanford-dont-believe-what-you-see-on-video/
+├───OK─── https://www.facebook.com/sharer/sharer.php?u=https://alecsatin.github.io/stanford-dont-believe-what-you-see-on-video/
+└───OK─── https://plus.google.com/share?url=https://alecsatin.github.io/stanford-dont-believe-what-you-see-on-video/
+Finished! 74 links found. 67 excluded. 1 broken.
+
+Getting links from: https://alecsatin.github.io/assets/images/logo-2.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://alecsatin.github.io/assets/images/logo3.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://alecsatin.github.io/assets/images/logo4.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://alecsatin.github.io/assets/images/logo5.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://alecsatin.github.io/assets/images/logo-a.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://alecsatin.github.io/assets/images/logo7.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Getting links from: https://alecsatin.github.io/assets/images/logo8.jpg
+Error: Expected type "text/html" but got "image/jpeg"
+
+Finished! 7467 links found. 6793 excluded. 37 broken.
+Elapsed time: 6 minutes, 21 seconds

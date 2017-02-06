@@ -11,7 +11,7 @@ excerpt: '"The Church''s One Foundation" was written in response to a serious he
   in the faith and knowledge that God Himself chooses people from every nation. [...]'
 redirect_from: 
   - /the-churchs-one-foundation/
-categories: song
+categories: songs
 tags:
   - The-Lutheran-Hymnal
   - faith
