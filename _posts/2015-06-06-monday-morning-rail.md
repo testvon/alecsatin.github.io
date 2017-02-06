@@ -19,7 +19,7 @@ tags:
 
 In this blog I try to give you a sense of how freedom felt.  The present fog seems normal to us now.  But it hasn't always been so.  Sometimes the pain of what we've lost - what many of you will never know - is so strong it knocks the air out of me.  Yet I prefer the tears of loss to the hopelessness of forgetfulness.
 
-Zersetzung got it exactly right in [Train Time !!!](http://www.zersetzung.org/special-exhibits/255-trains). Think about his words as you listen to Willie Nelson sing Steve Goodman's 1971 song, *City of New Orleans*.
+Zersetzung got it exactly right in Train Time (*original source removed) !!!]. Think about his words as you listen to Willie Nelson sing Steve Goodman's 1971 song, *City of New Orleans*.
 
 **Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/monday-morning-rail/){: .btn .btn--warning} to watch the video.
 {: .notice}

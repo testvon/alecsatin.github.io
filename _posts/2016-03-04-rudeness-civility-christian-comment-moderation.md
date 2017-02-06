@@ -53,7 +53,7 @@ One error I've made is to assume that others share my assumptions of what consti
 
 In a comment thread on another blog Ducky tried to discredit me by revealing my past history of [reading tarot cards](/memoirs/tarot-cards/). This had nothing to do with what was being discussed.  Ducky revealed it only to smear me and derail the conversation.
 
-Ducky makes no pretense of being a Christian.  He has many valuable things to say, such as his [comment on *Photographs and memories*](http://localhost:4000/memoirs/photographs-and-memories/#comment5).  It really surprised me that he took such a cheap shot.
+Ducky makes no pretense of being a Christian.  He has many valuable things to say, such as his [comment on *Photographs and memories*](/memoirs/photographs-and-memories/#comment5).  It really surprised me that he took such a cheap shot.
 
 
 

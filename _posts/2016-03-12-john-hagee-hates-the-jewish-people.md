@@ -95,7 +95,7 @@ God forgive us for holding this light in a covered basket as people all around u
 
 
 
-What if no one had told [Keith Green](/keith-green-killed/) about true salvation through Jesus Christ?  What if nobody had told you?
+What if no one had told Keith Green about true salvation through Jesus Christ?  What if nobody had told you?
 
 
 

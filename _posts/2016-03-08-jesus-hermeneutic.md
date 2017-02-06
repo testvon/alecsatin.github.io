@@ -70,7 +70,7 @@ My latest run-in with a proponent of this pseudo-Christian political radicalism 
 
 
 
-If you take a moment to think about this, you will start to see how this method of Biblical interpretation does violence to what Christians and the Christian church have understood about God and ethics for two millenia.  First of all it denies the hermeneutic principle of *Scripture interprets Scripture*.  Secondly (as LPC [has pointed out](/apostate-christian-comments/#comment-1456)), all the words of the 66 books of the Bible are Jesus' words.
+If you take a moment to think about this, you will start to see how this method of Biblical interpretation does violence to what Christians and the Christian church have understood about God and ethics for two millenia.  First of all it denies the hermeneutic principle of *Scripture interprets Scripture*.  Secondly (as LPC has pointed out), all the words of the 66 books of the Bible are Jesus' words.
 
 Josh's moral umbrage against Christians who believe it's just to defend the weak and powerless aligns perfectly with Campolo's Gandhian agenda:
 
