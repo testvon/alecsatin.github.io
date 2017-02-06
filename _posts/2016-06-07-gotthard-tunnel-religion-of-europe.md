@@ -6,8 +6,8 @@ title: The longest tunnel in the world and the religion of Europe
 header:
   teaser: "/assets/images/category-spirit-of-the-age-grey.png"
   video:
-    id: 169442883
     provider: vimeo
+    id: 169442883
 categories:
 - Hegelian dialectics
 excerpt: "The Swiss Gotthard Base Tunnel opened June 2016.  It is the longest and deepest travel tunnel in the world. Opening ceremonies celebrate..."
