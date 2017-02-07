@@ -103,6 +103,6 @@ Be a good Christian example to those around you.  Only buy the best stuff you ca
 
 And.  Just for today, _Use the good paper_.
 
-UPDATE: The meaning of "use the good paper" is a little obscure.  [I try to explain it in this comment below.](http://alecsatin.com/use-the-good-paper/#comment-698)
+UPDATE: The meaning of "use the good paper" is a little obscure.  [I try to explain it in this comment below.](/memoirs/use-the-good-paper/#comment5)
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

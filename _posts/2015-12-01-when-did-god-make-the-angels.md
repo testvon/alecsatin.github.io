@@ -15,6 +15,9 @@ tags:
   - God
   - Lucifer
   - Satan
+  - creation
+  - adam
+  - eve
 header:
   image: assets/images/third-day.jpg
   caption: "On the third day God created..."

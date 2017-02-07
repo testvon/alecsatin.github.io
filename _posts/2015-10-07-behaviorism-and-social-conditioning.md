@@ -6,7 +6,7 @@ redirect_from:
   - /shop-hate-fear/ 
 categories:  spirit-of-the-age
 header:
-  teaser: /assets/images/category-spirit-of-the-age.png
+  teaser: /assets/images/category-spirit-of-the-age-grey.png
 tags:  
   - corporatism
   - social-conditioning
