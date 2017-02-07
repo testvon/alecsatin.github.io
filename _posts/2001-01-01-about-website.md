@@ -10,6 +10,7 @@ permalink: /about-website/
 excerpt: "About Alec Satin's Comfort for Christians website, personal writings on biblical orthodoxy, living with faith and the spirit of the age."
 categories: website
 tags:
+  - website
 modified: 2017-01-30 15:37
 ---
 {% include toc title="Contents" icon="book" %}
