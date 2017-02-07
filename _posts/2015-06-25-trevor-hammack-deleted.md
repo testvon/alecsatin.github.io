@@ -12,7 +12,9 @@ tags:
 - news-media
 - internet-scrubbing
 - Trevor Hammack
-- truth-telling
+- truth
+- politics
+- whistleblowers
 ---
 {% include toc title="Contents" icon="book" %}
 It’s not so difficult to erase a man these days.  If you don’t believe me, ask some of the thousands of people in the US and Europe who used to listen to the _News in Focus_ program.  Not only was Trevor Hammack’s full body of work scrubbed from the internet, but the man himself left his ministry, closed or abandoned his social media and online accounts, and gave no explanation for what happened.  The few online queries posted about him were met with cowardly and unsubstantiated ad hominem attacks - criticisms of the man, not the content of his message.

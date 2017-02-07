@@ -19,6 +19,7 @@ tags:
   - Gandhi
   - pacifism
   - non-violence
+  - politics
 ---
 {% include toc title="Contents" icon="book" %}
 Over the past few weeks I've been figuratively cleaning off the bottoms of my shoes after stepping into multiple controversies with people who seem to be following different gospels than my own.  One of these systems is held by many of the twenty- and thirty-somethings I come in contact with.  These younger Christians try to take the moral high ground.  They've been deceived.

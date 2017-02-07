@@ -15,6 +15,7 @@ tags:
   - George-Orwell 
   - deception
   - social-conditioning 
+  - politics
 ---
 
 Using the term _Orwellian_ to mean authoritarian misses the point Eric Blair/George Orwell tried to convey in the novel _1984_.

@@ -6,11 +6,12 @@ categories: books
 header:
   teaser: /assets/images/category-books-grey.png
 tags:
-  - Worldview
+  - worldview
+  - politics
   - Enlightenment
   - Post-modernism
   - Modernism
-  - Recommended Reading
+  - books
 ---
 ![How the West was lost]({{ site.url }}{{ site.baseurl }}/assets/images/how-the-west-was-lost.jpg)
 *How the West was lost* 

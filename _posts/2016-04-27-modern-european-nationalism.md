@@ -18,6 +18,7 @@ tags:
   - Tower-of-Babel
   - Islam
   - Turkey
+  - politics
 excerpt: "History leaves footprints.  If you've wondered what's going in Europe, close attention to this song will fill in many gaps.  Mohammad is not the biggest enemy in this fight."
 ---
 {% include toc title="Contents" icon="book" %}

@@ -21,6 +21,7 @@ tags:
   - elitism
   - John-Watson
   - B-F-Skinner
+  - politics
 ---
 {% include toc title='Contents' icon='book' %}
 

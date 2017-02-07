@@ -11,6 +11,9 @@ excerpt: "About Alec Satin's Comfort for Christians website, personal writings o
 categories: website
 tags:
   - website
+  - politics
+  - tarot
+  - occult
 modified: 2017-01-30 15:37
 ---
 {% include toc title="Contents" icon="book" %}

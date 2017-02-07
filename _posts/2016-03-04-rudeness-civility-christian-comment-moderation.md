@@ -23,6 +23,7 @@ tags:
   - manners
   - censorship
   - free-speech
+  - politics
 ---
 {% include toc title="Contents" icon="book" %}
 

@@ -8,15 +8,15 @@ header:
 redirect_from:
   - /why-i-unsubscribed/
 tags:
-  - Negativity
-  - Rage
-  - Hate
-  - Hegelian Dialectic
-  - Reds
-  - Blues
-  - Friends
-  - Blogs
-  - Bloggers
+  - negativity
+  - hate
+  - Hegelian-Dialectic
+  - red-states
+  - blue-states
+  - friends
+  - blog
+  - blogger
+  - politics
 ---
 {% include toc title="Contents" icon="book" %}
 Dear Mitchell (name changed),

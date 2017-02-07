@@ -14,6 +14,7 @@ tags:
   - education
   - social-conditioning
   - race
+  - politics
 ---
 
 

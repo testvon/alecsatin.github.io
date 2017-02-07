@@ -14,6 +14,7 @@ tags:
   - social-conditioning
   - media
   - technology
+  - politics
 ---
 
 Matthias Niessner at Stanford shows how a cheap webcam and software can be used to create fake videos of any well-known celebrity or political figure.  

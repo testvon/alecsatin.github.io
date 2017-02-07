@@ -17,6 +17,7 @@ tags:
   - new-paganism
   - European-union
   - Gotthard-base-tunnel
+  - politics
 ---
 
 

@@ -15,6 +15,7 @@ tags:
   - chrislam
   - Islam
   - pope-francis
+  - politics
 header:
   teaser: /assets/images/category-spirit-of-the-age-grey.png
   image: /assets/images/rick-warren-pope-francis.jpg
