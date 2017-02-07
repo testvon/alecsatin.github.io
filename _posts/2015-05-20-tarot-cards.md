@@ -4,6 +4,7 @@ excerpt: Tarot was an important part of my life for almost 20 years. I studied i
 header:
   image: "/assets/images/bologna-tarot.jpg"
   caption: "Bologna Marseilles style tarot cards"
+  teaser: "/assets/images/category-memoirs-grey.png"
 redirect_from:
   - /read-tarot-cards/
   - /tarot-devil-card/
@@ -38,7 +39,7 @@ Matt writes,
 > Alec, could you tell me why you took down your tarot site?
 
 
-You may have found this post by looking for one of the popular tarot articles. Or you may be a long-time friend who’s curious as to what happened to [tarot.alecsatin.com](/memoirs/read-tarot-cards/). What follows is as clear and honest an explanation as I can provide. Please consider it in the manner in which it is provided.
+You may have found this post by looking for one of the popular tarot articles. Or you may be a long-time friend who’s curious as to what happened to [tarot.alecsatin.com](/memoirs/tarot-cards/). What follows is as clear and honest an explanation as I can provide. Please consider it in the manner in which it is provided.
 
 Tarot was an important part of my life for almost 20 years. I studied it, wrote about it, performed countless readings, and was considered knowledgeable by experts in the field. I chose to stop practicing tarot a few years ago, and have had no regrets. Here are my reasons why.
 
