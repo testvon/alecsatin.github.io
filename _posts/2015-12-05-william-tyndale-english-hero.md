@@ -18,7 +18,6 @@ tags:
 header:
   teaser: /assets/images/category-honor-grey.png
   image: /assets/images/william-tyndale.jpg
-excerpt:  
 ---
 {% include toc title="Contents" icon="book" %}
 
