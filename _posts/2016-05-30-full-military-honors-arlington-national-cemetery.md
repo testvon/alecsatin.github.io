@@ -4,7 +4,7 @@ redirect_from:
   - /full-military-honors-arlington-national-cemetery/
 title: Memorial day - Full military honors at Arlington National Cemetery
 header:
-  teaser: "/assets/images/category-honor-grey.png"
+  teaser: "/assets/images/category-honor.png"
   video:
     id: yHhVTC7_Wwc
     provider: youtube

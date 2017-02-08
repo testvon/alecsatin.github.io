@@ -7,7 +7,7 @@ author: Vishanthp
 excerpt: "The symbol of lust and knowledge bitten in to, all crossed with the colors of rainbow in the wrong order. And you couldn't dream of more appropriate logo pointing lust, knowledge, hope and anarchy."
 categories: spirit-of-the-age
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
 tags:
   - Apple
   - corporate-life

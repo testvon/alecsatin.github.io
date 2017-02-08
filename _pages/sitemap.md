@@ -4,7 +4,7 @@ title: "Sitemap"
 permalink: /sitemap/
 categories: website
 header:
-  teaser: "/assets/images/category-website-grey.png"
+  teaser: "/assets/images/category-website.png"
 ---
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ "sitemap.xml" | absolute_url }}) available for digesting as well.

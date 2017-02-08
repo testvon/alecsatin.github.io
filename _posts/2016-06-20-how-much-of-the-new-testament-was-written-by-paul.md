@@ -4,9 +4,9 @@ date: 2016-06-20 16:05:14+00:00
 redirect_from:  
   - /how-much-of-the-new-testament-was-written-by-paul/
 excerpt:  "A Christian pastor said, *I've never liked Paul.  What are his epistles?  We only have the one side of them, so we have to guess what he's talking about anyway.*"
-categories:  ever-wonder
+categories: ever-wonder
 header:
-  teaser: "/assets/images/category-ever-wonder-grey.png"
+  teaser: "/assets/images/category-ever-wonder.png"
 tags: 
   - Jesus-hermeneutic
   - Paul

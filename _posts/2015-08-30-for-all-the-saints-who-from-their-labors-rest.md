@@ -3,7 +3,7 @@ title: For all the saints who from their labors rest
 date: 2015-08-30 07:00:39+00:00
 excerpt: 'One of my favorite songs from the Lutheran Hymnal.  The golden evening brightens in the west, Soon, soon, to faithful warriors cometh rest,   Sweet is the calm of Paradise the blest. Alleluia! Alleluia!'
 header:
-  teaser: "/assets/images/category-song-grey.png"
+  teaser: "/assets/images/category-songs.png"
   video:
     id: 1qnEO1-jnL4
     provider: youtube

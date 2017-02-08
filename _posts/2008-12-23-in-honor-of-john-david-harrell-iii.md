@@ -6,7 +6,7 @@ redirect_from:
 excerpt: "On hearing the news, one of our mutual friends, John Wotherspoon, said, I think about that guy every day. How can it be that he is gone?"
 categories: memoirs
 header:
-  teaser: "/assets/images/category-memoirs-grey.png"
+  teaser: "/assets/images/category-memoirs.png"
 tags: 
   - death
   - loss

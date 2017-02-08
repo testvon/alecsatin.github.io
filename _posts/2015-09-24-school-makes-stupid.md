@@ -19,7 +19,7 @@ tags:
   - wisdom
   - understanding
 header:
-  teaser: /assets/images/category-spirit-of-the-age-grey.png
+  teaser: /assets/images/category-spirit-of-the-age.png
   video:
     id: M2fHQ9eULzk
     provider: youtube

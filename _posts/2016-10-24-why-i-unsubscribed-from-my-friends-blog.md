@@ -4,7 +4,7 @@ date: 2016-10-24
 excerpt: Over the last year I've steadily stopped following political and economics blogs.  The trajectory to a world ruled by the scientific elites clicks on towards an expected end.
 categories: memoirs
 header:
-  teaser: "/assets/images/category-memoirs-grey.png"
+  teaser: "/assets/images/category-memoirs.png"
 redirect_from:
   - /why-i-unsubscribed/
 tags:

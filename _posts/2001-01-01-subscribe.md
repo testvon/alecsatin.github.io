@@ -7,7 +7,7 @@ read_time: false
 excerpt: "Subscribe to Comfort for Christians updates"
 categories: website
 header:
-  teaser: "/assets/images/category-website-grey.png"
+  teaser: "/assets/images/category-website.png"
 tags:
 modified: 2017-01-29 17:18
 ---

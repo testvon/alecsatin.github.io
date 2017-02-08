@@ -5,7 +5,7 @@ redirect_from:
 title: Cultural appropriation and the new educational milieu
 excerpt: "Campus employee assaults white student for cultural appropriation."
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
     id: jDlQ4H0Kdg8
     provider: youtube

@@ -4,7 +4,7 @@ redirect_from:
   - /dont-trust-television/
 title: Matthias Niessner of Stanford shows why you should be skeptical of anything you see on video
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
     id: ohmajJTcpNk
     provider: youtube

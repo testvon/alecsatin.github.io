@@ -5,7 +5,7 @@ redirect_from:
   - /20-ways-to-tell-if-your-pastor-is-apostate/
 categories: ever-wonder
 header:
-  teaser: "/assets/images/category-ever-wonder-grey.png"
+  teaser: "/assets/images/category-ever-wonder.png"
 tags:
   - Church
   - Pastor

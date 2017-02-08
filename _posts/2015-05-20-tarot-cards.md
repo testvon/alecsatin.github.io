@@ -4,7 +4,7 @@ excerpt: Tarot was an important part of my life for almost 20 years. I studied i
 header:
   image: "/assets/images/bologna-tarot.jpg"
   caption: "Bologna Marseilles style tarot cards"
-  teaser: "/assets/images/category-memoirs-grey.png"
+  teaser: "/assets/images/category-memoirs.png"
 redirect_from:
   - /read-tarot-cards/
   - /tarot-devil-card/

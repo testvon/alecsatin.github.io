@@ -2,7 +2,7 @@
 title: "By grace I'm saved, grace free and boundless"
 date: 2016-07-31 06:00
 header:
-  teaser: "/assets/images/category-song-grey.png"
+  teaser: "/assets/images/category-songs.png"
   video:
     id: tKJyb_oiNOw?start=22&rel=0
     provider: youtube

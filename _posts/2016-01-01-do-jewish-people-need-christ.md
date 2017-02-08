@@ -4,14 +4,14 @@ excerpt: "Do Jewish people need Christ, or are they already right with God?  Or 
 redirect_from:
   - /do-jewish-people-need-christ/
 title: Do Jewish people need Christ?
-categories: biblical-orthodoxy
+categories: ever-wonder
 tags:
   - faithfulness
   - good-news
   - Jewish-people
   - sharing-Christ
 header:
-  teaser: /assets/images/category-memoirs-grey.png
+  teaser: /assets/images/category-ever-wonder.png
 ---
 {% include toc title="Contents" icon="book" %}
 

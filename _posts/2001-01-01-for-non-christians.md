@@ -6,7 +6,7 @@ categories: website
 tags:
   - website
 header:
-  teaser: "/assets/images/category-website-grey.png"
+  teaser: "/assets/images/category-website.png"
 ---
 Even if you don't share my [conviction](/beliefs/) that Jesus Christ is the only begotten son of God, I hope that you will feel comfortable looking around the site.  
 

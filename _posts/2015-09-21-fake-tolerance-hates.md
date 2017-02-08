@@ -15,7 +15,7 @@ tags:
 - self-righteousness
 - tolerance
 header:
-  teaser: /assets/images/category-spirit-of-the-age-grey.png
+  teaser: /assets/images/category-spirit-of-the-age.png
   image: /assets/images/fake-tolerance.jpg
 ---
 {% include toc title="Contents" icon="book" %}
@@ -25,7 +25,7 @@ Truly tolerant people understand a fundamental truth: hating people simply becau
 
 
 
-# The two super-classes
+# The *acceptable ones*
 
 
 

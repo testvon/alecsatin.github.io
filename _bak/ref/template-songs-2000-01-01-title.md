@@ -8,7 +8,7 @@ header:
 excerpt: ""
 categories: song
 header:
-  teaser: "/assets/images/category-song-grey.png"
+  teaser: "/assets/images/category-song.png"
 tags:
   - hymn
   - traditional

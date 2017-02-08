@@ -3,7 +3,7 @@ title: "Website history"
 date: 2017-01-01 08:00
 slug: about-website
 header:
-  teaser: "/assets/images/category-website-grey.png"
+  teaser: "/assets/images/category-website.png"
   image: /assets/images/bunyan-pilgrims-progress-hopeful-christian.jpg
   caption: "Hopeful helps Christian out of the slough of despond in Bunyan's *Pilgrim's Progress*."
 permalink: /about-website/

@@ -13,7 +13,7 @@ tags:
   - truth
   - Martin-Lloyd-Jones
 header:
-  teaser: /assets/images/category-biblical-orthodoxy-grey.png
+  teaser: /assets/images/category-biblical-orthodoxy.png
 ---
 
 <blockquote>

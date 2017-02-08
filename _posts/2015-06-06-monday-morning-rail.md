@@ -5,7 +5,7 @@ redirect_from:
   - /monday-morning-rail/
 title: Monday morning rail - Good morning America, how are ya'?
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
     id: 0sRdwQj8h6E
     provider: youtube

@@ -2,7 +2,7 @@
 title: Photographs and memories
 date: 2015-09-14 07:00:52+00:00
 header:
-  teaser: "/assets/images/category-memoirs-grey.png"
+  teaser: "/assets/images/category-memoirs.png"
   video:
     id: nSJgWLSb0R0
     provider: youtube

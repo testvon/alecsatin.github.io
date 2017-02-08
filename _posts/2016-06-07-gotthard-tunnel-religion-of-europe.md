@@ -4,7 +4,7 @@ redirect_from:
   - /the-religion-of-europe-2016-its-not-islam/
 title: The longest tunnel in the world and the religion of Europe
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
     provider: vimeo
     id: 169442883

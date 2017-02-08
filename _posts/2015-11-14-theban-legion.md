@@ -16,7 +16,7 @@ tags:
   - soldiers
   - Theban-Legion
 header:
-  teaser: /assets/images/category-honor-grey.png
+  teaser: /assets/images/category-honor.png
 ---
 
 

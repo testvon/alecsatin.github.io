@@ -4,7 +4,7 @@ redirect_from:
   - /abraham-friend-of-god/
 title: Jesus Calling gets it wrong - Abraham was the friend of God
 header:
-  teaser: "/assets/images/category-biblical-orthodoxy-grey.png"
+  teaser: "/assets/images/category-biblical-orthodoxy.png"
   image: /assets/images/abraham-friend-of-god.jpg
 categories: biblical-orthodoxy
 tags:

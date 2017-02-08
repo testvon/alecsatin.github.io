@@ -5,7 +5,7 @@ redirect_from:
 title: How to understand Europe in 4 minutes or less
 categories: spirit-of-the-age
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
     id: GaCMXyN3qJ0
     provider: youtube

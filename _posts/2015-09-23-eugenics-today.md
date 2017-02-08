@@ -15,7 +15,7 @@ tags:
   - genocide
   - scientism
 header:
-  teaser: /assets/images/category-spirit-of-the-age-grey.png
+  teaser: /assets/images/category-spirit-of-the-age.png
   image: /assets/images/georgia-guidestone-eugenics.jpg
   caption: "From the Georgia Guidestones"
 ---

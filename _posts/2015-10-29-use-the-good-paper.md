@@ -17,7 +17,7 @@ tags:
 - USA
 - neo-feudalism
 header:
-  teaser: /assets/images/category-memoirs-grey.png
+  teaser: /assets/images/category-memoirs.png
   image: /assets/images/navy-cup.jpg
 ---
 {% include toc title="Contents" icon="book" %}

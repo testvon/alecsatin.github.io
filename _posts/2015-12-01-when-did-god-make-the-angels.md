@@ -21,7 +21,7 @@ tags:
 header:
   image: assets/images/third-day.jpg
   caption: "On the third day God created..."
-  teaser: assets/images/category-ever-wonder-grey.png
+  teaser: assets/images/category-ever-wonder.png
 excerpt:  "Angels are spirits made by God.  The Bible does not come out and clearly answer when angels were created, but suggests the answer in Psalm 104, Genesis 1, and Genesis 3."
 ---
 {% include toc title="Contents" icon="book" %}

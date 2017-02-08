@@ -4,7 +4,7 @@ redirect_from:
   - /the-ugliness-of-fake-christianity/
 title: Fake Christianity is no comfort at all
 header:
-  teaser: "/assets/images/category-for-the-suffering-christian-grey.png"
+  teaser: "/assets/images/category-for-the-suffering-christian.png"
   video:
     id: vhxURmVl0lQ?rel=0
     provider: youtube

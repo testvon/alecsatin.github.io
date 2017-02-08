@@ -5,7 +5,7 @@ redirect_from:
 title: John Hagee hates the Jewish People
 categories: spirit-of-the-age
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
 tags:
   - John-Hagee
   - anti-semitism

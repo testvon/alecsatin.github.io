@@ -2,9 +2,9 @@
 title: What is concupiscence?
 date: 2016-07-05 12:30:12+00:00
 excerpt:  
-categories:  ever-wonder
+categories: ever-wonder
 header:
-  teaser: "/assets/images/category-ever-wonder-grey.png"
+  teaser: "/assets/images/category-ever-wonder.png"
 redirect_from: /what-is-concupiscence/
 tags:
 - If you love yourself as the world loves you are proving concupiscence.

@@ -18,7 +18,7 @@ tags:
 - truth
 excerpt:  "Does doctrine matter?  Luther and the Reformers thought so.  So did the religious leaders of the time in the Roman Catholic Church.  A reader sums up the Christian's dilemma"
 header:
-  teaser: /assets/images/category-ever-wonder-grey.png
+  teaser: /assets/images/category-ever-wonder.png
   image: /assets/images/martin-luther-95-theses.jpg
 ---
 {% include toc title="Contents" icon="book" %}

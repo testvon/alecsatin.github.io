@@ -5,7 +5,7 @@ title: 7 Lessons Learned from a Heart Attack Scare
 excerpt: "Tuesday I found myself in the cardiac care unit of NYU Langone Medical Center.  On the way to the emergency room I wondered for a few minutes if I were on my way to meet my old friend John Harrell on the other side."
 categories: old-stuff
 header:
-  teaser: "/assets/images/category-old-stuff-grey.png"
+  teaser: "/assets/images/category-old-stuff.png"
 tags:
 - death
 - heart attack

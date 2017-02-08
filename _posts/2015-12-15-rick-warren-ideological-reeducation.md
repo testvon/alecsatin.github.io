@@ -17,7 +17,7 @@ tags:
   - pope-francis
   - politics
 header:
-  teaser: /assets/images/category-spirit-of-the-age-grey.png
+  teaser: /assets/images/category-spirit-of-the-age.png
   image: /assets/images/rick-warren-pope-francis.jpg
   caption: Rick Warren and Pope Francis
 excerpt:  

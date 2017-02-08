@@ -16,7 +16,7 @@ tags:
 - Reformation
 - William-Tyndale
 header:
-  teaser: /assets/images/category-honor-grey.png
+  teaser: /assets/images/category-honor.png
   image: /assets/images/william-tyndale.jpg
 ---
 {% include toc title="Contents" icon="book" %}

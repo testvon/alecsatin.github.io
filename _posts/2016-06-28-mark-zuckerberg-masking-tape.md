@@ -4,7 +4,7 @@ date: 2016-06-28 10:55:05+00:00
 redirect_from:  /zuckerbergs-masking-tape/
 excerpt:  "Is American privacy more shadow than substance?  In this mishmash, we look at the state of privacy starting with Facebook Chairman and CEO Mark Zuckerberg's masking tape."
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
   image: /assets/images/zuckerberg-taped-camera.jpg
   caption: "Mark Zuckerberg with camera taped"
 categories: spirit-of-the-age

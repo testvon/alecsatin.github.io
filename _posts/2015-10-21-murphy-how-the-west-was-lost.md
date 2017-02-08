@@ -4,7 +4,7 @@ date: 2015-10-21
 excerpt: ...the Western civilization that produced America and Europe has been replaced, in our lifetime, and before our very eyes.  
 categories: books
 header:
-  teaser: /assets/images/category-books-grey.png
+  teaser: /assets/images/category-books.png
 tags:
   - worldview
   - politics

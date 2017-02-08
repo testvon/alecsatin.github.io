@@ -2,7 +2,7 @@
 title: The Church's One Foundation
 date: 2015-07-05 07:00:55+00:00
 header:
-  teaser: "/assets/images/category-song-grey.png"
+  teaser: "/assets/images/category-songs.png"
   video:
     id: b0hieUU_jz4
     provider: youtube

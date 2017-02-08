@@ -3,7 +3,7 @@ title: When a dog wants to pet a kitten
 date: 2016-02-04 21:11
 excerpt: "This Shiba Inu wants so much to pet this kitten."
 header:
-  teaser: /assets/images/category-cats-dogs-lemurs-grey.png  
+  teaser: /assets/images/category-cats-dogs-lemurs.png  
   video:
     id: xPe4NbWQzkM?rel=0
     provider: youtube

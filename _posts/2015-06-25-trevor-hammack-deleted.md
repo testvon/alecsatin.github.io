@@ -6,7 +6,7 @@ redirect_from:
   - /trevor-hammack-deleted/
 categories: spirit-of-the-age
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
 tags:
 - pastors
 - news-media

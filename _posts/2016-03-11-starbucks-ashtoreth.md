@@ -6,7 +6,7 @@ redirect_from:
 excerpt: "Recognize Ashtoreth, for this is one of the things God has told you in his Word that he consistently hates."
 categories: spirit-of-the-age
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
 tags: 
   - Starbucks
   - Ashteroth

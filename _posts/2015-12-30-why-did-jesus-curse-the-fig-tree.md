@@ -13,7 +13,7 @@ tags:
   - Eve
 header:
   image: /assets/images/fig-leaves.jpg
-  teaser: /assets/images/category-ever-wonder-grey.png
+  teaser: /assets/images/category-ever-wonder.png
 ---
 {% include toc title="Contents" icon="book" %}
 

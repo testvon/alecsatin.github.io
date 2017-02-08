@@ -5,7 +5,7 @@ excerpt: Autumn has arrived.  Here's a hymn of gratitude to God for His care and
 redirect_from: 
   - /good-cheer-come-ye-thankful-people-come/
 header:
-  teaser: "/assets/images/category-song-grey.png"
+  teaser: "/assets/images/category-songs.png"
   video:
     id: ldJtnE9h4fU
     provider: youtube

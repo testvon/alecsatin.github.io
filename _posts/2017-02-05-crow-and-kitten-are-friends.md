@@ -8,7 +8,7 @@ tags:
   - cat
   - animals
 header:
-  teaser: "/assets/images/category-cats-dogs-lemurs-grey.png"
+  teaser: /assets/images/category-cats-dogs-lemurs.png
   video:
     id: 1JiJzqXxgxo?rel=0
     provider: youtube

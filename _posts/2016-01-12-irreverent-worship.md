@@ -5,7 +5,7 @@ redirect_from:
   - /reverent-worship-irreverent-worship/
 title: What is irreverent worship?
 header:
-  teaser: "/assets/images/category-biblical-orthodoxy-grey.png"
+  teaser: "/assets/images/category-biblical-orthodoxy.png"
   image: /assets/images/irreverent-worship-hillsong-church.jpg
   caption: "Hillsong Church"
 categories: biblical-orthodoxy

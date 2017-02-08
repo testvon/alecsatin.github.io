@@ -4,7 +4,7 @@ redirect_from:
   - /secret-world-of-mormonism/
 title: The Secret World of Mormonism
 header:
-  teaser: "/assets/images/category-spirit-of-the-age-grey.png"
+  teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
     id: 3WNLt1FeyZI
     provider: youtube

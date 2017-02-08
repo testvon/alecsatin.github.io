@@ -19,7 +19,7 @@ header:
   video:
     id: 145576502
     provider: vimeo
-  teaser: /assets/images/category-spirit-of-the-age-grey.png
+  teaser: /assets/images/category-spirit-of-the-age.png
 ---
 
 

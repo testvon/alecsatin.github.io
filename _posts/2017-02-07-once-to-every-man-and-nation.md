@@ -12,7 +12,7 @@ tags:
   - martyr
   - James-Russell-Lowell
 header:
-  teaser: /assets/images/category-honor-grey.png
+  teaser: /assets/images/category-honor.png
   video:
     id: gh8lwG4UaY8
     provider: youtube

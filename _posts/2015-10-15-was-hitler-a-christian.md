@@ -13,7 +13,7 @@ tags:
   - nazi
   - Roman-Catholic-Church
 header:
-  teaser: /assets/images/category-ever-wonder-grey.png
+  teaser: /assets/images/category-ever-wonder.png
   video:
     id: QtqyaIp0Tv0
     provider: youtube

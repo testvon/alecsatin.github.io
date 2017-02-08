@@ -18,7 +18,7 @@ tags:
 - gender-roles
 - science
 header:
-  teaser: assets/images/category-spirit-of-the-age-grey.png
+  teaser: assets/images/category-spirit-of-the-age.png
   image: assets/images/alfred-kinsey-scientific-pedophilia.jpg
 excerpt:  "The theory of childhood sexuality advanced by Alfred Kinsey's sex researchers has shaped how and when sex education is taught in the United States.  It has also influenced the laws against sexual molestation."
 ---

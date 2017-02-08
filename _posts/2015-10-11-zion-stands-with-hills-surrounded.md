@@ -3,7 +3,7 @@ title: Zion stands with hills surrounded
 date: 2015-10-11 07:00:28+00:00
 excerpt: "A great Christian hymn which describes the love and protection God offers to His people united by faith in the Son of God, Jesus Christ."
 header:
-  teaser: "/assets/images/category-song-grey.png"
+  teaser: "/assets/images/category-songs.png"
   video:
     id: hz7WC9Lh8nA
     provider: youtube

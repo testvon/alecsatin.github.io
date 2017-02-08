@@ -22,7 +22,7 @@ tags:
   - death
   - goodbyes
 header:
-  teaser: /assets/images/category-memoirs-grey.png
+  teaser: /assets/images/category-memoirs.png
   image: /assets/images/loss-of-gay-friend.jpg
 ---
 

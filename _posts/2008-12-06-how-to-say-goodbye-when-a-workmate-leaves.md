@@ -6,7 +6,7 @@ redirect_from:
 excerpt: "Transitioning relationships from work into other parts of our lives requires a little work – but can happen.  It won’t happen automatically."
 categories: old-stuff
 header:
-  teaser: "/assets/images/category-old-stuff-grey.png"
+  teaser: "/assets/images/category-old-stuff.png"
 tags:
 - work
 - corporate-life

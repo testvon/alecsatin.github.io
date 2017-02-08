@@ -15,7 +15,7 @@ tags:
 - knowledge
 - wisdom
 header:
-  teaser: /assets/images/category-biblical-orthodoxy-grey.png
+  teaser: /assets/images/category-biblical-orthodoxy.png
   image: /assets/images/sea-of-galilee.jpg
   caption: "Sea of Galilee"
 ---
