@@ -26,11 +26,11 @@ This site has mirrored some of those detours.  Counseling psychology, experienti
 
 You may wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we have here on earth.
 
-In the end, Bunyan's *Christian* succeeded in his journey to the celestial city.  He was helped through the intercession of his gracious Lord working through people he met along the way.  In like manner faithful Christian friends have cared and guided me again and again, and especially in those times when my strength has failed.
+In the end, Bunyan's *Christian* succeeded in his journey to the celestial city.  He was helped through the intercession of his gracious Lord working through people he met along the way.  In like manner faithful Christian friends have cared for and guided me again and again, and especially in those times when my strength has failed.
 
 # The thinking behind Comfort for Christians
 
-Throughout my years as an American Christian I've found it difficult to find a comfortable place in the *organized church*.  Introverted, private, a kind-of loner, and having lost most of my family and many friends to that great curse which afflicts us all (physical death), I just never seem to fit in to the *churchianity groove*. I suspect there are many other Christians who have had  similar experiences.   My hope is that you'll find this site an ongoing resource and source of encouragement. I'm here as a brother in Christ to support you in your faith.
+Throughout my years as an American Christian I've found it difficult to find a comfortable place in the *organized church*.  Introverted, private, a kind-of loner, and having lost most of my family and many friends to that great curse which afflicts us all (physical death), I just never seem to fit in to the *churchianity groove*.  You may feel similarly.  My hope is that you'll find this site an ongoing resource and source of encouragement. I'm here as a brother in Christ to support you in your faith.
 
 # Why I left Wordpress after 15 years
 
@@ -43,11 +43,11 @@ Almost everything in Wordpress requires extra plugins and/or custom coding.  The
 ## Speed issues
 Wordpress is an amazing piece of database software.  But even with a caching plugin, it is slow.  
 
-# Hello Jekyll
+# Hello *static-site*
 
-Jekyll is software which generates static-page websites.  Think *Front Page* for the twenty-first century.  By eliminating most of the back-end distractions, I'll be able to focus on what I'm trying to say, and not the neediness of the software.
+Jekyll is a kind of software which generates static-page websites.  Think [Front Page](https://en.wikipedia.org/wiki/Microsoft_FrontPage) for the twenty-first century.  By eliminating most of the back-end distractions, I'll be able to focus on what I'm trying to say, and not the neediness of the software.
 
-By moving *Comfort for Christians* you should notice a speed advantage whether you are reading on a laptop, tablet, or phone.
+By moving *Comfort for Christians* to Jekyll you should notice a speed advantage whether you are reading on a laptop, tablet, or phone.
 
 # Where are the pretty pictures?
 Trying to find copyright-free images to match each blog post took ridiculous amounts of time.  Such images rarely add to the quality of the information a blog like this one can provide.

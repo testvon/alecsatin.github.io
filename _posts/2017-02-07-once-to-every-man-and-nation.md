@@ -1,5 +1,5 @@
 ---
-date: 2015-08-02 07:00:44+00:00
+date: 2017-02-07 07:00:44+00:00
 excerpt: "In our time of cowardice and moral turpitude we forget the light.  Oh yes there is plenty of self-congratulation and finger pointing as we rejoice that we are on the right side.  But courage is different."
 redirect_from:
   - /good-cheer-once-to-every-man-and-nation/
