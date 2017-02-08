@@ -3,7 +3,7 @@ date: 2015-12-15 11:15:54+00:00
 excerpt: "When new cultural shifts are introduced, the intention is not to get people to agree or disagree.  Rather it's to present the new norm and to gauge the level of dissenting resistance."
 redirect_from:
   - /rick-warren-ideological-reeducation/
-title: Rick Warren, Pope Francis, and the Reeducation of Evangelicals
+title: Rick Warren, Pope Francis, and the reeducation of Evangelicals
 categories: spirit-of-the-age
 tags:
   - church-growth-movement
