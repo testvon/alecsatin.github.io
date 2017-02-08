@@ -7,7 +7,7 @@ header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
     provider: youtube
-    id: oe64p-QzhNE
+    id: oe64p-QzhNE?rel=0
 categories: spirit-of-the-age
 excerpt:  "Using the term Orwellian to mean authoritarian misses the point.  Any definition of the word must include deceptive and misleading use of language."
 tags:

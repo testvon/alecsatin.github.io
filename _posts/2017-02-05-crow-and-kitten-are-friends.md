@@ -1,6 +1,6 @@
 ---
 title_zk:  201702051831-WP-Crow and kitten are friends
-title:  Crow and kitten are friends - Best Friends
+title:  Crow and kitten are friends
 date: 2017-02-05 18:31  
 categories: cats-dogs-lemurs
 tags: 

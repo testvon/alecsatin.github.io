@@ -6,7 +6,7 @@ title: Young Christians or false converts? You decide.
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
-    id: VZkgY-bP7yk
+    id: VZkgY-bP7yk?rel=0
     provider: youtube
 categories: spirit-of-the-age
 tags:

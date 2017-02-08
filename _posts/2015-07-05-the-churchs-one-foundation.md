@@ -4,7 +4,7 @@ date: 2015-07-05 07:00:55+00:00
 header:
   teaser: "/assets/images/category-songs.png"
   video:
-    id: b0hieUU_jz4
+    id: b0hieUU_jz4?rel=0
     provider: youtube
 excerpt: '"The Church''s One Foundation" was written in response to a serious heresy
   which surfaced in South Africa in the 1860''s. Listen and be strengthened today

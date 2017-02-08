@@ -6,7 +6,7 @@ title: Matthias Niessner of Stanford shows why you should be skeptical of anythi
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
-    id: ohmajJTcpNk
+    id: ohmajJTcpNk?rel=0
     provider: youtube
 categories: spirit-of-the-age
 excerpt: "A cheap webcam can be used to create fake videos of any politician speaking.  Real time conversion can make the deception is flawless and totally convincing."

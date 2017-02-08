@@ -14,7 +14,7 @@ tags:
 header:
   teaser: /assets/images/category-honor.png
   video:
-    id: gh8lwG4UaY8
+    id: gh8lwG4UaY8?rel=0
     provider: youtube
 ---
 {% include toc title="Contents" icon="book" %}

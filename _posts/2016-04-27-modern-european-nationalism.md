@@ -7,7 +7,7 @@ categories: spirit-of-the-age
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
-    id: GaCMXyN3qJ0
+    id: GaCMXyN3qJ0?rel=0
     provider: youtube
 tags:
   - Hegelian-dialectic

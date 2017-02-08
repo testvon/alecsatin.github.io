@@ -7,7 +7,7 @@ excerpt: "Campus employee assaults white student for cultural appropriation."
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
-    id: jDlQ4H0Kdg8
+    id: jDlQ4H0Kdg8?rel=0
     provider: youtube
 categories: spirit-of-the-age
 tags: 

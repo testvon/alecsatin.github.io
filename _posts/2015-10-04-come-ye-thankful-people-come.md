@@ -7,7 +7,7 @@ redirect_from:
 header:
   teaser: "/assets/images/category-songs.png"
   video:
-    id: ldJtnE9h4fU
+    id: ldJtnE9h4fU?rel=0
     provider: youtube
 categories: songs
 tags:

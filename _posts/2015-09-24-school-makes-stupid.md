@@ -21,7 +21,7 @@ tags:
 header:
   teaser: /assets/images/category-spirit-of-the-age.png
   video:
-    id: M2fHQ9eULzk
+    id: M2fHQ9eULzk?rel=0
     provider: youtube
 ---
 {% include toc title="Contents" icon="book" %}

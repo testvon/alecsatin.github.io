@@ -5,7 +5,7 @@ excerpt: 'One of my favorite songs from the Lutheran Hymnal.  The golden evening
 header:
   teaser: "/assets/images/category-songs.png"
   video:
-    id: 1qnEO1-jnL4
+    id: 1qnEO1-jnL4?rel=0
     provider: youtube
 redirect_from:
   - /for-all-the-saints-who-from-their-labors-rest/

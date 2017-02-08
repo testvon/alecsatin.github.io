@@ -5,7 +5,7 @@ excerpt: "Thomas Haweis's inspiration for this hymn is the last chapter of the b
 header:
   teaser: "/assets/images/category-songs.png"
   video:
-    id: qucc8BNu83o
+    id: qucc8BNu83o?rel=0
     provider: youtube
 categories: songs
 redirect_from:

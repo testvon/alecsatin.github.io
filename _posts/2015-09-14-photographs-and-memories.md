@@ -4,7 +4,7 @@ date: 2015-09-14 07:00:52+00:00
 header:
   teaser: "/assets/images/category-memoirs.png"
   video:
-    id: nSJgWLSb0R0
+    id: nSJgWLSb0R0?rel=0
     provider: youtube
 excerpt: I’m neither a picture-taker nor -saver.  I’ve always preferred the moment.  But I returned home Thursday night with a bag of framed images.  And I'm so glad that I did.  [...]
 slug: photographs-and-memories

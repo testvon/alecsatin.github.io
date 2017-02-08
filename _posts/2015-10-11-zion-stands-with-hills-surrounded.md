@@ -5,7 +5,7 @@ excerpt: "A great Christian hymn which describes the love and protection God off
 header:
   teaser: "/assets/images/category-songs.png"
   video:
-    id: hz7WC9Lh8nA
+    id: hz7WC9Lh8nA?rel=0
     provider: youtube
 redirect_from: 
   - /zion-stands-with-hills-surrounded/

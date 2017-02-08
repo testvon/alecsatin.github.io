@@ -6,7 +6,7 @@ title: The Secret World of Mormonism
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
-    id: 3WNLt1FeyZI
+    id: 3WNLt1FeyZI?rel=0
     provider: youtube
 categories: spirit-of-the-age
 excerpt: "The Mormon church may look Christian, but...  "

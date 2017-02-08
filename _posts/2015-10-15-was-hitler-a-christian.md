@@ -15,7 +15,7 @@ tags:
 header:
   teaser: /assets/images/category-ever-wonder.png
   video:
-    id: QtqyaIp0Tv0
+    id: QtqyaIp0Tv0?rel=0
     provider: youtube
 ---
 {% include toc title="Contents" icon="book" %}

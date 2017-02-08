@@ -4,7 +4,7 @@ date: 2016-07-24
 header:
   teaser: "/assets/images/category-songs.png"
   video:
-    id: qOdlhd0CCOw
+    id: qOdlhd0CCOw?rel=0
     provider: youtube
 categories: songs
 redirect_from:

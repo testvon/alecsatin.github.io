@@ -7,7 +7,7 @@ title: Monday morning rail - Good morning America, how are ya'?
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
   video:
-    id: 0sRdwQj8h6E
+    id: 0sRdwQj8h6E?rel=0
     provider: youtube
 categories: spirit-of-the-age
 tags:

@@ -7,7 +7,7 @@ categories: ever-wonder
 header:
   teaser: /assets/images/category-ever-wonder.png
   video:
-    id: eU9orSrGx1w
+    id: eU9orSrGx1w?rel=0
     provider: youtube
 excerpt: "There have always been exceptional scientists who are also Christians. This three minute short explains what it would take for the simplest cell to form by accident."
 tags:

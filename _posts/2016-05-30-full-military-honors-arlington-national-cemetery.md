@@ -6,7 +6,7 @@ title: Memorial day - Full military honors at Arlington National Cemetery
 header:
   teaser: "/assets/images/category-honor.png"
   video:
-    id: yHhVTC7_Wwc
+    id: yHhVTC7_Wwc?rel=0
     provider: youtube
 categories: honor
 tags: 

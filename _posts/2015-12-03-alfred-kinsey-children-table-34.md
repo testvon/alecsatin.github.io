@@ -125,7 +125,7 @@ Working with the Kinsey team was Mary Calderone, medical director of the Planned
 # Video: The children of table 34
 This short documentary explains how Alfred Kinsey's research was based on the illegal sexual abuse of children.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LUjstUyRXUk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUjstUyRXUk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
