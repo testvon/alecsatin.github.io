@@ -20,13 +20,13 @@ nav-left:
     children:
       - title: "Biblical Orthodoxy"
         url: /biblical-orthodoxy/
-      - title: "Have you ever wondered..."
+      - title: "Did you ever wonder?"
         url: /ever-wonder/
       - title: "For the suffering"
         url: /for-the-suffering-christian/
       - title: "Memoirs"
         url: /memoirs/
-      - title: "The spirit of the Age"
+      - title: "The spirit of the age"
         url: /spirit-of-the-age/
   - title: Helps
     children:
