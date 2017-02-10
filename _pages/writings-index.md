@@ -5,11 +5,11 @@ slug: writings
 permalink: /writings/
 excerpt: "Writings on Comfort for Christians - Alec Satin"
 ---
-- [Biblical orthodoxy](/biblical-orthodoxy/)
 - [Did you ever wonder...?](/ever-wonder/)
-- [For the suffering](/for-the-suffering-christian/)
+- [Biblical orthodoxy](/biblical-orthodoxy/)
 - [Memoirs](/memoirs/)
 - [The spirit of the age](/spirit-of-the-age/)
+- [For the suffering](/for-the-suffering-christian/)
     
 # Helps
 - [Songs](/songs/)

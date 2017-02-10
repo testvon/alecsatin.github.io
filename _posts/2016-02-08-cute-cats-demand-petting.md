@@ -1,10 +1,11 @@
 ---
-created:  2017-02-08 11:26  
+created:  2016-02-08 11:26  
 title: Cute cats demand petting
 excerpt:  "The idea that cats are independent creatures is only partially true."
 categories: cats-dogs-lemurs
 tags: 
   - cats
+  - animals
 header:
   teaser: /assets/images/category-cats-dogs-lemurs.png
   video:

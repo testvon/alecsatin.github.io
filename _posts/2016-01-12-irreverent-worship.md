@@ -16,7 +16,6 @@ tags:
   - Hillsong
   - Vatican-ii
   - show-a-little-respect
-excerpt: 
 ---
 {% include toc title="Contents" icon="book" %}
 

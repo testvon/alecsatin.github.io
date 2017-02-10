@@ -18,16 +18,16 @@ main:
 nav-left:
   - title: Writings
     children:
-      - title: "Biblical Orthodoxy"
-        url: /biblical-orthodoxy/
       - title: "Did you ever wonder?"
         url: /ever-wonder/
-      - title: "For the suffering"
-        url: /for-the-suffering-christian/
+      - title: "Biblical Orthodoxy"
+        url: /biblical-orthodoxy/
       - title: "Memoirs"
         url: /memoirs/
       - title: "The spirit of the age"
         url: /spirit-of-the-age/
+      - title: "For the suffering"
+        url: /for-the-suffering-christian/
   - title: Helps
     children:
       - title: "Songs"

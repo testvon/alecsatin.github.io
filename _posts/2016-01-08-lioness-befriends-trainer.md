@@ -1,5 +1,5 @@
 ---
-created:  2017-01-08 11:26  
+created:  2016-01-08 11:26  
 title: Lioness befriends trainer
 excerpt:  "Even big cats like this lioness Sirga can bond with human beings.  The trainer is Valentin Grüner of Modisa Wildlife Projects, Kalahari, Botswana."
 categories: cats-dogs-lemurs
