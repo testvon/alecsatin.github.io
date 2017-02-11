@@ -10,12 +10,13 @@ excerpt: "Writings on Comfort for Christians - Alec Satin"
 - [Memoirs](/memoirs/)
 - [The spirit of the age](/spirit-of-the-age/)
 - [For the suffering](/for-the-suffering-christian/)
+- [Honor](/honor/)
     
 # Helps
 - [Songs](/songs/)
 - [Cats, dogs, lemurs](/cats-dogs-lemurs/)
 - [Some books](/books/)
-- [Honor](/honor/)
+
 
 # About
 - [About the website](/about-website/)

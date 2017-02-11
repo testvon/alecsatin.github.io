@@ -28,6 +28,8 @@ nav-left:
         url: /spirit-of-the-age/
       - title: "For the suffering"
         url: /for-the-suffering-christian/
+      - title: "Honor"
+        url: /honor/
   - title: Helps
     children:
       - title: "Songs"
@@ -36,8 +38,6 @@ nav-left:
         url: /cats-dogs-lemurs/
       - title: "Some books"
         url: /books/
-      - title: "Honor"
-        url: /honor/
   - title: About 
     children:
       - title: "About the website"
