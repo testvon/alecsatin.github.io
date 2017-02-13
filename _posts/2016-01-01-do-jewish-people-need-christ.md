@@ -25,7 +25,6 @@ Do Jewish people need Christ, or are they already right with God?  Or asked anot
 
 
 
-
 One of my favorite hymnals is the Church of England's _Hymns Ancient and Modern - Standard Edition_, first published in 1861.  An appendix was added 1868.  Then a second edition in 1875, with supplements added in 1889 and 1916.  This 1916 "standard" version has gone through innumerable printings and is still in use.
 
 If you are not in the habit of using hymns as part of your daily communion with God, this is a good time to start. The pocket _Hymns A & M_  is excellent for keeping with you during the day.  It's legible and compact. If you're not familiar with a particular hymn (which may happen a lot at first), it takes only a moment to jot down the hymn number and do some quick research on the internet.
@@ -124,3 +123,4 @@ Dear Lord, you tell us that the broken off branches may be grafted back in.  Ple
 
 
   <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
+

@@ -1,5 +1,6 @@
 ---
 title: Social Isolation and the Christian
+date: 2016-01-26 08:00
 excerpt: "Christians aren't supposed to have emotional problems.  But some of us do.  Believers in the Lord Jesus Christ are just as fallen as other people, though forgiveness (Psalm 103:12) makes hope possible."
 categories: for-the-suffering-christian
 header:
