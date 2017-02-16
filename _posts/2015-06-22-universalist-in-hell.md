@@ -14,7 +14,7 @@ tags:
 - NYC
 - Unitarian
 - Gandhi
-excerpt:  "Have you ever heard the one about the Unitarian Universalist on the late night bus?"
+excerpt:  "Universalism is the idea that Christ’s death on the cross provided atonement and full justification for all mankind. It's at the core of the terrible fall of mainline denominations in the US.  Universalism takes away each person's responsibility to believe."
 header:
   image: /assets/images/universalist-in-hell.jpg
   teaser: /assets/images/category-ever-wonder.png

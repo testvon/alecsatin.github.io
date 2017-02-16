@@ -23,7 +23,7 @@ tags:
   - Hort
   - Nestle
   - Aland
-excerpt:  
+excerpt:  "In every generation enemies have tried to pervert and destroy the Bible. Yet God is true.  He is certainly powerful enough to make sure that every Word is available in the most important language in the modern world - English."
 header:
   teaser: /assets/images/category-ever-wonder.png
 ---
