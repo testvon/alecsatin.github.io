@@ -26,13 +26,10 @@ header:
 *Have you ever heard the one about the Unitarian Universalist on the late night bus?*
 
 
-<blockquote>
-  A drunken man gets on the bus late one night, staggers up the aisle, and sits next to an elderly woman.
-  
-  She looks the man up and down and says, "I've got news for you. You're going straight to hell!"
-  
-  The man jumps up out of his seat and shouts, "Man, I'm on the wrong bus!"   [source](http://www.jokesabout.net/hell-wrong-bus)
-</blockquote>
+> A drunken man gets on the bus late one night, staggers up the aisle, and sits next to an elderly woman. She looks the man up and down and says, *I've got news for you. You're going straight to hell!*
+> 
+> The man jumps up out of his seat and shouts, "Man, I'm on the wrong bus!"  [source](http://www.jokesabout.net/hell-wrong-bus)
+
 
 
 
@@ -40,19 +37,19 @@ header:
 
 # Scene at a local NYC [Starbucks](/starbucks-ashtoreth/)
 
-Universalism is a kind of comfort held by more people than you might imagine.  For example: a group of friends were talking one day not long ago at the long table at our neighborhood Starbucks.  One man laughed.  *The heat (in hell) will help me keep up my tan!*
+Universalism is a kind of comfort held by more people than you might imagine.  A recent conversation which took place at the long table at our neighborhood Starbucks illustrates this.  The subject of hell came up.  It was treated as a big joke.  One man said, *The heat (in hell) will help me keep up my tan!*
 
 *We’re not so sure how it will be there,* his friend said. *It may be cold.*
 
 *Well we’ll deal with it, whatever it is!* the first man answered.  
 
-Their levity made me a little [queasy](/letter-to-dying/).  *I sincerely hope you _don’t_ go there,* I said.  The first man looked over at me.  When I remained silent, he continued.
+Their levity made me a little [queasy](/letter-to-dying/).  *I sincerely hope you don’t go there,* I said. 
 
-*I know **I’m** not going there,* he said.  *That is, no one is.  I believe we’re all going to heaven.*
+*I know **I’m** not going there,* he replied.  *That is, no one is.  I believe we’re all going to heaven.*
 
 
 
-## What is *Universalism*
+# What is *Universalism*
 
 
 
@@ -108,7 +105,7 @@ I was incredulous.  *But the Bible says, ‘wide is the gate, and broad is the w
 
 *Oh that’s easy.  Jesus said that before he died.  And besides, if your _interpretation_ is correct, then all the good people in the world would be in hell,* she said. *Do you really believe Gandhi’s in hell?*
 
-*That’s one of the hard truths about life.  The Scriptures say of human beings, ‘They’ve all gone out of the way.  They have become unprofitable.  There is none that does good, no not one’ (Romans 3:12) Gandhi died as a Hindu without having faith in the atonement of Christ, so there’s no basis for saying that Christ saved him from the consequences of the wrong things he did.*
+*That’s one of the hard truths about life.  The [Scriptures](/biblical-preservation/) say of human beings, ‘They’ve all gone out of the way.  They have become unprofitable.  There is none that does good, no not one’ (Romans 3:12) Gandhi died as a Hindu without having faith in the atonement of Christ, so there’s no basis for saying that Christ saved him from the consequences of the wrong things he did.*
 
 She abandoned the discussion and moved on to what she and her particular church really believed. *The Bible has [mistakes](http://alecsatin.com/people-of-the-book/) in it.  It’s just the work of men trying to understand about things we can’t know,* she said.
 
