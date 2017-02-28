@@ -22,7 +22,7 @@ In the time since the first version of [www.alecsatin.com](http://www.alecsatin.
 
 # Detours and a common thread
 
-This site has mirrored some of those detours.  Counseling psychology, experiential trance states, and tarot have all been featured.  For a time the content was work-related as I plunged headlong into software project management.  
+This site has mirrored some of those detours.  Counseling psychology, experiential trance states, and [tarot](/memoirs/tarot-cards/) have all been featured.  For a time the content was work-related as I plunged headlong into [software project management](/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/).  
 
 You may wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we have here on earth.
 
