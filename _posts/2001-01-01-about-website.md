@@ -24,7 +24,7 @@ In the time since the first version of [www.alecsatin.com](http://www.alecsatin.
 
 This site has mirrored some of those detours.  Counseling psychology, experiential trance states, and [tarot](/memoirs/tarot-cards/) have all been featured.  For a time the content was work-related as I plunged headlong into [software project management](/old-stuff/how-to-say-goodbye-when-a-workmate-leaves/).  
 
-You may wonder what all these things have in common.  The common thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we have here on earth.
+You may wonder what all these things have in common.  The joining thread is my life-long desire to understand why things are the way they are and what we can do to make things better for ourselves and others in the limited time we have here on earth.
 
 In the end, Bunyan's *Christian* succeeded in his journey to the celestial city.  He was helped through the intercession of his gracious Lord working through people he met along the way.  In like manner faithful Christian friends have cared for and guided me again and again, and especially in those times when my strength has failed.
 
@@ -45,12 +45,12 @@ Wordpress is an amazing piece of database software.  But even with a caching plu
 
 # Hello *static-site*
 
-Jekyll is a kind of software which generates static-page websites.  Think [Front Page](https://en.wikipedia.org/wiki/Microsoft_FrontPage) for the twenty-first century.  By eliminating most of the back-end distractions, I'll be able to focus on what I'm trying to say, and not the neediness of the software.
+Jekyll is a kind of software which generates static-page websites.  Think [Front Page](https://en.wikipedia.org/wiki/Microsoft_FrontPage) for the twenty-first century.  By eliminating most of the back-end distractions, blog writers are able to focus more on what they are trying to communicate, and less on the neediness of the software.
 
 By moving *Comfort for Christians* to Jekyll you should notice a speed advantage whether you are reading on a laptop, tablet, or phone.
 
 # Where are the pretty pictures?
-Trying to find copyright-free images to match each blog post took ridiculous amounts of time.  Such images rarely add to the quality of the information a blog like this one can provide.
+Trying to find copyright-free images to match each blog post took ridiculous amounts of time.  There will likely be fewer photos in future posts.
 
 # What happened to the *like buttons*?
 
@@ -62,18 +62,16 @@ And you can always comment.  Something as short as, *I like it.* is A-OK.
 
 ## Comments
 
-Commenting is active now.  A subscribe to comments feature is in the works. 
+Commenting is active now.  A subscribe to comments feature is in the works.
 
 ## Old posts
-The posts from *While it's yet day* have been archived off-line.  As time permits they are being reviewed for tone and content.  Some are being added back.
-
-If you'd like to see a post you remember but can't find, [send a note](/contact/).  
+Most posts from *While it's yet day* have been archived off-line.  If you'd like to see a post you remember but can't find, [send a note](/contact/).  
 
 # A word about politics
 
 The post from 2016, [Why I unsubscribed from my friend's blog](/memoirs/why-i-unsubscribed-from-my-friends-blog/), captures some of my reasons for stepping away from politics.  Like some of you I am sick to death of it all.
 
-While my thinking on this subject is still developing, you can expect significantly fewer posts of a political bent.  Any writings along those lines will be framed from a larger historical perspective.  This should enable us to consider the issues as Christian citizens of that heavenly kingdom with a minimum of rancor and division.
+While my thinking on this subject is still developing, you can expect any writings along political lines to be framed from a larger historical perspective.  This should enable us to consider the issues as Christian citizens of that heavenly kingdom with a minimum of rancor and division.
 
 It's my opinion that *Left* and *Right* as they are presently construed are significantly different than *classical Liberalism* or *traditional Conservatism*.  Programmed words like *red state*, *blue state*, *Republican*, and *Democrat* are like teams one joins or hates.  Pride, self-righteousness, jingoism, and do-goodism are a heady mix which seem to be overtaking people on all sides.  And those who have or desire power love to utilize these energies for their own ends.  
 
