@@ -29,7 +29,7 @@ In our time of cowardice and moral turpitude[^dd774a51] we forget the light.  Oh
 </blockquote>
 
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/honor/once-to-every-man-and-nation/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/honor/once-to-every-man-and-nation/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 
