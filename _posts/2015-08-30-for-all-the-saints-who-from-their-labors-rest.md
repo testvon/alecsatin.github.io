@@ -26,7 +26,7 @@ tags:
 by William W. How, 1823-1897
 
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/for-all-the-saints-who-from-their-labors-rest/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/for-all-the-saints-who-from-their-labors-rest/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 ## Full lyrics

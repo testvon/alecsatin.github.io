@@ -25,7 +25,7 @@ header:
 Many years have passed since Richard Teel was profiled on *The 51st State*, a long-forgotten local interest program about New York City.  Here's the story of a real-life, everyday hero.  May he be an inspiration to you, too.
 
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/honor/richard-teel-nyc-transit-authority-bus-hero/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/honor/richard-teel-nyc-transit-authority-bus-hero/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 # *The 51st State*

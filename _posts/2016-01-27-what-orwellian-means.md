@@ -22,7 +22,7 @@ Using the term _Orwellian_ to mean authoritarian misses the point Eric Blair/Geo
 
 Any definition of the word "Orwellian" must include the _deceptive and misleading use of language_.  Aren't words being used in just that way in your country?
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/spirit-of-the-age/what-orwellian-means/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/spirit-of-the-age/what-orwellian-means/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 

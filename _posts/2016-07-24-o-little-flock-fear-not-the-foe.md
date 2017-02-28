@@ -25,7 +25,7 @@ In regard to translator Catherine Winkworth, Charles Hutchins has this to say:
 
 [^1b765900]: From *Annotations of the Hymnal* by Charles Hutchins, M.A., 1872.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/o-little-flock-fear-not-the-foe/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/o-little-flock-fear-not-the-foe/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 # Lyrics

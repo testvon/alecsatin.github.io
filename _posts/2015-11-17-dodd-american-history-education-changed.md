@@ -31,7 +31,7 @@ Half a century ago certain members of congress became concerned about tax-exempt
 
 Late in his life Dodd reflected back on some of the things the committee discovered.  Particularly interesting was the revelation of a concerted plan by leaders of the Ford, Rockefeller and Guggenheim Foundations to change the way history was taught in order to ensure that future Americans would never return to the types of attitudes that prevailed prior to World War I.  The audio above was recorded in 1982 (transcript below).
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/spirit-of-the-age/dodd-american-history-education/){: .btn .btn--warning} to hear the audio.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/spirit-of-the-age/dodd-american-history-education/){: .btn .btn--warning} to hear the audio.
 {: .notice}
 
 # Transcript

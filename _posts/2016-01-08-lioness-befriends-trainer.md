@@ -16,7 +16,7 @@ modified:
 
 Even big cats like this lioness Sirga can bond with human beings.  The trainer is Valentin Grüner of Modisa Wildlife Projects, Kalahari, Botswana.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/cats-dogs-lemurs/lioness-befriends-trainer/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/cats-dogs-lemurs/lioness-befriends-trainer/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

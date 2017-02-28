@@ -23,7 +23,7 @@ excerpt: "Is forgiveness possible?  Two minute video clip from ER."
 
 Eternity Matters posted this telling video last week.  Rather than talk about it, I'd rather you watch the 2 minute clip for yourself.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/for-the-suffering-christian/fake-christianity-is-no-comfort-at-all/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 

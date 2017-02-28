@@ -28,7 +28,7 @@ This three minute short explains what it would take for the simplest cell to for
 
 The idea of life arising by pure chance is a mathematical impossibility.  Darwinian evolution is science fiction - a false religious belief - touted as fact.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/ever-wonder/science-fiction-evolution/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/ever-wonder/science-fiction-evolution/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 You can watch Ben Stein's full documentary, _Expelled_, here:

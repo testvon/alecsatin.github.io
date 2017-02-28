@@ -34,7 +34,7 @@ Here is their description of the film:
 </blockquote>
 
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/spirit-of-the-age/free-film-homosexuality-audacity/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/spirit-of-the-age/free-film-homosexuality-audacity/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 

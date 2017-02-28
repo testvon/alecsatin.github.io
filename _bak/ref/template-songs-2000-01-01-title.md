@@ -17,7 +17,7 @@ tags:
 ---
 Introduction text
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 Remaining text

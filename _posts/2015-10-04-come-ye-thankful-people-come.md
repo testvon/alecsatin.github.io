@@ -21,7 +21,7 @@ tags:
 ---
 Autumn has arrived.  Here's a hymn of gratitude to God for His care and providence in this season and all through our lives.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/come-ye-thankful-people-come/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/come-ye-thankful-people-come/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 ## Lyrics

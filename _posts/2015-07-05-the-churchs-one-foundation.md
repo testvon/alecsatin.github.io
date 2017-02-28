@@ -24,7 +24,7 @@ Be strengthened today in the knowledge that God Himself still chooses people fro
 
 This version is sung by St.Andrew's Church, Egmore, Chennai, Tamil Nadu , India.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/the-churchs-one-foundation/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/the-churchs-one-foundation/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 _Thank you dear Lord for your love and protection.  Help your true church.  Keep us strong in faith, hope and charity.  In Jesus' precious name.  Amen._

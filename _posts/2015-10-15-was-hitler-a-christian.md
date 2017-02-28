@@ -27,7 +27,7 @@ There continues to be low-level attempt to recreate history by making Adolf Hitl
 
 
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/ever-wonder/was-hitler-a-christian/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/ever-wonder/was-hitler-a-christian/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 

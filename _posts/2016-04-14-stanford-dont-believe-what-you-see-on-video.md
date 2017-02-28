@@ -29,7 +29,7 @@ Matthias Niessner at Stanford shows how a cheap webcam and software can be used 
 # Face2Face: Real-time Face Capture and Reenactment of RGB Videos
 
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/spirit-of-the-age/stanford-dont-believe-what-you-see-on-video/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/spirit-of-the-age/stanford-dont-believe-what-you-see-on-video/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 <blockquote>Our aim is to demonstrate the capabilities of modern computer vision and graphics technology... computer-generated videos have been part in feature-film movies for over 30 years. **These results are hard to distinguish from reality and it often goes unnoticed that the content is not real.** The novelty and contribution of our work is that we can edit pre-recorded videos in real-time on a commodity PC. </blockquote>

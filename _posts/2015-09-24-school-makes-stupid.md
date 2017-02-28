@@ -62,7 +62,7 @@ American schools train kids to believe they’re more educated than they really 
 
 If you’re well educated, you should be of much value to an employer.  But that’s a side benefit.  Young Americans are sold the idea that more and more schooling will guarantee more and more income.  That’s no longer a sure thing.  Plenty of people with masters and doctorate degrees are barely scraping along.  Tuition inflation has left a whole generation with terrible student loan debt. Taking debt on faith is a sucker’s bet.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/spirit-of-the-age/school-makes-stupid/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/spirit-of-the-age/school-makes-stupid/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 ![School makes stupid]({{ site.url }}{{ site.baseurl }}/assets/images/idiocracy.jpg)

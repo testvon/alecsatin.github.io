@@ -26,7 +26,7 @@ This hymn is only 3 minutes long.  The recording above includes other songs foll
 
 May God richly bless you and keep you, and watch over you, and give you rest.  Amen.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/zion-stands-with-hills-surrounded/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/zion-stands-with-hills-surrounded/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 

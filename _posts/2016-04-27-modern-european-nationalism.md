@@ -33,7 +33,7 @@ _And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not
 
 Please listen now to the video before continuing.  The lyrics are included at the bottom of this post.
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/spirit-of-the-age/modern-european-nationalism/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/spirit-of-the-age/modern-european-nationalism/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 

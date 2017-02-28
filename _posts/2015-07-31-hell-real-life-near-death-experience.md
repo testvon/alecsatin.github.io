@@ -41,7 +41,7 @@ Here’s how the Bible describes the afterlife for those without having been jus
 
 Do you ever think about hell?
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/ever-wonder/hell-real-life-near-death-experience/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/ever-wonder/hell-real-life-near-death-experience/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
