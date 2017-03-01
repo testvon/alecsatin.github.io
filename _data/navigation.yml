@@ -13,7 +13,9 @@ main:
   - title: "Archives"
     url: /categories/
   - title: "Subscribe to updates"
-    url: /subscribe/
+    url: /subscribe/ 
+  - title: "Contact"
+    url: /contact/
 # left side navigation menu
 nav-left:
   - title: Writings
