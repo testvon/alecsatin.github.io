@@ -18,7 +18,7 @@ modified: 2017-02-28 17:57
 ---
 {% include toc title="Contents" icon="book" %}
 
-In the time since the first version of [www.alecsatin.com](http://www.alecsatin.com) was launched in 2004, [your author](/about/) - just like John Bunyan's character *Christian* - has taken long unfortunate journeys off the straight and narrow path.
+In the time since the first version of [www.alecsatin.com](http://www.alecsatin.com) was launched in 2003, [your author](/about/) - just like John Bunyan's character *Christian* - has taken long unfortunate journeys off the straight and narrow path.
 
 # Detours and a common thread
 
