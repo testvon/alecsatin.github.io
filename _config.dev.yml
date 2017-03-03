@@ -1,0 +1,38 @@
+# jekyll development 
+# settings in this file override those in _config.yml
+# call thus: JEKYLL_ENV=production bundle exec jekyll serve --config _config.yml,_config.dev.yml
+
+# site settings
+url: "http://localhost:4000"
+
+# reading files
+include:
+  - .htaccess
+  - _posts-draft
+  - _pages
+
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - Gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - _bak #ignore reference folder
