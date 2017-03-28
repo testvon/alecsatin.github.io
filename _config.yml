@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en_US"
+timezone                 : "America/Toronto"
 title                    : "Comfort for Christians"
 title_separator          : "-"
 name                     : "Alec Satin"
