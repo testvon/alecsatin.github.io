@@ -8,10 +8,10 @@ main:
     url: /writings/
   - title: "Search"
     url: /search/
-  - title: "Statement of Beliefs"
-    url: /beliefs/
   - title: "About"
     url: /about-website/
+  - title: "Statement of Beliefs"
+    url: /beliefs/
   - title: "Archives"
     url: /categories/
   - title: "Subscribe to updates"
