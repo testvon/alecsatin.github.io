@@ -8,7 +8,7 @@ url: "http://localhost:4000"
 # reading files
 include:
   - .htaccess
-  - _posts-draft
+  - _drafts
   - _pages
 
 exclude:
