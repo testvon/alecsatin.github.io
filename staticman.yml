@@ -1,0 +1,31 @@
+comments:
+  allowedFields          : ['name', 'email', 'url', 'message', 'origin']
+  requiredFields         : ['name', 'email', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  transforms:
+      email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"atom_feed:
+  # added fields
+  name                   : "Comfort for Christians | Alec Satin"
+  allowedOrigins         : ["localhost", "alecsatin.com", "www.alecsatin.com"]
+  notifications:
+    enabled: false
+    # (!) ENCRYPTED
+    # (this is to the public instance)
+    # Mailgun API key
+    apiKey: "z49fOBsWoIHdVjIOEVWF/zx6wfUgsNdCoJkjB+9bzrd97Tis1OpE87k9vFmHEb7I9FfDMSW9KV+TbB6SSfT8l+EP9WKVH5/u/SxaBRz212a3QZzQVGqQB7PrfmYcgtsgOO0Wb59ApWwRGRHSZilMKXHg+wV2pqCno13RrrejRQU="
+
+    # (!) ENCRYPTED
+    # (this is to the public instance)
+    # Mailgun domain (encrypted)
+    domain: "0dlbGdEPOSKNkjX6owqlunnNY1KOycSOlI50jK3E9CCBvRa+RpcXxQ+jQRe41pSVr5q35qG7PAsz3sUbtfm/s/QEX3ARsp88aMBLePPfaOHqpQJWZW4pMAKeWINLvOibP0/1YdUYHiKruqNEH1eq3IPXkR5VJs1Ohkc+Qipy/Ro="
+  

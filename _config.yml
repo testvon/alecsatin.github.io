@@ -30,21 +30,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-      email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   :  # blank (default) uses feed.xml
   title: "Comfort for Christians | Writings by Alec Satin"
@@ -137,6 +123,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - staticman.yml
   - tmp
   - _bak #ignore reference folder
   - _drafts #ignore working folder
