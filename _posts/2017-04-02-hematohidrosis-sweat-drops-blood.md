@@ -1,5 +1,5 @@
 ---
-date: 2016-03-23 12:57:08+00:00
+date: 2017-04-02 14:48
 redirect_from: 
   - /hematohidrosis-sweat-drops-blood/
 title: How was it possible for Jesus to sweat drops of blood?
@@ -7,7 +7,8 @@ categories: ever-wonder
 header:
   teaser: "/assets/images/category-ever-wonder.png"
   image: /assets/images/hematohidrosis-sweating-blood.jpg
-  caption: "Otherwise healthy Indian girl with hematohidrosis"
+  caption: "Otherwise healthy Indian girl with h
+  ematohidrosis"
 excerpt: "Hematohidrosis is a real physical phenomenon reported in medical and historical records.  The most well-known person to have experienced this is Jesus Christ."
 tags:
   - hematohidrosis
