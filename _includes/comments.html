@@ -68,6 +68,10 @@
             <strong class="js-notice-text"></strong>
           </p>
           <!-- End comment form alert messaging -->
+          <fieldset>
+            <button type="submit" id="comment-form-submit" tabindex="6" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
+            <label for="comment-form-reply">
+          </fieldset>
         </form>
         <!-- End new comment form -->
       {% endif %}
