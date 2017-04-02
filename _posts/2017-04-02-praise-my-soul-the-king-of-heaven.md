@@ -28,7 +28,7 @@ In this song Henry Francis Lyte reminds us that God is a father who never fails,
 He shows us only the love that we are able to bear.  Oh, praise him!
 
 
-**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](/songs/praise-my-soul-the-king-of-heaven/){: .btn .btn--warning} to watch the video.
+**Please note:** If your're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/praise-my-soul-the-king-of-heaven/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 
