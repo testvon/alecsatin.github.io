@@ -7,8 +7,7 @@ categories: ever-wonder
 header:
   teaser: "/assets/images/category-ever-wonder.png"
   image: /assets/images/hematohidrosis-sweating-blood.jpg
-  caption: "Otherwise healthy Indian girl with h
-  ematohidrosis"
+  caption: "Otherwise healthy Indian girl with hematohidrosis"
 excerpt: "Hematohidrosis is a real physical phenomenon reported in medical and historical records.  The most well-known person to have experienced this is Jesus Christ."
 tags:
   - hematohidrosis
