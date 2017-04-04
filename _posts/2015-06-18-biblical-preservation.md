@@ -196,7 +196,7 @@ Are Christians still _People of the Book_?  Yes.  And you can be one, too.
 
 
 
-* Pastor Gregory Jackson. [_Thy Strong Word_](https://www.amazon.com/Thy-Strong-Word-Scriptures-Confessions-ebook)
+* Pastor Gregory Jackson. [_Thy Strong Word_](https://www.amazon.com/Thy-Strong-Word-Scriptures-Confessions/dp/1534738398/)
 * Jack McElroy. Which Bible would Jesus use? [source](http://whichbiblewouldjesususe.com/).
 
 

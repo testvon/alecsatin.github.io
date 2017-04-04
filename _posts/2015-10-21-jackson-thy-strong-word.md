@@ -28,7 +28,6 @@ tags:
 
 [Read a review by Gerald Parker](https://www.amazon.com/review/R2OFTG4TOXZLPZ/)
 [Purchase](https://www.amazon.com/Thy-Strong-Word-Scriptures-Confessions/dp/1534738398)
-[Free download (PDF)](https://dl.dropboxusercontent.com/u/5009355/9388354_tsw_12_7_2010.pdf)
 
 > I have written Thy Strong Word for one purpose, to teach the Biblical doctrine of the efficacy of the Word and thereby utterly destroy the Church  Growth Movement in the Lutheran Church.
 > 

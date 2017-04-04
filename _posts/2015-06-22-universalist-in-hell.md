@@ -105,7 +105,7 @@ I was incredulous.  *But the Bible says, ‘wide is the gate, and broad is the w
 
 *Oh that’s easy.  Jesus said that before he died.  And besides, if your _interpretation_ is correct, then all the good people in the world would be in hell,* she said. *Do you really believe Gandhi’s in hell?*
 
-*That’s one of the hard truths about life.  The [Scriptures](/biblical-preservation/) say of human beings, ‘They’ve all gone out of the way.  They have become unprofitable.  There is none that does good, no not one’ (Romans 3:12) Gandhi died as a Hindu without having faith in the atonement of Christ, so there’s no basis for saying that Christ saved him from the consequences of the wrong things he did.*
+*That’s one of the hard truths about life.  The [Scriptures](/ever-wonder/biblical-preservation/) say of human beings, ‘They’ve all gone out of the way.  They have become unprofitable.  There is none that does good, no not one’ (Romans 3:12) Gandhi died as a Hindu without having faith in the atonement of Christ, so there’s no basis for saying that Christ saved him from the consequences of the wrong things he did.*
 
 She abandoned the discussion and moved on to what she and her particular church really believed. *The Bible has [mistakes](http://alecsatin.com/people-of-the-book/) in it.  It’s just the work of men trying to understand about things we can’t know,* she said.
 

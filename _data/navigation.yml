@@ -14,7 +14,7 @@ main:
     url: /beliefs/
   - title: "Archives"
     url: /categories/
-  - title: "Subscribe to updates"
+  - title: "Updates"
     url: /subscribe/ 
   - title: "Contact"
     url: /contact/
@@ -56,7 +56,7 @@ nav-left:
         url: /search
       - title: "Contact"
         url: /contact/    
-      - title: "Subscribe"
+      - title: "Updates"
         url: /subscribe/  
       - title: "Sitemap"
         url: /sitemap/  
