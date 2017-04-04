@@ -37,7 +37,7 @@ atom_feed:
   description: "Writings about Biblical Orthodoxy, the spirit of the age, and living with faith. No matter what you grapple with in your life, God's grace and goodness can be made manifest in you. This is his will for all his children."
 
 # SEO Related
-google_site_verification : "zuwFldso9dW0CyKoAMCBtp1dtOVGDHtbMyZmpBXaVQ0"
+google_site_verification : zuwFldso9dW0CyKoAMCBtp1dtOVGDHtbMyZmpBXaVQ0
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -59,9 +59,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-62154354-1
 
 
 # Site Author
