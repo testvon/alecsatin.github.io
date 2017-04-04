@@ -1,8 +1,7 @@
+User-agent: ia_archiver
+Disallow: /
+User-agent: magpie-crawler
+Disallow: /
 User-agent: *
 Sitemap: http://www.alecsatin.com/sitemap.xml
 
-User-agent: ia_archiver
-Disallow: /
-
-User-agent: magpie-crawler
-Disallow: /
