@@ -4,6 +4,9 @@ redirect_from: /jesus-hermeneutic/
 title: The awful lie of the Jesus Hermeneutic
 excerpt: "Red Letter Christians is a radical movement aimed at the political and social overthrow of evangelical Christianity.  Here's how Tony Compolo describes it"
 categories: biblical-orthodoxy
+redirect_from:
+- /8-popular-ways-to-disrespect-god/
+- /category/archives/while-its-yet-day/apostasy/jesus-hermeneutic/
 header:
   teaser: "/assets/images/category-biblical-orthodoxy.png"
 tags: 

@@ -2,6 +2,9 @@
 date: 2015-10-01 07:00:03+00:00
 redirect_from:
   - /doctrine-division/
+  - /category/archives/while-its-yet-day/apostasy/
+  - /category/archives/while-its-yet-day/apostasy/different-gospel/
+  - /category/archives/while-its-yet-day/apostasy/page/1/
 title: What's the difference between Orthodox Christianity, Heterodoxy, and Heresy?
 categories: ever-wonder
 tags:

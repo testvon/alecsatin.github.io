@@ -4,6 +4,10 @@ date: 2015-10-07 07:00:24+00:00
 excerpt: "Marketers seek to plant in you feelings of fear, lust, hate.  The most effective reinforcements match your own prejudices and anxieties.  You won't even realize that the cues you’re responding to are originating from outside yourself."
 redirect_from: 
   - /shop-hate-fear/ 
+  - /the-engineered-society/
+  - /category/archives/while-its-yet-day/social-engineering/
+  - /category/archives/while-its-yet-day/social-engineering/school-created-ignorance/
+  - /category/archives/while-its-yet-day/social-engineering/thought-control/
 categories: spirit-of-the-age
 header:
   teaser: /assets/images/category-spirit-of-the-age.png

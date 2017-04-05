@@ -7,6 +7,8 @@ header:
   image: /assets/images/bunyan-pilgrims-progress-hopeful-christian.jpg
   caption: "Hopeful helps Christian out of the slough of despond in Bunyan's *Pilgrim's Progress*."
 permalink: /about-website/
+redirect_from:
+- /read-this-first/
 excerpt: "About Alec Satin's Comfort for Christians website, personal writings on biblical orthodoxy, living with faith and the spirit of the age."
 categories: website
 tags:

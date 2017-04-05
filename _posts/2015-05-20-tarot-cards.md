@@ -23,6 +23,7 @@ redirect_from:
   - /how-to-predict-the-weather/
   - /major-arcana-divinations/
   - /readers-studio-2012/
+  - /ask-the-tarot-2011-01-01/
 title: Why I stopped reading tarot cards
 categories: memoirs
 tags:

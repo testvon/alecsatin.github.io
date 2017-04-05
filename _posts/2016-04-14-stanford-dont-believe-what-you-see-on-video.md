@@ -2,6 +2,7 @@
 date: 2016-04-14 09:55:29+00:00
 redirect_from: 
   - /dont-trust-television/
+  - /a-nation-of-libtards-and-right-wingers/
 title: Matthias Niessner of Stanford shows why you should be skeptical of anything you see on video
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
