@@ -1,6 +1,6 @@
 ---
 title: Encouraging devotions with good theology
-created: 2017-04-07 07:52
+date: 2017-04-07 07:52
 excerpt:  "Good theology and encouraging devotional material are not at odds with each other."
 header:
   teaser: /assets/images/category-for-the-suffering-christian.png
