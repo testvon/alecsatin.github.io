@@ -10,6 +10,7 @@ categories: songs
 excerpt: "You may never have lived in a world free of suffering. But if you are Christ’s, you will. His one-time and ultimate triumph over death is summed up in the last verse of Henry Milman’s hymn..."
 tags:
   - Palm Sunday
+  - hymn
 ---
 > O death, where is thy sting? O grave, where is thy victory? The sting of death is sin; and the strength of sin is the law. But thanks be to God, which giveth us the victory through our Lord Jesus Christ. -1 Corinthians 15:55-57
 

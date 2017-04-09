@@ -16,6 +16,7 @@ tags:
   - heaven
   - Henry Francis Lyte
   - Psalter Hymnal
+  - hymn
 ---
 As if it weren't enough to have forgiveness and salvation, God promises to love us to the same degree and in the same measure as his only begotten son, the Lord Jesus Christ.  As 1 Peter 5:7 says, 
 
