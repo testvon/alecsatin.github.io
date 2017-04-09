@@ -8,7 +8,7 @@ header:
   video:
     id: c2Fzm3z5SDo?rel=0
     provider: youtube
-categories: /songs/
+categories: songs
 tags:
   - friends
   - grace
