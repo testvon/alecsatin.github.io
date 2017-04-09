@@ -7,7 +7,7 @@ header:
     id: Zo5pfl6z6lA?rel=0
     provider: youtube
 categories: /songs/
-excerpt: "Ride On, Ride On, in Majesty by Henry H. Milman, 1790-1868"
+excerpt: "You may never have lived in a world free of suffering. But if you are Christ’s, you will. His one-time and ultimate triumph over death is summed up in the last verse of Henry Milman’s hymn..."
 tags:
   - Palm Sunday
 ---
