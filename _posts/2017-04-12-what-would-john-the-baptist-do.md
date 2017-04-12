@@ -10,6 +10,10 @@ categories: devotions
 tags: 
 - devotions
 - John the Baptist
+- C J Mahaney
+- Tom Chantry
+- hypocrisy
+- works
 ---
 > Almighty God, by whose providence thy servant John Baptist was wonderfully born, and sent to prepare the way of thy Son our Saviour, by preaching of repentance; 
 > Make us so to follow his doctrine and holy life, that we may truly repent according to his preaching;
