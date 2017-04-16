@@ -25,7 +25,7 @@ Christianity cannot really be understood in any depth apart from a knowledge of 
 # Why is Christ the Passover sacrifice?
 Many of us have been taught to be nervous about referring to Christ as food.  But Jesus called himself the *living bread of heaven* in John 6:33 and John 6:51.  Hebrews 9 confirms *without the shedding of blood there is no remission of sins...So Christ was once offered to bear the sins of many*.  
 
-What we call the Last Supper of Christ was the last Passover meal celebrated by Jesus and his apostles.  It was served in accordance with the command in Exodus.  It was at this dinner that Christ instituted the Lord's Supper.  When we partake of the bread and the wine in "sincerity and love", we are drawn close to him and comforted as he promised we would be.  Not that this is a new sacrifice.  It is a remembering of what has been forever completed - the conquering of wrath and death for his beloved.  Alleluia!
+What we call the Last Supper of Christ was the last Passover meal celebrated by Jesus and his apostles before his crucifixion.  It was served in accordance with the command in Exodus.  It was at this dinner that Christ instituted the Lord's Supper.  When we partake of the bread and the wine in "sincerity and love", we are drawn close to him and comforted as he promised we would be.  Not that this is a new sacrifice.  It is a remembering of what has been forever completed - the conquering of wrath and death for his beloved.  Alleluia!
 
 Verse 7 sums up the reason for our happiness:
 
