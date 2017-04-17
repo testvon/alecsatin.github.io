@@ -1,9 +1,11 @@
 ---
-date: 2015-09-09 07:00:12+00:00
-excerpt: "In all the branches of my family going back to all the people who are remembered, as far as I know I am the only one who has ever become a Christian."
+date: 2015-09-09 07:00
 redirect_from:
   - /gratitude-for-the-miracle-of-faith/
 title: It takes a miracle to believe
+excerpt: "In all the branches of my family going back to all the people who are remembered, as far as I know I am the only one who has ever become a Christian." 
+header:
+  teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy
 tags:
   - justification-by-faith
@@ -14,10 +16,6 @@ tags:
   - faith
   - born-again
   - salvation
-title: 
-excerpt: "In all the branches of my family going back to all the people who are remembered, as far as I know I am the only one who has ever become a Christian." 
-header:
-  teaser: /assets/images/category-biblical-orthodoxy.png
 ---
 {% include toc title="Contents" icon="book" %}
 
