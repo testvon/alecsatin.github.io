@@ -15,7 +15,7 @@ tags:
   - born-again
   - salvation
 title: 
-excerpt:  
+excerpt: "In all the branches of my family going back to all the people who are remembered, as far as I know I am the only one who has ever become a Christian." 
 header:
   teaser: /assets/images/category-biblical-orthodoxy.png
 ---
