@@ -22,7 +22,7 @@ May God bless you today in whatever your circumstances.  Keep patient, believe a
 
 P.S.  Some of the most comforting parts of the hymn are not included in the recording.  Take a look at the stanzas and decide what you think.  
 
-**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/honor/once-to-every-man-and-nation/){: .btn .btn--warning} to watch the video.
+**Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/songs/if-thou-but-suffer-god-to-guide-thee/){: .btn .btn--warning} to watch the video.
 {: .notice}
 
 # Lyrics
