@@ -18,7 +18,7 @@ comments:
   name                   : "Comfort for Christians | Alec Satin"
   allowedOrigins         : ["localhost", "alecsatin.com", "www.alecsatin.com"]
   notifications:
-    enabled: false
+    enabled: true
     # (!) ENCRYPTED
     # (this is to the public instance)
     # Mailgun API key
