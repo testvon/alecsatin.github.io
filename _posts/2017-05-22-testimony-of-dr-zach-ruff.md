@@ -23,7 +23,7 @@ Some observations:
 
 ## 1. Christians are here on earth in 2017 to bear witness to the salvation of Jesus Christ.  
 
-These 16 year-olds provide a wonderful example of manifesting the gifts of the spirit (e.g. peace, patience, gentleness, goodness, self-control).  Are you able to do the same?
+These 16 year-olds manifest the gifts of the spirit (peace, patience, gentleness, goodness, self-control) in the face of an authority who displays aggression and hatred.  
 
 ## 2. Speaking the truth in love is always used by the Holy Spirit.
 
