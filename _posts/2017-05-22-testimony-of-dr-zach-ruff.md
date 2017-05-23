@@ -37,7 +37,7 @@ Remember the story of Stephen in the book of Acts?  The preaching of the Word by
 
 He says, *This is not the time or the place for you to harass innocent schoolchildren...They have nothing to do with your twisted and perverted agenda*.
 
-## 4. This public school principal does not believe Christians have the right of free speech.  
+## 4. This public school assistant principal does not believe Christians have the right of free speech.  
 
 Note that these young people were on a public sidewalk and were not obstructing traffic.  Dr. Ruff makes these statements:
 
