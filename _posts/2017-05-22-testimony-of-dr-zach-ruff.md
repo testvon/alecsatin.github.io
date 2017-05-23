@@ -39,7 +39,7 @@ He says, *This is not the time or the place for you to harass innocent schoolchi
 
 ## 4. This public school assistant principal does not believe Christians have the right of free speech.  
 
-Note that these young people were on a public sidewalk and were not obstructing traffic.  Dr. Ruff makes these statements:
+Note that these young people were on a public sidewalk.  Dr. Ruff makes these statements:
 
 - *You do not have the permission to talk*  
 - *You cannot talk to my students.  You will not do it while I am here.*
