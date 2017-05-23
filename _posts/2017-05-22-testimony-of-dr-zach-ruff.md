@@ -27,7 +27,7 @@ These 16 year-olds manifest the gifts of the spirit (peace, patience, gentleness
 
 ## 2. Speaking the Word is always used by the Holy Spirit.
 
-Remember the story of Stephen in the book of Acts?  The preaching of the Word by ordinary Christians will harden some listeners and save others.   There are people like Dr. Ruff who cannot bear to hear even a hint of the law. 
+Remember the story of Stephen in the book of Acts?  The preaching of the Word by ordinary Christians will harden some listeners and save others.   There are people like Dr. Ruff who cannot bear to hear even a bit of God's law, much less his gospel. 
 
 - At 5 minutes 28 seconds (5m28s) he physically grabs the young man's sign.
 - At 7m29s he says, *This is a public school.  We don't believe in that here.*
