@@ -1,11 +1,11 @@
 # top navigation menu
 main:
-  - title: "For atheists"
-    url: /website/for-non-christians/
   - title: "Recent posts"
     url: /#recent-posts    
   - title: "Writings"
     url: /writings/
+  - title: "To atheists"
+    url: /website/for-non-christians/
   - title: "Search"
     url: /search/
   - title: "About"
