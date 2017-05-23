@@ -16,7 +16,7 @@ tags:
 ---
 >Testimony: An open acknowledgment or profession, esp. of religious faith or experience. -SOED
 
-Some people think of *testimony* as one's Christian life story.  But how a person behaves in a situation is a testimony of who they are and what they believe.  A post on [Doug's (Asleep no more)](http://wideawakechristian.blogspot.ca/2017/05/random-bits_19.html) refers to a story about what happened when two teenagers peacefully witnessed to Christ outside of a high school in Downington, Pennsylvania. The testimony of the Assistant Principal of the school, Dr. Zachary Ruff, has been captured on video below.
+Some people think of *testimony* as limited to one's Christian life story.  But how a person behaves in a situation is also a testimony of who they are and what they believe.  A post on [Doug's (Asleep no more)](http://wideawakechristian.blogspot.ca/2017/05/random-bits_19.html) refers to a story about what happened when two teenagers peacefully witnessed to Christ outside of a high school in Downington, Pennsylvania. The testimony of the Assistant Principal of the school, Dr. Zachary Ruff, has been captured on video below.
 
 Some observations:
 
