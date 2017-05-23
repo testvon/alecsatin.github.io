@@ -14,9 +14,11 @@ tags:
   - young people
   - courage
 ---
-Testimony: An open acknowledgment or profession, esp. of religious faith or experience. -SOED
+>Testimony: An open acknowledgment or profession, esp. of religious faith or experience. -SOED
 
-Some people think of *testimony* as one's Christian life story.  But a wider definition applies to all people, not only Christians.  [Doug (Asleep no more)](http://wideawakechristian.blogspot.ca/2017/05/random-bits_19.html) includes a link to this video record of what happened when two teenagers peacefully witnessed to Christ outside of a high school in Downington, Pennsylvania.  The Assistant Principal of the school, Dr. Zachary Ruff, gave his own testimony, as seen in the below video.  Some points:
+Some people think of *testimony* as one's Christian life story.  But how a person behaves in a situation is a testimony of who they are and what they believe.  A post on [Doug's (Asleep no more)](http://wideawakechristian.blogspot.ca/2017/05/random-bits_19.html) blog included a link to a story about what happened when two teenagers peacefully witnessed to Christ outside of a high school in Downington, Pennsylvania. The Assistant Principal of the school, Dr. Zachary Ruff, would be hard to believe unless it had been captured on video.  That video is available below.
+
+Some observations:
 
 
 ## 1. Christians are here on earth in 2017 to bear witness to the salvation of Jesus Christ.  
