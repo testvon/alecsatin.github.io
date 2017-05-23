@@ -25,7 +25,7 @@ Some observations:
 
 These 16 year-olds manifest the gifts of the spirit (peace, patience, gentleness, goodness, self-control) in the face of an authority who displays aggression and hatred.  
 
-## 2. Speaking the truth in love is always used by the Holy Spirit.
+## 2. Speaking the Word is always used by the Holy Spirit.
 
 Remember the story of Stephen in the book of Acts?  The preaching of the Word by ordinary Christians will harden some listeners and save others.   There are people like Dr. Ruff who cannot bear to hear even a hint of the law. 
 
