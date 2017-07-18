@@ -77,8 +77,6 @@ Two descriptions of Satan's history are provided in Ezekiel 28 and Isaiah 14.  T
 
 The Lord reveals that Satan was in Eden (v.13), a reference to Genesis chapter 3.  He was appointed by God and anointed as a covering cherub (v.14) on God's holy mountain.  He was perfect in every way, until he sinned (v.15).  His heart was lifted up in pride.  His wisdom was corrupted by the brightness of his light (v.17).  Could it be that the "spiritual enlightenment" being touted here, there, and everywhere is actually a corrupting force?  The idea that human beings by their own efforts can evolve to perfection is among the first lies Satan used on human beings.  It was so wonderfully destructive for men and women that Satan is still using it today.[^3F]
 
-[^3F]: 4 And the serpent said unto the woman, Ye shall not surely die:
-5 For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods... Genesis 3:4-5
 
 ## Isaiah 14:12-15
 
@@ -140,3 +138,6 @@ Watch.
 [^3D]: Matthew Henry. An exposition of the Old and New Testaments on Ezekiel 28:12
 [^3E]: https://en.wikipedia.org/wiki/Lucis_Trust
 
+
+[^3F]: 4 And the serpent said unto the woman, Ye shall not surely die:
+5 For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods... Genesis 3:4-5
