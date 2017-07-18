@@ -139,5 +139,4 @@ Watch.
 [^3E]: https://en.wikipedia.org/wiki/Lucis_Trust
 
 
-[^3F]: 4 And the serpent said unto the woman, Ye shall not surely die:
-5 For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods... Genesis 3:4-5
+[^3F]: And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods... Genesis 3:4-5
