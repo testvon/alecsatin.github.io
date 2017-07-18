@@ -122,7 +122,7 @@ any of us. He was created to serve God as a perfect being.  But his wisdom was c
 
 But the Lord is Good.  He is our strength and our protection.  Jesus says, *And I give unto them eternal life; and they shall never perish, neither shall any pluck them out of my hand.  My Father, which gave them me, is greater than all; and none is able to pluck them out of my Father's hand.* -John 10:28-29.
 
-It's not wise to focus too much attention on Satan.  Nor is it wise to address him directly.  But we must not be ignorant of his plans and ways. 
+It's not wise to focus too much attention on Satan.  Nor is it wise to address him directly.  But we must not be ignorant of his plans and ways (Matthew 10:16).  This raging lion wants to keep as many people from the knowledge of the truth as possible.  For only those written in the Lamb's Book of Life have a future of hope.  And the only way to be found in that book of Jesus Christ is to trust in him completely by faith - not in anything you can do to be "enlightened".
 
 > Take ye heed, watch and pray: for ye know not when the time is. For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.  Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:  Lest coming suddenly he find you sleeping.  And what I say unto you I say unto all, Watch. -Mark 13:33-37
 
