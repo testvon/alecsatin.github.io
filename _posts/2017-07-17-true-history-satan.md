@@ -2,7 +2,7 @@
 date: 2017-07-17 08:05 
 title: The true history of Satan
 categories: ever-wonder
-excerpt:  "A friend with many years involvement in witchcraft who is now seeking a better way asked,  *What's the real history of Satan?  I tried to find it in the Bible but couldn't find a clear account.*"
+excerpt:  "A friend with many years involvement in witchcraft now seeking a better way asked,  *What's the real history of Satan?  I tried to find it in the Bible but couldn't find a clear account.*"
 header:
   teaser: /assets/images/category-ever-wonder.png
 tags: 
@@ -13,7 +13,7 @@ tags:
 ---
 > The Bible doesn't talk about everything, but everything it talks about is absolutely true. -unknown
 
-A friend with many years involvement in witchcraft who is now seeking a better way asked,  *What's the real history of Satan?  *I tried to find it in the Bible but couldn't find a clear account.*
+A friend with many years involvement in witchcraft now seeking a better way asked,  *What's the real history of Satan?  I tried to find it in the Bible but couldn't find a clear account.*
 
 # Names of Satan
 
