@@ -1,7 +1,7 @@
 ---
 title: A Little Good News Today
 created:  2017-07-28 07:55
-excerpt:  
+excerpt:  The best antidote to the sadness and disappointment the spirit of the age offers is to return to the truth again and again.  Thank God that he loved the world so much that he gave his Son that whosoever believes in Him shall not perish, but will have eternal life.  
 header:
   teaser: /assets/images/category-songs.png
   video:
