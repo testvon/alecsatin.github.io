@@ -17,8 +17,8 @@ tags:
 
 *A Summary of the Christian Faith* was published in 1905.  Dr. Jacobs intended this to be a Biblical, orthodox, and insofar as it was possible, a non-sectarian treatment of the most important aspects of Christianity.  This book was written for everyday Christians. Each chapter of this book contains rich nuggets to strengthen faith.  
 
-[Henry Eyster Jacobs - Quick biography](/biblical-orthodoxy/jacobs-christian-faith-ch1-sources-methods)
-[Chapter 1 - Sources and Methods](/biblical-orthodoxy/jacobs-christian-faith-ch1-sources-methods)
-Chapter 2 - The Being and Attributes of God
-Chapter 3 - The Trinity
-Chapter 4 - Creation
+* [Henry Eyster Jacobs - Quick biography](/biblical-orthodoxy/jacobs-christian-faith-ch1-sources-methods)
+* [Chapter 1 - Sources and Methods](/biblical-orthodoxy/jacobs-christian-faith-ch1-sources-methods)
+* Chapter 2 - The Being and Attributes of God
+* Chapter 3 - The Trinity
+* Chapter 4 - Creation
