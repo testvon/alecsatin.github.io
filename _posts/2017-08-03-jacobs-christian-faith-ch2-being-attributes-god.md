@@ -3,7 +3,9 @@ date: 2017-08-03 08:39
 modified: 
 title: "Chapter 2 - The Being And Attributes Of God - A Summary of the Christian Faith by Henry Eyster Jacobs"
 header: 
-  teaser: /assets/images/categGod is a spiritual essence, intelligent, eternal, true, good, just, holy, chaste, merciful, most free, of immense wisdom and power, different from the bodies of the world, and all creatures." 
+  teaser: /assets/images/category-biblical-orthodoxy.png
+categories: biblical-orthodoxy
+excerpt: "God is a spiritual essence, intelligent, eternal, true, good, just, holy, chaste, merciful, most free, of immense wisdom and power, different from the bodies of the world, and all creatures." 
 comments: false
 tags:
   - Henry Eyster Jacobs
