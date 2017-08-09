@@ -1,5 +1,5 @@
 ---
-date: 2017-08-04 08:39 
+date: 2017-08-03 08:39 
 modified: 
 title: "Chapter 2 - The Being And Attributes Of God - A Summary of the Christian Faith by Henry Eyster Jacobs"
 header: 
