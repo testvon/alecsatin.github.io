@@ -19,7 +19,7 @@ tags:
 
 There is probably too much in this post for one reading.  Bookmarks fall by the wayside.  One suggestion is to print it out and review it little by little over the next week.    Lord willing, a new chapter from Jacobs will be posted regularly.  
 
-[You can find other chapters here](/biblical-orthodoxy/henry-eyster-jacobs-summary-christian-faith-index)
+[You can find other chapters of Jacobs' book here.](/biblical-orthodoxy/henry-eyster-jacobs-summary-christian-faith-index)
 
 # Henry Eyster Jacobs - Quick biography
 
