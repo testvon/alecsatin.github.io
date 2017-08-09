@@ -1,7 +1,7 @@
 ---
 date: 2017-08-04 08:39 
 modified: 2017-08-08 11:58
-title: "A Summary of the Christian Faith by Henry Eyster Jacobs - Chapter 1 Sources and Methods"
+title: "Chapter 1 Sources and Methods - A Summary of the Christian Faith by Henry Eyster Jacobs"
 header: 
   teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy
@@ -17,7 +17,7 @@ tags:
 
 There is probably too much in this post for one reading.  Bookmarks fall by the wayside.  One suggestion is to print it out and review it little by little over the next week.    Lord willing, a new chapter from Jacobs will be posted regularly.  
 
-[You can find other chapters of Jacobs' book here.](/biblical-orthodoxy/henry-eyster-jacobs-summary-christian-faith-index)
+[(You can find other chapters of Jacobs' book here.)](/biblical-orthodoxy/henry-eyster-jacobs-summary-christian-faith-index)
 
 # Henry Eyster Jacobs - Quick biography
 
