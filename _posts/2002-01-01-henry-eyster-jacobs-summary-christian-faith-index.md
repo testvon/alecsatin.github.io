@@ -18,5 +18,5 @@ tags:
 * [Henry Eyster Jacobs - Quick biography](/biblical-orthodoxy/jacobs-christian-faith-ch1-sources-methods/)
 * [Chapter 1 - Sources and Methods](/biblical-orthodoxy/jacobs-christian-faith-ch1-sources-methods/)
 * [Chapter 2 - The Being and Attributes of God](/biblical-orthodoxy/jacobs-christian-faith-ch2-being-attributes-god/)
-* [Chapter 3 - The Trinity](/biblical-orthodoxy/jacobs-christian-faith-ch1-sources-methods/)
+* [Chapter 3 - The Trinity](/biblical-orthodoxy/jacobs-christian-faith-ch3-trinity/)
 * Chapter 4 - Creation
