@@ -1,7 +1,7 @@
 ---
 title: Schmauk on the two kinds of anti-Christian tyranny 
 date: 2017-08-13 08:44
-excerpt:  ""
+excerpt:  "In this passage from great Christian teacher Theodore Schmauk, we see a large part of the underlying conflict going on around us in America.  The false choice between authoritarianism or Romanticism is no choice at all."
 header:
   teaser: "/assets/images/category-spirit-of-the-age.png"
 categories: spirit-of-the-age
