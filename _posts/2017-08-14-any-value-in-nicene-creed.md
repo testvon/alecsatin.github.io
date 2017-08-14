@@ -10,7 +10,7 @@ tags:
   - Athanasian Creed
   - Theodore Schmauk
   - Quotation
-excerpt: "Jesus treated the Old Testament as an exact historical record.  Here are five examples of Jesus believing the Old Testament was historically true."
+excerpt: "Creeds are born, not made. They are wrung in the agony and anxiety of a Confession at an epoch fraught with the possibility of perilous consequences to the confessors." 
 ---
 
 >The Apostles' Creed, the Athanasian Creed, the Nicene Creed, and the Sixteenth Century Confessions of our Church are each and every one of them the product of the greatest upheavals and the most intense crises in the Church of Christ. Creeds are born, not made. They are wrung in the agony and anxiety of a Confession at an epoch fraught with the possibility of perilous consequences to the confessors. 
