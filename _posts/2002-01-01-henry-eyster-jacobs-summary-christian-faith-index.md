@@ -20,3 +20,9 @@ tags:
 * [Chapter 2 - The Being and Attributes of God](/biblical-orthodoxy/jacobs-christian-faith-ch2-being-attributes-god/)
 * [Chapter 3 - The Trinity](/biblical-orthodoxy/jacobs-christian-faith-ch3-trinity/)
 * [Chapter 4 - Creation](/biblical-orthodoxy//jacobs-christian-faith-ch4-creation/)
+* Chapter 5 - Providence
+* Chapter 6 - Angels
+* Chapter 7 - Man as Created
+* Chapter 8 - Sin
+* Chapter 9 - The Grace of God towards Fallen Men
+* Chapter 10 - The Preparation of Redemption
