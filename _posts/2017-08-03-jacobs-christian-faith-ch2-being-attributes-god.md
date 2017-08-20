@@ -1,7 +1,7 @@
 ---
 date: 2017-08-03 08:39 
 modified: 
-title: "Chapter 2 - The Being And Attributes Of God - A Summary of the Christian Faith by Henry Eyster Jacobs"
+title: "The Being And Attributes Of God - Chapter 2 - A Summary of the Christian Faith by Henry Eyster Jacobs"
 header: 
   teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy

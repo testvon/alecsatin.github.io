@@ -1,7 +1,7 @@
 ---
 date: 2017-08-11 08:39 
 modified: 
-title: "Chapter 3 - The Trinity - A Summary of the Christian Faith by Henry Eyster Jacobs"
+title: "The Trinity - Chapter 3 - A Summary of the Christian Faith by Henry Eyster Jacobs"
 header: 
   teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy

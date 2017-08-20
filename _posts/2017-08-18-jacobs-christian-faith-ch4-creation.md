@@ -1,7 +1,7 @@
 ---
 date: 2017-08-18 06:39 
 modified: 
-title: "Chapter 4 - Creation - A Summary of the Christian Faith by Henry Eyster Jacobs"
+title: "Creation - Chapter 4 - A Summary of the Christian Faith by Henry Eyster Jacobs"
 header: 
   teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy
