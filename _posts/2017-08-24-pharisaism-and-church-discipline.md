@@ -1,11 +1,11 @@
 ---
 date:  2017-08-24 09:36 
 modified: 
-title: "Church discipline and Pharisaism - Quote from Theodore Schmauk"
+title: "Church Discipline and Pharisaism - Quote from Theodore Schmauk"
 header: 
   teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy
-excerpt: "The legalistic attitude, through which Church discipline is put theoretically on the same level as the preaching of the Gospel is one that cannot but result in the end in the subverting of the Gospel and the prevalence of pharisaism..."
+excerpt: "The legalistic attitude, through which Church discipline is put theoretically on the same level as the preaching of the Gospel is one that cannot but result in the end in the subverting of the Gospel and the prevalence of Pharisaism..."
 comments: true
 tags:
   - Theodore Schmauk
