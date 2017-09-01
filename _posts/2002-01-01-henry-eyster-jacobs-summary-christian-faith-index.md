@@ -22,7 +22,7 @@ tags:
 * [Chapter 4 - Creation](/biblical-orthodoxy/jacobs-christian-faith-ch4-creation/)
 * [Chapter 5 - Providence](/biblical-orthodoxy/jacobs-christian-faith-ch5-providence/)
 * [Chapter 6 - Angels](/biblical-orthodoxy/jacobs-christian-faith-ch6-angels/)
-* Chapter 7 - Man as Created
-* Chapter 8 - Sin
+* [Chapter 7 - Man as Created](/biblical-orthodoxy/jacobs-christian-faith-ch7-man-as-created/)
+* [Chapter 8 - Sin](/biblical-orthodoxy/jacobs-christian-faith-ch8-sin/)
 * Chapter 9 - The Grace of God towards Fallen Men
 * Chapter 10 - The Preparation of Redemption
