@@ -5,7 +5,7 @@ title: "Man as Created - A Summary of the Christian Faith by Henry Eyster Jacobs
 header: 
   teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy
-excerpt: "The soul was made for the body, as the body was made for the soul, and both together were made for God."" 
+excerpt: "The soul was made for the body, as the body was made for the soul, and both together were made for God." 
 comments: true
 tags:
   - Henry Eyster Jacobs
