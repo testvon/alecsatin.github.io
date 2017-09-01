@@ -1,5 +1,5 @@
 ---
-date: 2017-08-24 06:39 
+date: 2017-08-23 6:39 
 modified: 
 title: "Man as Created - A Summary of the Christian Faith by Henry Eyster Jacobs - Chapter 7"
 header: 
