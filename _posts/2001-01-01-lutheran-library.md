@@ -3,8 +3,10 @@ title: Lutheran Library E-Books - EPUB KINDLE PDF
 date: 2017-04-17 09:31 
 excerpt: "The Lutheran Library restores and re-releases sound and encouraging Christian books from earlier eras as ebooks." 
 categories: website
-tags:
-  - website
+tags: 
+  - ebook
+redirect_from:
+  - /lutheran-library/
 header:
   teaser: "/assets/images/category-website.png"
 ---
