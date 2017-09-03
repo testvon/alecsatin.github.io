@@ -7,12 +7,13 @@ tags:
   - ebook
 redirect_from:
   - /lutheran-library/
+  - /lutheranlibrary/
 header:
   teaser: "/assets/images/category-website.png"
 ---
 # Lutheran Library 
 
-The Lutheran Library restores and re-releases sound and encouraging Christian books from earlier eras.  
+The Lutheran Library finds and restores good books from an earlier era. All are available at no charge in these formats: EPUB [for Apple and Kobo], AZW3 [for Kindle], and PDF.
 
 To be notified of future titles: [Notification](/subscribe/)
 
