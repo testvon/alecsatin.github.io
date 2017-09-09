@@ -16,13 +16,9 @@ header:
 
 The Lutheran Library finds and restores good books from earlier eras. All are available at no charge in these formats: EPUB [for Apple and Kobo], AZW3 [for Kindle], and PDF.
 
-* To request a book:  [Send Email](/contact/)
+* To request a book or report typos:  [Send Email](/contact/)
 
 * To be notified of future titles: [Notification](/subscribe/)
-
-* To report typos: [Send Email](/contact/)
-
-Any typographical errors reported will be fixed in future editions.
 
 ## Available Now from the Lutheran Library
 
