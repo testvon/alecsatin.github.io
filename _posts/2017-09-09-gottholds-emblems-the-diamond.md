@@ -12,7 +12,7 @@ tags:
   - Encouraging 
 ---
 
-# Gotthold and the Diamond
+## Gotthold and the Diamond
 
 Gotthold, inspecting the operations of a goldsmith, who was setting a diamond, saw him place a dark leaf in the capsule, which it was intended to fill. On inquiring for what purpose this was done, he was told that it improved the brightness and sparkling of the jewel. Reflecting upon the matter, he found that such would naturally be the effect, and exclaimed: My God, here I have a type of Thy grace, which shines most brightly and beautifully in our deepest distress, or when employed to overlay the blackness of our guilt. I do not wonder so much that it irradiated an Enoch, a Noah, a Daniel, and a Virgin Mary, as that it shed its enlightening and quickening rays on David the adulterer, on Peter, who denied his Master with an oath, on Paul the persecutor and blasphemer, and on that great sinner Mary Magdalene.
 
