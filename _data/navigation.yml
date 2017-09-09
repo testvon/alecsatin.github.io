@@ -4,10 +4,10 @@ main:
     url: /website/lutheran-library/   
   - title: "Recent posts"
     url: /#recent-posts    
-  - title: "Writings"
-    url: /writings/
   - title: "Search"
     url: /search/
+  - title: "Writings"
+    url: /writings/
   - title: "About"
     url: /about-website/
   - title: "Beliefs"
