@@ -1,7 +1,7 @@
 ---
 title: One of Gotthold's Emblems - The Diamond
 date: 2017-09-09 06:28
-excerpt:  "Good theology and encouraging devotional material are not at odds with each other."
+excerpt:  "Gotthold, inspecting the operations of a goldsmith, who was setting a diamond, saw him place a dark leaf in the capsule..."
 header:
   teaser: /assets/images/category-for-the-suffering-christian.png
 categories: for-the-suffering-christian
