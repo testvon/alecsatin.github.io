@@ -1,5 +1,7 @@
 # top navigation menu
 main:
+  - title: "Lutheran Library Free E-Books"
+    url: /website/lutheran-library/   
   - title: "Recent posts"
     url: /#recent-posts    
   - title: "Writings"

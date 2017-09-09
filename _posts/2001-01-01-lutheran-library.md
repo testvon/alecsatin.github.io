@@ -12,7 +12,7 @@ redirect_from:
 header:
   teaser: "/assets/images/category-website.png"
 ---
-# The Lutheran Library 
+## The Lutheran Library 
 
 The Lutheran Library finds and restores good books from earlier eras. All are available at no charge in these formats: EPUB [for Apple and Kobo], AZW3 [for Kindle], and PDF.
 
