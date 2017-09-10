@@ -22,7 +22,7 @@ The Lutheran Library finds and restores good books from earlier eras. All are av
 
 ## Available Now from the Lutheran Library
 
-B101. *Under Two Captains: The Spiritual Autobiography of Colonel John Jacob Lehmanowsky* 
+B101. *Under Two Captains: The Autobiography of Colonel John Jacob Lehmanowsky* 
 
 >Jewish believer in Jesus Christ and faithful Lutheran. Colonel in the army of Napoleon. Friend of Lafayette and the American statesman Henry Clay.  Immigrant to America.  Participant in the Westward migration.  
 
