@@ -7,7 +7,7 @@ header:
     id: 3ebHreUQ_xo?rel=0
     provider: youtube
 categories: songs
-excerpt: ""
+excerpt: "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake. –Psalm 79:9"
 tags:
   - hymn
 ---
@@ -16,7 +16,9 @@ tags:
 
 This beautiful hymn appears as number 214 in *Hymns Ancient and Modern* and number 258 in *The Lutheran Hymnal*.  It was written in the Seventeenth Century by Matthaeus A. von Loewenstern, and translated into English in the Nineteenth by Philip Pusey.
 
-The youtube version is a congregational recording from 1957 in the Westminster Chapel.
+The youtube version is a congregational recording from 1957 in the Westminster Chapel with pastor Dr. Martin Lloyd-Jones.
+
+This one's for S.E.
 
 May God be with you today and always.  Amen.
 
