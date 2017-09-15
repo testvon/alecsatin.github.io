@@ -1,6 +1,6 @@
 # top navigation menu
 main:
-  - title: "Lutheran Library Free E-Books"
+  - title: "Lutheran Library E-Books"
     url: /website/lutheran-library/   
   - title: "Recent posts"
     url: /#recent-posts    
@@ -20,6 +20,12 @@ main:
     url: /contact/
 # left side navigation menu
 nav-left:
+#  - title: "E-Books"
+#    children:
+#      - title: "Schmauk Biography"
+#        image: /assets/images/sandt-schmauk-biography-sm.jpg
+#        image_alt: "Schmauk Biography"
+#        url: /website/lutheran-library/
   - title: Writings
     children:
       - title: "Did you ever wonder?"
