@@ -9,7 +9,7 @@ header:
 permalink: /about-website/
 redirect_from:
 - /read-this-first/
-excerpt: "About Alec Satin's Comfort for Christians website, personal writings on biblical orthodoxy, living with faith and the spirit of the age."
+excerpt: "Lutheran Library e-books, comfort for Christians, sound encouraging biblical orthodoxy"
 categories: website
 tags:
   - website
