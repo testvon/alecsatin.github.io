@@ -1,6 +1,6 @@
 ---
 date: 2017-09-17 07:00 
-title: At the Name of Jesus Every Knee Shall Bow - Hymns A&M 306
+title: At the Name of Jesus Every Knee Shall Bow 
 header:
   teaser: /assets/images/category-songs.png
   video:
