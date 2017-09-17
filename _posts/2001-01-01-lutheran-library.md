@@ -12,7 +12,6 @@ redirect_from:
 header:
   teaser: "/assets/images/category-website.png"
   image: /assets/images/lutheran-library-banner.jpg
-  caption: "Part of the Lutheran Library e-book catalog."
 ---
 ## The Lutheran Library 
 
