@@ -27,6 +27,10 @@ B101 *Under Two Captains: The Autobiography of Colonel John Jacob Lehmanowsky*
 
 >Jewish believer in Jesus Christ and faithful Lutheran. Colonel in the army of Napoleon. Friend of Lafayette and the American statesman Henry Clay.  Immigrant to America.  Participant in the Westward migration.  
 
+T108 – *The Lutheran Country Church* by George H. Gerberding  
+
+>...Someone has said; "If it were not for the stream of fresh, pure, uncontaminated blood flowing into them from the country the cities would rot in their own iniquity." We are sorry to be compelled to believe that this is true. But the good, pure and purifying blood does not all come into the city from the country districts of our own land. Many of the much maligned "foreigners" from the country districts of the old world are a saving salt of no small insignificance. This book wants to help the reader to understand country people and to appreciate the worth of country character. – From The Lutheran Country Church.
+
 B102 *Theodore Emanuel Schmauk A Biographical Sketch* by George W. Sandt 
 
 >There is no man in our Church whose Christian consecration has been more evident, whose deep loyalty to the Church has been stronger, whose full participation in her thought and activity has been wider, whose counsel has been more constantly sought and given, whose influence has been more powerful and helpful than that of Dr. Schmauk. –Dr. Knubel, *The Lutheran* 
@@ -66,9 +70,6 @@ T107 – *The Conservative Reformation and Its Theology* by Charles P. Krauth
 
 >This monumental work, first published in 1871, is regarded as one of the great theological classics to come out of American Lutheranism... Dr Krauth's treatment of the basic doctrines of the Lutheran church is exegetical, dogmatical, and confessional, and reveals a profound understanding of the teachings of Luther and the Reformation. –From the reprint edition.
 
-T108 – *The Lutheran Country Church* by George H. Gerberding  
-
->...Someone has said; "If it were not for the stream of fresh, pure, uncontaminated blood flowing into them from the country the cities would rot in their own iniquity." We are sorry to be compelled to believe that this is true. But the good, pure and purifying blood does not all come into the city from the country districts of our own land. Many of the much maligned "foreigners" from the country districts of the old world are a saving salt of no small insignificance. This book wants to help the reader to understand country people and to appreciate the worth of country character. – From The Lutheran Country Church.
 
 T109 – *Summary of the Christian Faith* by Henry Eyster Jacobs
 
