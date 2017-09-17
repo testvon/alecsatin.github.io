@@ -14,9 +14,9 @@ header:
 ---
 ## The Lutheran Library 
 
-The editor of the Lutheran Library finds and restores books from earlier eras to strengthen believers today.  All are available at no charge in epub, azw3, and pdf formats to work in Apple, Kindle, Kobo, PCs, Macs and most other devices.
+The editor of the Lutheran Library finds and restores books from earlier eras to strengthen believers today.  All are formatted to work with Kindles<sup>®</sup>, smartphones, tablets, and most other devices.  
 
-* To request a book or report typos:  [Send Email](/contact/)
+* To download a book or to learn more: [Send Email](/contact/)
 
 * To be notified of future titles: [Notification](/subscribe/)
 
