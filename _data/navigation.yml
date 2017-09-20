@@ -20,19 +20,19 @@ main:
     url: /contact/
 # left side navigation menu
 nav-left:
-  - title: "E-Books"
+  - title: "Available E-Books"
     children:
-      - title: "What's Wrong With The World? by Charles P. Krauth"
+      - title: "What's Wrong With The World? (Krauth)"
         url: 
-      - title: "Infant Baptism and Infant Salvation in Calvinism by Charles P. Krauth"
+      - title: "Infant Baptism and Infant Salvation in Calvinism (Krauth)"
         url: 
-      - title: "The Lutheran Country Church by George H. Gerberding"
+      - title: "The Lutheran Country Church (Gerberding)"
         url: 
-      - title: "New Testament Conversions by George H. Gerberding"
+      - title: "New Testament Conversions (Gerberding)"
         url: 
-      - title: "Theodore Schmauk – A Biographical Sketch by George W. Sandt"
+      - title: "Theodore Schmauk – A Biographical Sketch (Sandt)"
         url: 
-      - title: "Under Two Captains – The Autobiography of John Jacob Lehmanowsky"
+      - title: "Under Two Captains (John Jacob Lehmanowsky)"
         url: 
   - title: Writings
     children:
