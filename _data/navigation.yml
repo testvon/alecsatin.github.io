@@ -21,7 +21,7 @@ main:
 # left side navigation menu
 nav-left:
   - title: "E-Book Downloads"
-    url: /lutheran-library/
+    url: /website/lutheran-library/
   - title: Writings
     children:
       - title: "Did you ever wonder?"
