@@ -20,20 +20,8 @@ main:
     url: /contact/
 # left side navigation menu
 nav-left:
-  - title: "Available E-Books"
-    children:
-      - title: "What's Wrong With The World? (Krauth)"
-        url: 
-      - title: "Infant Baptism and Infant Salvation in Calvinism (Krauth)"
-        url: 
-      - title: "The Lutheran Country Church (Gerberding)"
-        url: 
-      - title: "New Testament Conversions (Gerberding)"
-        url: 
-      - title: "Theodore Schmauk – A Biographical Sketch (Sandt)"
-        url: 
-      - title: "Under Two Captains (John Jacob Lehmanowsky)"
-        url: 
+  - title: "E-Book Downloads"
+    url: /lutheran-library/
   - title: Writings
     children:
       - title: "Did you ever wonder?"
