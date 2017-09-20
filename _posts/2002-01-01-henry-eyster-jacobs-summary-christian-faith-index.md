@@ -25,8 +25,8 @@ tags:
 * [Chapter 7 - Man as Created](/biblical-orthodoxy/jacobs-christian-faith-ch7-man-as-created/)
 * [Chapter 8 - Sin](/biblical-orthodoxy/jacobs-christian-faith-ch8-sin/)
 * [Chapter 9 - The Grace of God towards Fallen Men](/biblical-orthodoxy/jacobs-christian-faith-ch9-grace/)
-* [Chapter 10 - The Preparation of Redemption](/biblical-orthodoxy/jacobs-christian-faith-ch10-redemption-preparation)
-* Chapter 11 - The Person of Christ
+* [Chapter 10 - The Preparation of Redemption](/biblical-orthodoxy/jacobs-christian-faith-ch10-redemption-preparation/)
+* [Chapter 11 - The Person of Christ](/biblical-orthodoxy/jacobs-christian-faith-ch11-person-of-christ/)
 * Chapter 12 - The States of Christ
 * Chapter 13 - Christ as Prophet
 * Chapter 14 - Christ as Priest
