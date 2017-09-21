@@ -16,7 +16,7 @@ header:
 
 The Lutheran Library editor finds and restores encouraging Christian books from earlier eras.  All are formatted to work with Kindles<sup>®</sup>, smartphones, tablets, and most other devices.  
 
-* [Downloads](/lutheranlibrary/)
+* [Downloads](/lutheran-library/)
 
 * Questions: [Send Email](/contact/)
 
