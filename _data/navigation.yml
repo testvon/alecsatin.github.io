@@ -1,7 +1,7 @@
 # top navigation menu
 main:
   - title: "Lutheran Library E-Books"
-    url: /lutheran-library/   
+    url: /website/lutheran-library/   
   - title: "Recent posts"
     url: /#recent-posts    
   - title: "Search"
@@ -21,7 +21,7 @@ main:
 # left side navigation menu
 nav-left:
   - title: "E-Book Downloads"
-    url: /website/lutheran-library/
+    url: /lutheran-library/
   - title: Writings
     children:
       - title: "Did you ever wonder?"
