@@ -1,7 +1,7 @@
 ---
 date: 2017-09-22 06:39 
 modified: 
-title: "template"
+title: "The Person of Christ – A Summary of the Christian Faith – chapter 11"
 header: 
   teaser: /assets/images/category-biblical-orthodoxy.png
 categories: biblical-orthodoxy
