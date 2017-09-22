@@ -3,13 +3,13 @@ title: Lutheran Library E-Books
 date: 2001-01-01 12:00
 updated: 2017-01-01 06:54
 excerpt: "The Lutheran Library restores and re-releases sound and encouraging Christian books from earlier eras as ebooks." 
-categories: website
+categories: lutheran-library
 redirect_from:
   - /lutheranlibrary/
 tags: 
   - ebook
 header:
-  teaser: "/assets/images/category-website.png"
+  teaser: "/assets/images/category-lutheran-library.png"
   image: /assets/images/lutheran-library-banner.jpg
 ---
 ## The Lutheran Library 
