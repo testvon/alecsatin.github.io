@@ -1,5 +1,5 @@
 ---
-title: Lutheran Library E-Books
+title: What is the *Lutheran Library*?  Purpose and E-Book Listing
 date: 2001-01-01 12:00
 updated: 2017-01-01 06:54
 excerpt: "The Lutheran Library restores and re-releases sound and encouraging Christian books from earlier eras as ebooks." 
