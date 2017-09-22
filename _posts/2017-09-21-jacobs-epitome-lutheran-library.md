@@ -22,7 +22,7 @@ It is clear, concise, and easy to understand.  Considering it thoughtfully is a 
 
 # Download the E-Book
 
-*A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  [What is the Lutheran Library?](/website/lutheran-library/)
+*A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  [What is the Lutheran Library?](/lutheran-library/lutheran-library/)
 
 [Download the PDF](/assets/pdf/117Tg-jacobs-epitome.pdf)
 

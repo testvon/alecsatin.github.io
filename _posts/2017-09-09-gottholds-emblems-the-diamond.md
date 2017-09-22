@@ -23,6 +23,6 @@ Christian Scriver was a Minister in Magdeburg.  In 1671 he published *Invisible 
 
 A e-book copy is being prepared for Kindle, Kobo, Apple and other e-book readers, and is expected to be available before the end of the year under the *Lutheran Library* label.
 
-[More about the *Lutheran Library*](http://www.alecsatin.com/website/lutheran-library/)
+[More about the *Lutheran Library*](http://www.alecsatin.com/lutheran-library/lutheran-library/)
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
