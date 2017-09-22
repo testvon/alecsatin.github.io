@@ -27,16 +27,6 @@ The Lutheran Library editor finds and restores encouraging Christian books from 
 
 ## Available Now
 
-### *A Concise Summary of the Lutheran Confessions: Also Known As The Epitome* by Henry Eyster Jacobs. 85 pgs. [117tg]
-
->Every Christian, according to the guidance of God's Word and his simple Catechism, can distinguish what is right or wrong, where not only the pure doctrine is stated, but also the erroneous contrary doctrine is repudiated and rejected, and thus the controversies, full of causes of offence, that have occurred, are thoroughly settled and decided. 
-
->May Almighty God, the Father of our Lord Jesus, grant the grace of his Holy Ghost, that we all may be one in him, and constantly abide in this Christian unity, which is well pleasing to him! Amen. 
-
-### *The Lutheran Country Church* by George H. Gerberding. 145 pgs. [108t]
-
->...Someone has said; "If it were not for the stream of fresh, pure, uncontaminated blood flowing into them from the country the cities would rot in their own iniquity." We are sorry to be compelled to believe that this is true. But the good, pure and purifying blood does not all come into the city from the country districts of our own land. Many of the much maligned "foreigners" from the country districts of the old world are a saving salt of no small insignificance. This book wants to help the reader to understand country people and to appreciate the worth of country character. – From The Lutheran Country Church.
-
 ### *What's Wrong With the World?* by George H. Gerberding. 117 pgs. [111h]
 
 In this small volume, Dr. Gerberding presents one of the clearest explanations available of the underlying philosophies which led directly to the wars of the Twentieth Century and beyond.
@@ -47,13 +37,26 @@ In this small volume, Dr. Gerberding presents one of the clearest explanations a
 
 >Jewish believer in Jesus Christ and faithful Lutheran. Colonel in the army of Napoleon. Friend of Lafayette and the American statesman Henry Clay.  Immigrant to America.  Participant in the Westward migration.  
 
+### *New Testament Conversions* by George Henry Gerberding. 163 pgs. [103d]
+
+
+>Why, a book of sermons on conversion? Because not all that has been written and preached on the subject is truth. Much of it is the saddest and most dangerous caricature of truth. Few subjects have been more abused, misrepresented and misunderstood. A veritable flood of ruinous error has emanated from pen and pulpit on this subject. A sad wreckage of doubt, gloom, skepticism, despair, insanity and self-destruction is the result. Much of the current twaddle is the shallowest sentimentalism or the wildest fanaticism, with all the various baseless gradations be tween. It tends to confuse the mind, to harden the heart, to quench the spirit, to ruin the soul. -G H Gerberding, from the Introduction
+
+### *A Concise Summary of the Lutheran Confessions: Also Known As The Epitome* by Henry Eyster Jacobs. 85 pgs. [117tg]
+
+
+>Every Christian, according to the guidance of God's Word and his simple Catechism, can distinguish what is right or wrong, where not only the pure doctrine is stated, but also the erroneous contrary doctrine is repudiated and rejected, and thus the controversies, full of causes of offence, that have occurred, are thoroughly settled and decided. 
+
+>May Almighty God, the Father of our Lord Jesus, grant the grace of his Holy Ghost, that we all may be one in him, and constantly abide in this Christian unity, which is well pleasing to him! Amen. 
+
+### *The Lutheran Country Church* by George H. Gerberding. 145 pgs. [108t]
+
+>...Someone has said; "If it were not for the stream of fresh, pure, uncontaminated blood flowing into them from the country the cities would rot in their own iniquity." We are sorry to be compelled to believe that this is true. But the good, pure and purifying blood does not all come into the city from the country districts of our own land. Many of the much maligned "foreigners" from the country districts of the old world are a saving salt of no small insignificance. This book wants to help the reader to understand country people and to appreciate the worth of country character. – From The Lutheran Country Church.
+
 ### *Theodore Emanuel Schmauk A Biographical Sketch* by George W. Sandt. 290 pgs. 28 illus. [102b]
 
 >There is no man in our Church whose Christian consecration has been more evident, whose deep loyalty to the Church has been stronger, whose full participation in her thought and activity has been wider, whose counsel has been more constantly sought and given, whose influence has been more powerful and helpful than that of Dr. Schmauk. –Dr. Knubel, *The Lutheran* 
 
-### *New Testament Conversions* by George Henry Gerberding. 163 pgs. [103d]
-
->Why, a book of sermons on conversion? Because not all that has been written and preached on the subject is truth. Much of it is the saddest and most dangerous caricature of truth. Few subjects have been more abused, misrepresented and misunderstood. A veritable flood of ruinous error has emanated from pen and pulpit on this subject. A sad wreckage of doubt, gloom, skepticism, despair, insanity and self-destruction is the result. Much of the current twaddle is the shallowest sentimentalism or the wildest fanaticism, with all the various baseless gradations be tween. It tends to confuse the mind, to harden the heart, to quench the spirit, to ruin the soul. -G H Gerberding, from the Introduction
 
 ### *Infant Baptism and Infant Salvation in Calvinism* by Charles P. Krauth. 135 pgs. [110t]
 
