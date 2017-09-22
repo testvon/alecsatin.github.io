@@ -19,8 +19,6 @@ tags:
 >How can you explain the temptation of Christ?  Is temptation possible, where a fall is impossible? 
 
 >Temptation properly is only testing or proving. When gold is brought to the touch-stone or submitted to the blow-pipe or treated with various chemical reagents, there is no possibility of any other result than that it will stand the test and be proved to be gold. We inevitably associate the thought of temptation with that of the possibility of a fall, from the fact that man's nature is corrupt, and that even the regenerate are only partially renewed, and, therefore fallible, and likely, under the test, to show its worst features. 
->
->The agony of our Lord's temptation came not from the necessity of a great struggle in order that He might prove Himself victor, but from the fact that it was a part of His passion. 
 
 # Chapter 11 - The Person Of Christ
 
