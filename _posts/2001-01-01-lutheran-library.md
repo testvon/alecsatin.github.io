@@ -12,9 +12,9 @@ header:
   teaser: "/assets/images/category-lutheran-library.png"
   image: /assets/images/lutheran-library-banner.jpg
 ---
-## The Lutheran Library 
+# The Lutheran Library 
 
-### Wisdom from the past speaking to the future
+## Wisdom from the past speaking to the future
 
 The Lutheran Library editor finds and restores encouraging Christian books from earlier eras.  All are formatted to work with Kindles<sup>®</sup>, smartphones, tablets, and most other devices.  
 
@@ -24,6 +24,7 @@ The Lutheran Library editor finds and restores encouraging Christian books from 
 
 * To be notified of future titles: [Notification](/subscribe/)
 
+## Full Catalog of Lutheran Library Titles
 
 ## Available Now
 
