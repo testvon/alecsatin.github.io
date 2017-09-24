@@ -4,7 +4,7 @@ title: "Hymn: Lord Jesus Christ With Us Abide - Selnecker"
 header:
   teaser: /assets/images/category-songs.png
   video:
-    id: X6lkDG68aCQ?t=1m05s
+    id: X6lkDG68aCQ?t=1m5s
     provider: youtube
 categories: songs
 excerpt: "Oh, grant that in Thy holy Word, We here may live and die, dear Lord; And when our journey endeth here, Receive us into glory there."
