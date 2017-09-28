@@ -22,12 +22,6 @@ It is clear, concise, and easy to understand.  Considering it thoughtfully is a 
 
 # Download the E-Book
 
-*A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  [What is the Lutheran Library?](/lutheran-library/lutheran-library/)
+*A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  
 
-[Download the PDF](/assets/pdf/117Tg-jacobs-epitome.pdf)
-
-[Request Kindle<sup>®</sup> version](mailto:lutheranlibrary@runbox.com?subject=Kindle request 117tg&body=Kindle request for Jacobs Concise Summary of the Lutheran Confessions)
-
-[Request Epub version for iPad<sup>®</sup> and Kobo](mailto:lutheranlibrary@runbox.com?subject=Epub request 117tg&body=Epub request for Jacobs Concise Summary of the Lutheran Confessions)
-
-If you have problems with these links on your device, send the name(s) of the book(s) you'd like and format (Kindle, Apple/Kobo, PDF) via [the contact form](/contact/).
+**Lutheran Library**: [Concise Summary of the Lutheran Confessions](http://www.lutheranlibrary.org/ebook/117tg-jacobs-book-of-concord-epitome/)
