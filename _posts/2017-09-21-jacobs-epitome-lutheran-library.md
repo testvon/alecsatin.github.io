@@ -1,6 +1,6 @@
 ---
 date: 2017-09-21 07:00 
-title: "E-Book – A Concise Summary of the Lutheran Confessions by Henry Eyster Jacobs"
+title: "[E-Book Download] – A Concise Summary of the Lutheran Confessions by Henry Eyster Jacobs"
 header:
   teaser: /assets/images/category-lutheran-library.png
   image: /assets/images/117tg-jacobs-epitome-lutheran-library-wide.jpg
