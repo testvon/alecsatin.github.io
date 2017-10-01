@@ -20,8 +20,8 @@ It is clear, concise, and easy to understand.  Considering it thoughtfully is a 
 
 >As a guide to contemporary religious discussion on the great topics of Christianity, and especially on problems connected with the Person of Christ, the Epitome of the Formula will...prove more interesting, and its use of Scripture and of the pure Gospel will be as edifying, to a student and layman, as is the Augsburg Confession. The clearness, calmness, simplicity, and weight of the matter, without repetition of platitudes, fit it for convincing modern use; and we trust that the day will come when it will be published as a tract or pamphlet to be placed in every Lutheran household. - The Confessional Principle, chapter 33. 
 
-# Download the E-Book
+# Download the eBook
 
 *A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  
 
-You can download a copy of the ebook directly from the publisher: [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/117tg-jacobs-book-of-concord-epitome/).
+You can download a copy of the ebook directly from the publisher: [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/117tg-jacobs-book-of-concord-epitome#download-the-ebook/).
