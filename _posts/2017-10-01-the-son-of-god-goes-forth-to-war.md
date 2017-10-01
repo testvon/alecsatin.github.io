@@ -20,7 +20,7 @@ Yesterday I spoke with a friend who had just returned from Berlin.  He visited a
 
 I believe "white balls on strings" has as much meaning as the words "Lutheran Reformation" to many Evangelicals.  
 
-Martin Luther and the Reformers and Stephen and Peter and Paul and the Apostles had a *love of the truth*.  Is "love of the truth" alive in alive in your local congregation?  Is it alive in you?
+Martin Luther and the Reformers and Stephen and Peter and Paul and the Apostles had a *love of the truth*.  How much "love of the truth" is alive in your local congregation?  How much is alive in you?
 
 Dear Lord, protect your sheep.  Give us that love of the truth that lived inside brother Martin.  In Jesus' name.  Amen.
 
