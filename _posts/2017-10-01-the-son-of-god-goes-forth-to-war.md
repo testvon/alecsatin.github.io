@@ -12,7 +12,7 @@ tags:
   - hymn
 ---
 
-The Reformation is 500 years old this month.  What that mean anything today?
+The Reformation is 500 years old this month. Does it matter?
 
 Yesterday I spoke with a friend who had just returned from Berlin.  He visited a large church which advertised an exhibit on the "Lutheran Reformation".  He described it as...
 
