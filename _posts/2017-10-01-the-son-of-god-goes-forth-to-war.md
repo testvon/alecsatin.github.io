@@ -12,9 +12,17 @@ tags:
   - hymn
 ---
 
-The Reformation is 500 years old this month.  Is the *love of the truth* alive in alive in your local church?  Is it alive in you?
+The Reformation is 500 years old this month.  Does it mean anything?
 
-Dear Lord, protect your sheep.  In Jesus' name.  Amen.
+Yesterday I spoke with a friend who had just returned from Berlin.  He visited a large church which advertised an exhibit on the "Lutheran Reformation".  He described it as...
+
+> a bunch of white balls on strings.  We left.
+
+I believe "white balls on strings" has as much meaning as the words "Lutheran Reformation" to many Evangelicals.  
+
+Martin Luther and the Reformers and Stephen and Peter and Paul and the Apostles had a *love of the truth*.  Is "love of the truth" alive in alive in your local congregation?  Is it alive in you?
+
+Dear Lord, protect your sheep.  Give us that love of the truth that lived inside brother Martin.  In Jesus' name.  Amen.
 
 
 ## Lyrics *The Son of God Goes Forth to War* by Reginald Heber
