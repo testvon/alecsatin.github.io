@@ -24,4 +24,4 @@ It is clear, concise, and easy to understand.  Considering it thoughtfully is a 
 
 *A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  
 
-You can download a copy of the ebook directly from the publisher: [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/117tg-jacobs-book-of-concord-epitome/#download-the-ebook/).
+You can download a copy of the ebook directly from the publisher: [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/117tg-jacobs-book-of-concord-epitome/#download-the-ebook).
