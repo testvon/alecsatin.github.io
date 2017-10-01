@@ -24,10 +24,4 @@ It is clear, concise, and easy to understand.  Considering it thoughtfully is a 
 
 *A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  
 
-* [Adobe EPUB eBook](mailto:lutheranlibrary@runbox.com?subject=Epub request 117tg&body=Please send 117tg-jacobs-book-of-concord-epitome)
-
-* [Kindle Book](mailto:lutheranlibrary@runbox.com?subject=Kindle request 117tg&body=Please send 117tg-jacobs-book-of-concord-epitome)
-
-* [PDF direct link](/assets/pdf/117tg-jacobs-book-of-concord-epitome.pdf)
-
-Or you can send a request to: lutheranlibrary at runbox dot com
+You can download a copy of the ebook directly from the publisher: [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/112h-greenwald-why-the-reformation/).

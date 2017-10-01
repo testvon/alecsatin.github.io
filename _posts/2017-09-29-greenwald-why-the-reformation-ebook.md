@@ -94,12 +94,9 @@ Greenwald's book may be the best primer available for this purpose.  It answers:
 
 # Download the eBook
 
-* [Adobe EPUB eBook](mailto:lutheranlibrary@runbox.com?subject=Epub request 112h&body=Please send 112h-greenwald-why-the-reformation)
+*Why the Reformation?* by Rev. Emanuel Greenwald is available at no charge from the Lutheran Library.  
 
-* [Kindle Book](mailto:lutheranlibrary@runbox.com?subject=Kindle request 112h&body=Please send 112h-greenwald-why-the-reformation)
+You can download a copy of the ebook directly from the publisher [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/112h-greenwald-why-the-reformation/).
 
-* [PDF direct link](/assets/pdf/112h-greenwald-why-the-reformation.pdf)
-
-Or you can send a request to: lutheranlibrary at runbox dot com
 
 ---
