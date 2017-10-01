@@ -1,5 +1,5 @@
 ---
-date: 2017-09-24 06:30 
+date: 2017-10-01 06:30 
 title: The Son of God Goes Forth to War - Reginald Heber
 header:
   teaser: /assets/images/category-songs.png
