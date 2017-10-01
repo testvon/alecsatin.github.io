@@ -12,6 +12,9 @@ tags:
   - hymn
 ---
 
+**Please note:** If you're reading this in an email or RSS feed, the video may not appear.  Visit the website to watch the video.
+{: .notice}
+
 The Reformation is 500 years old this month. Does it matter?
 
 Yesterday I spoke with a friend who had just returned from Berlin.  He visited a large church which advertised an exhibit on the "Lutheran Reformation".  He described it as...
