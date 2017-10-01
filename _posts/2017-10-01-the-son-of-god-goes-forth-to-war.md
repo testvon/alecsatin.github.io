@@ -7,10 +7,11 @@ header:
     id: X_gunuCy23E
     provider: youtube
 categories: songs
-excerpt: ""
+excerpt: "The Son of God goes forth to war, A kingly crown to gain. His blood-red banner streams afar, Who follows in His train?"
 tags:
   - hymn
 ---
+
 The Reformation is 500 years old this month.  Is the *love of the truth* alive in alive in your local church?  Is it alive in you?
 
 Dear Lord, protect your sheep.  In Jesus' name.  Amen.
