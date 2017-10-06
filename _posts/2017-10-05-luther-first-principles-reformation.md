@@ -1,6 +1,6 @@
 ---
 date: 2017-10-05 08:12
-title: "[E-Book] – First Principles of the Reformation: The Three Primary Works of Martin Luther"
+title: "[E-Book] – First Principles of the Reformation: The Three Primary Works of Martin Luther translated by Wace and Buchheim"
 header:
   teaser: /assets/images/category-lutheran-library.png
   image: /assets/images/120h-luther-first-principles-reformation-1024-wide.jpg
