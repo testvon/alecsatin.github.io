@@ -6,10 +6,10 @@ header:
   image: /assets/images/120h-luther-first-principles-reformation-1024-wide.jpg
 categories: lutheran-library
 tags: [martin-luhter, lutheran-library, e-book, history, theology, 95-theses, on-the-babylonian-captivity-of-the-church, address-to-the-nobility-of-the-german-nation, concerning-christian-liberty]
-excerpt: "If you've read little or no other Luther, here's a place to begin."
+excerpt: "If you've read little or no other Luther, here's a place to begin. These writings are punchy and gripping. This is the true Reformation."
 
 ---
-If you've read no other Luther, here's a place to begin.
+If you've read no other Luther, here's a place to begin. 
 
 Many people have opinions about Martin Luther, but few have actually read his words.  This small volume includes the *Address to the Nobility of the German Nation*, *Concerning Christian Liberty* and *On the Babylonian Captivity of the Church*.  The famous *95 Theses* are here too, as well as two helpful introductions, one theological, and the other historical.
 
@@ -40,7 +40,7 @@ True sacraments follow these Biblical conditions:
 2.  They were instituted by Jesus Christ, and,
 3.  They certify a Divine promise.
 
-Luther here examines the 7 Roman Catholic sacraments against these conditions and finds only two to be true.  
+Luther here examines the seven Roman Catholic sacraments against these conditions and finds only two - Baptism and the Lord's Supper - that meet the criteria.
 
 
 # Download the eBook
