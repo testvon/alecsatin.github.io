@@ -3,7 +3,7 @@ date: 2017-09-21 07:00
 title: "[E-Book Download] – A Concise Summary of the Lutheran Confessions by Henry Eyster Jacobs"
 header:
   teaser: /assets/images/category-lutheran-library.png
-  image: /assets/images/117tg-jacobs-epitome-lutheran-library-wide.jpg
+  image: /assets/images/117tc-jacobs-book-of-concord-epitome-1024.jpg
 categories: lutheran-library
 excerpt: The *Epitome* is part of the *Formula of Concord*, the last book of the Lutheran Confessions.  It is clear, concise, and a joy to read.  Theodore Schmauk recommends it with these words...
 tags:
@@ -24,4 +24,4 @@ It is clear, concise, and easy to understand.  Considering it thoughtfully is a 
 
 *A Concise Summary of the Lutheran Confessions* by Henry Eyster Jacobs is available at no charge from The Lutheran Library.  
 
-You can download a copy of the ebook directly from the publisher: [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/117tg-jacobs-book-of-concord-epitome/#download-the-ebook).
+You can download a copy of the ebook directly from the publisher: [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/117tc-jacobs-book-of-concord-epitome/#download-the-ebook).

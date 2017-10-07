@@ -3,7 +3,7 @@ date: 2017-10-05 08:12
 title: "[E-Book] – First Principles of the Reformation: The Three Primary Works of Martin Luther translated by Wace and Buchheim"
 header:
   teaser: /assets/images/category-lutheran-library.png
-  image: /assets/images/120h-luther-first-principles-reformation-1024-wide.jpg
+  image: /assets/images/120tc-luther-first-principles-reformation-1024.jpg
 categories: lutheran-library
 tags: [martin-luhter, lutheran-library, e-book, history, theology, 95-theses, on-the-babylonian-captivity-of-the-church, address-to-the-nobility-of-the-german-nation, concerning-christian-liberty]
 excerpt: "If you've read little or no other Luther, here's a place to begin. These writings are punchy and gripping. This is the true Reformation."
@@ -49,7 +49,7 @@ Here in these writings of brother Martin is true Reformation.
 
 *First Principles Of The Reformation – The Three Primary Works Of Luther And The 95 Theses Translated by Henry Wace and C. A. Buchheim* is available at no charge from The Lutheran Library Publishing Ministry.  
 
-You can download a copy of the ebook directly from the publisher: [*First Principles of the Reformation - The Three Primary Works of Martin Luther*](http://www.lutheranlibrary.org/ebook/120h-luther-first-principles-reformation/#download-the-ebook).
+You can download a copy of the ebook directly from the publisher: [*First Principles of the Reformation - The Three Primary Works of Martin Luther*](http://www.lutheranlibrary.org/120tc-luther-first-principles-reformation/#download-the-ebook).
 
 [^BV]: Wace. *Theological Introduction*. 
 

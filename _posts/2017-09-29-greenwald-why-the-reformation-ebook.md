@@ -5,7 +5,7 @@ categories: lutheran-library
 tags: [reformation, protestantism, roman-catholicism, st-bartholomews-massacre]
 header:
   teaser: /assets/images/category-lutheran-library.png
-  image: /assets/images/112h-greenwald-why-the-reformation-wide.jpg
+  image: /assets/images/112tc-greenwald-why-the-reformation-1024.jpg
 excerpt: Pope Frances declared, "The Reformation is Over". Is he right?  Many evangelical Christians think so.  To know for sure, solid knowledge is needed of what happened back then and why, if only to show respect for those brothers and sisters in the faith who gave their lives to uphold their consciences."
 ---
 
@@ -96,6 +96,6 @@ Greenwald's book may be the best primer available for this purpose.  It answers:
 
 *Why the Reformation?* by Rev. Emanuel Greenwald is available at no charge from the Lutheran Library.  
 
-You can download a copy of the ebook directly from the publisher [Lutheran Library Publishing Ministry](http://www.lutheranlibrary.org/ebook/112h-greenwald-why-the-reformation/#download-the-ebook).
+You can download a copy of the ebook directly from the publisher [Why the Reformation? by Emanuel Greenwald](http://www.lutheranlibrary.org/112tc-greenwald-why-the-reformation-1024/#download-the-ebook).
 
 ---
