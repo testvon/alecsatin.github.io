@@ -7,7 +7,7 @@ header:
 categories: biblical-orthodoxy
 excerpt: "I believe that Jesus Christ, true god begotten of the father from all eternity . . . has delivered me . . . with his innocent sufferings and death." 
 comments: true
-tags:
+tags: 
   - Henry Eyster Jacobs
   - Full Books
   - Summary of the Christian Faith

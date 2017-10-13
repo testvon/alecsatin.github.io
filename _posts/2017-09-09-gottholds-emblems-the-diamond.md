@@ -5,11 +5,7 @@ excerpt:  "Gotthold, inspecting the operations of a goldsmith, who was setting a
 header:
   teaser: /assets/images/category-for-the-suffering-christian.png
 categories: for-the-suffering-christian
-tags: 
-  - Christian Scriver
-  - Gotthold
-  - Quotes
-  - Encouraging 
+tags: [Christian Scriver, Gotthold, Quotes, Encouraging, lutheran-library]
 ---
 
 ## Gotthold and the Diamond

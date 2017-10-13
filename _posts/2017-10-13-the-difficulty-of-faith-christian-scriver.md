@@ -4,7 +4,7 @@ date: 2017-10-13 07:18
 header:
   teaser: /assets/images/category-for-the-suffering-christian.png
 categories: for-the-suffering-christian
-tags: [Christian Scriver, Gotthold, Quotes, Encouraging] 
+tags: [Christian Scriver, Gotthold, Quotes, Encouraging, lutheran-library] 
 excerpt:  Who, said one of a company, would really refuse to trust the blessed God?" 
 ---
 

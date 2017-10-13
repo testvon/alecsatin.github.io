@@ -2,7 +2,7 @@
 date: 2017-09-28 06:00
 title: '[E-Book Download] Why The Reformation? by Emanuel Greenwald'
 categories: lutheran-library
-tags: [reformation, protestantism, roman-catholicism, st-bartholomews-massacre]
+tags: [reformation, protestantism, roman-catholicism, st-bartholomews-massacre, lutheran-library]
 header:
   teaser: /assets/images/category-lutheran-library.png
   image: /assets/images/112tc-greenwald-why-the-reformation-1024.jpg
