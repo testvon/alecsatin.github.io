@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/category-lutheran-library.png
   image: /assets/images/120tc-luther-first-principles-reformation-1024.jpg
 categories: lutheran-library
-tags: [martin-luhter, lutheran-library, e-book, history, theology, 95-theses, on-the-babylonian-captivity-of-the-church, address-to-the-nobility-of-the-german-nation, concerning-christian-liberty]
+tags: [martin-luther, lutheran-library, e-book, history, theology, 95-theses, on-the-babylonian-captivity-of-the-church, address-to-the-nobility-of-the-german-nation, concerning-christian-liberty]
 excerpt: "If you've read little or no other Luther, here's a place to begin. These writings are punchy and gripping. This is the true Reformation."
 
 ---
