@@ -40,7 +40,7 @@ The years 1851 to 1854 were spent in the city of Columbus, during which time he 
 ---
 
 
-[^afA]: "...Washer’s belief that justification and sanctification are the same thing. He absolutely does believe that we keep ourselves saved through the process of “mortification and vivification.” While constantly pontificating about easy-believeism, he himself is in danger of being condemned for teaching a false gospel." [source](https://paulspassingthoughts.com/2012/07/11/paul-washers-new-calvinist-false-gospel/comment-page-2/#comment-26733)
+[^afA]: "...Washer’s belief that justification and sanctification are the same thing. He absolutely does believe that we keep ourselves saved through the process of “mortification and vivification.” While constantly pontificating about easy-believe-ism, he himself is in danger of being condemned for teaching a false gospel." [source](https://paulspassingthoughts.com/2012/07/11/paul-washers-new-calvinist-false-gospel/comment-page-2/#comment-26733)
 
 [^afz]: Just one recent example http://thewartburgwatch.com/2017/10/16/sola-pipera-john-piper-says-sola-fide-doesnt-cut-it-and-then-seems-to-cook-the-books/
 
