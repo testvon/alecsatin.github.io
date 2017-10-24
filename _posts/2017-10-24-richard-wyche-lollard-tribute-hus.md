@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/category-lutheran-library.png
   image: /assets/images/123lb-workman-pope-letters-john-hus-1024.jpg
 tags: [lutheran-library, letters, martyrs, wyche-richard, lollards, john-hus]
-excerpt: "" 
+excerpt: "Wyche was one of the many priests who had come under the influence of Wyclif's teaching. Of his earlier years we know little or nothing. Hus, it is true, speaks of him as 'the companion of Wyclif in the toils of the gospel'" 
 ---
 Richard Wyche was vicar of Deptford, England and follower of John Wyclif.  Following is a letter he sent to John Hus, and its reply.  All content is taken from the wonderful and faith-strengthening book *The Letters of John Hus*. The introductory comments before each letter are the words of Herbert Workman.
 
