@@ -1,5 +1,5 @@
 ---
-date: 2017-10-28 21:13
+date: 2017-10-29 07:14
 title: Lord, Keep us Steadfast in Thy Word - Hymn of Martin Luther
 header:
   teaser: /assets/images/category-songs.png
