@@ -16,16 +16,17 @@ A brief devotion from the 1877 version of Carl Bogatzky's *Golden Treasury for t
 
 God of love, cause me to love thee, and all thine, the poor, the weak, and the feeble, as well as the strong, for all are thine. To this end shed abroad thy own love in my heart, more fully and more powerfully than I have ever experienced it yet. Thou art love, make me loving, so shall I be like thee, and bring honor to thy cause and name. 
 
-|  O let thy love our hearts constrain,
-|    Jesus the crucified!
-|  What hast thou done our hearts to gain?
-|    Languish'd, and groan'd, and died!
-|  
-|  Each one by thy example draw, 
-|    And mutual love impart; 
-|  Let kindness sweetly write her law 
-|    Deep in each grateful heart. 
-
+```
+  O let thy love our hearts constrain,
+    Jesus the crucified!
+  What hast thou done our hearts to gain?
+    Languish'd, and groan'd, and died!
+  
+  Each one by thy example draw,
+    And mutual love impart;
+  Let kindness sweetly write her law
+    Deep in each grateful heart.
+```
 
 – Bogatzky, Carl. *Golden Treasury*. "October 13"
 

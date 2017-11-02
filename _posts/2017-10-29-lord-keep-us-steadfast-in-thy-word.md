@@ -23,32 +23,33 @@ Here is William Lee Hunton's description of this justly famous hymn, *Lord, Keep
 
 ## Lyrics *Lord, Keep us Steadfast in Thy Word* by Martin Luther
 
-|  "Lord, Keep Us Steadfast in Thy Word"
-|  by Martin Luther, 1483-1546
-|  
-|  1. Lord, keep us steadfast in Thy Word;
-|  Curb those who fain by craft and sword
-|  Would wrest the Kingdom from Thy Son
-|  And set at naught all He hath done.
-|  
-|  2. Lord Jesus Christ, Thy power make known,
-|  For Thou art Lord of lords alone;
-|  Defend Thy Christendom that we
-|  May evermore sing praise to Thee.
-|  
-|  3. O Comforter of priceless worth.
-|  Send peace and unity on earth.
-|  Support us in our final strife
-|  And lead us out of death to life.
-|  
-|  Hymn 261
-|  The Lutheran Hymnal
-|  Text: John 8: 31
-|  Author: Martin Luther, 1541
-|  Translated by: Catherine Winkworth, 1863
-|  Titled: "Erhalt uns, Herr, bei deinem Wort"
-|  Tune: "Erhalt uns, Herr"
-|  1st Published in: Geistliche Lieder
-|  Town: Wittenberg, 1543
+```
+  by Martin Luther, 1483-1546
+  
+  1. Lord, keep us steadfast in Thy Word;
+  Curb those who fain by craft and sword
+  Would wrest the Kingdom from Thy Son
+  And set at naught all He hath done.
+  
+  2. Lord Jesus Christ, Thy power make known,
+  For Thou art Lord of lords alone;
+  Defend Thy Christendom that we
+  May evermore sing praise to Thee.
+  
+  3. O Comforter of priceless worth.
+  Send peace and unity on earth.
+  Support us in our final strife
+  And lead us out of death to life.
+  
+  Hymn 261
+  The Lutheran Hymnal
+  Text: John 8: 31
+  Author: Martin Luther, 1541
+  Translated by: Catherine Winkworth, 1863
+  Titled: "Erhalt uns, Herr, bei deinem Wort"
+  Tune: "Erhalt uns, Herr"
+  1st Published in: Geistliche Lieder
+  Town: Wittenberg, 1543
+```
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

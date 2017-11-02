@@ -24,50 +24,52 @@ Lord Jesus Christ, with us abide, today and always.  Amen.
 
 ## by Nikolaus Selnecker, 1532-1592
 
-|  1. Lord Jesus Christ, with us abide,
-|  For round us falls the eventide;
-|  Nor let Thy Word, that heavenly light,
-|  For us be ever veiled in night.
-|  
-|  2. In these last days of sore distress
-|  Grant us, dear Lord, true steadfastness
-|  That pure we keep, till life is spent,
-|  Thy holy Word and Sacrament.
-|  
-|  3. Lord Jesus, help, Thy Church uphold,
-|  For we are sluggish, thoughtless, cold.
-|  Oh, prosper well Thy Word of grace
-|  And spread its truth in every place!
-|  
-|  4. Oh, keep us in Thy Word, we pray;
-|  The guile and rage of Satan stay!
-|  Oh, may Thy mercy never cease!
-|  Give concord, patience, courage, peace.
-|  
-|  5. O God, how sin's dread works abound!
-|  Throughout the earth no rest is found,
-|  And falsehood's spirit wide has spread,
-|  And error boldly rears its head.
-|  
-|  6. The haughty spirits, Lord, restrain
-|  Who o'er Thy Church with might would reign
-|  And always set forth something new,
-|  Devised to change Thy doctrine true.
-|  
-|  7. And since the cause and glory, Lord,
-|  Are Thine, not ours, to us afford
-|  Thy help and strength and constancy.
-|  With all our heart we trust in Thee.
-|  
-|  8. A trusty weapon is Thy Word,
-|  Thy Church's buckler, shield and sword.
-|  Oh, let us in its power confide
-|  That we may seek no other guide!
-|  
-|  9. Oh, grant that in Thy holy Word
-|  We here may live and die, dear Lord;
-|  And when our journey endeth here,
-|  Receive us into glory there.
+```
+  1. Lord Jesus Christ, with us abide,
+  For round us falls the eventide;
+  Nor let Thy Word, that heavenly light,
+  For us be ever veiled in night.
+  
+  2. In these last days of sore distress
+  Grant us, dear Lord, true steadfastness
+  That pure we keep, till life is spent,
+  Thy holy Word and Sacrament.
+  
+  3. Lord Jesus, help, Thy Church uphold,
+  For we are sluggish, thoughtless, cold.
+  Oh, prosper well Thy Word of grace
+  And spread its truth in every place!
+  
+  4. Oh, keep us in Thy Word, we pray;
+  The guile and rage of Satan stay!
+  Oh, may Thy mercy never cease!
+  Give concord, patience, courage, peace.
+  
+  5. O God, how sin's dread works abound!
+  Throughout the earth no rest is found,
+  And falsehood's spirit wide has spread,
+  And error boldly rears its head.
+  
+  6. The haughty spirits, Lord, restrain
+  Who o'er Thy Church with might would reign
+  And always set forth something new,
+  Devised to change Thy doctrine true.
+  
+  7. And since the cause and glory, Lord,
+  Are Thine, not ours, to us afford
+  Thy help and strength and constancy.
+  With all our heart we trust in Thee.
+  
+  8. A trusty weapon is Thy Word,
+  Thy Church's buckler, shield and sword.
+  Oh, let us in its power confide
+  That we may seek no other guide!
+  
+  9. Oh, grant that in Thy holy Word
+  We here may live and die, dear Lord;
+  And when our journey endeth here,
+  Receive us into glory there.
+```
 
 The Lutheran Hymnal
 Hymn #292

@@ -24,45 +24,46 @@ May God be with you today and always.  Amen.
 
 ## Lyrics
 
-
-|  At the Name of Jesus, every knee shall bow,
-|  Every tongue confess Him King of glory now;
-|  ’Tis the Father’s pleasure we should call Him Lord,
-|  Who from the beginning was the mighty Word.
-|  
-|  Mighty and mysterious in the highest height,
-|  God from everlasting, very light of light:
-|  In the Father’s bosom with the spirit blest,
-|  Love, in love eternal, rest, in perfect rest.
-|  
-|  At His voice creation sprang at once to sight,
-|  All the angel faces, all the hosts of light,
-|  Thrones and dominations, stars upon their way,
-|  All the heavenly orders, in their great array.
-|  
-|  Humbled for a season, to receive a name
-|  From the lips of sinners unto whom He came,
-|  Faithfully He bore it, spotless to the last,
-|  Brought it back victorious when from death He passed.
-|  
-|  Bore it up triumphant with its human light,
-|  Through all ranks of creatures, to the central height,
-|  To the throne of Godhead, to the Father’s breast;
-|  Filled it with the glory of that perfect rest.
-|  
-|  Name Him, brothers, name Him, with love strong as death
-|  But with awe and wonder, and with bated breath!
-|  He is God the Savior, He is Christ the Lord,
-|  Ever to be worshipped, trusted and adored.
-|  
-|  In your hearts enthrone Him; there let Him subdue
-|  All that is not holy, all that is not true;
-|  Crown Him as your Captain in temptation’s hour;
-|  Let His will enfold you in its light and power.
-|  
-|  Brothers, this Lord Jesus shall return again,
-|  With His Father’s glory, with His angel train;
-|  For all wreaths of empire meet upon His brow,
-|  And our hearts confess Him King of glory now.
+```
+  At the Name of Jesus, every knee shall bow,
+  Every tongue confess Him King of glory now;
+  ’Tis the Father’s pleasure we should call Him Lord,
+  Who from the beginning was the mighty Word.
+  
+  Mighty and mysterious in the highest height,
+  God from everlasting, very light of light:
+  In the Father’s bosom with the spirit blest,
+  Love, in love eternal, rest, in perfect rest.
+  
+  At His voice creation sprang at once to sight,
+  All the angel faces, all the hosts of light,
+  Thrones and dominations, stars upon their way,
+  All the heavenly orders, in their great array.
+  
+  Humbled for a season, to receive a name
+  From the lips of sinners unto whom He came,
+  Faithfully He bore it, spotless to the last,
+  Brought it back victorious when from death He passed.
+  
+  Bore it up triumphant with its human light,
+  Through all ranks of creatures, to the central height,
+  To the throne of Godhead, to the Father’s breast;
+  Filled it with the glory of that perfect rest.
+  
+  Name Him, brothers, name Him, with love strong as death
+  But with awe and wonder, and with bated breath!
+  He is God the Savior, He is Christ the Lord,
+  Ever to be worshipped, trusted and adored.
+  
+  In your hearts enthrone Him; there let Him subdue
+  All that is not holy, all that is not true;
+  Crown Him as your Captain in temptation’s hour;
+  Let His will enfold you in its light and power.
+  
+  Brothers, this Lord Jesus shall return again,
+  With His Father’s glory, with His angel train;
+  For all wreaths of empire meet upon His brow,
+  And our hearts confess Him King of glory now.
+```
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
