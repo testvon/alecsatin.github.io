@@ -8,7 +8,7 @@ header:
     provider: youtube
 categories: songs
 excerpt: 'This is a characteristic hymn from the pen of Miss Havergal, who has sometimes been called "The Theodocia of the 19th Century."'
-tags: [hymn, ]
+tags: [hymn, frances-ridley-havergal ]
 ---
 >This is a characteristic hymn from the pen of Miss Havergal, who has sometimes been called "The Theodocia of the 19th Century." She was the daughter of a Church of England clergyman, born at Astley, Worcestershire, England, December 14, 1836. The type of her hymns is interesting and is by some accredited to an incident of her girlhood. When quite a young girl she visited the art gallery of Dusseldorf, Prussia, where she was attending school. She saw and was deeply impressed by the great picture of the head of Christ, the _"Ecce Homo."_[behold the man] The sight of this picture ... evidently influenced her entire life.[^aiL]
 
