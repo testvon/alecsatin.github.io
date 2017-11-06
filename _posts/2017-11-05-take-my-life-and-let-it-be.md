@@ -22,35 +22,35 @@ tags: [hymn, frances-ridley-havergal ]
 ## Lyrics *Take my Life and Let it Be*
 
 ```
-1 Take my life and let it be
-consecrated, Lord, to thee.
-Take my moments and my days;
-let them flow in endless praise.
-
-2 Take my hands and let them move
-at the impulse of thy love.
-Take my feet and let them be
-swift and beautiful for thee.
-
-3 Take my voice and let me sing
-always, only, for my King.
-Take my lips and let them be
-filled with messages from thee.
-
-4 Take my silver and my gold;
-not a mite would I withhold.
-Take my intellect and use
-every power as thou shalt choose.
-
-5 Take my will and make it thine;
-it shall be no longer mine.
-Take my heart it is thine own;
-it shall be thy royal throne.
-
-6 Take my love; my Lord, I pour
-at thy feet its treasure store.
-Take myself, and I will be
-ever, only, all for thee. 
+1 Take my life and let it be  
+consecrated, Lord, to thee.  
+Take my moments and my days;  
+let them flow in endless praise.  
+  
+2 Take my hands and let them move  
+at the impulse of thy love.  
+Take my feet and let them be  
+swift and beautiful for thee.  
+  
+3 Take my voice and let me sing  
+always, only, for my King.  
+Take my lips and let them be  
+filled with messages from thee.  
+  
+4 Take my silver and my gold;  
+not a mite would I withhold.  
+Take my intellect and use  
+every power as thou shalt choose.  
+  
+5 Take my will and make it thine;  
+it shall be no longer mine.  
+Take my heart it is thine own;  
+it shall be thy royal throne.  
+  
+6 Take my love; my Lord, I pour  
+at thy feet its treasure store.  
+Take myself, and I will be  
+ever, only, all for thee.   
 ```
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
