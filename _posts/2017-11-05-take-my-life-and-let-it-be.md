@@ -21,7 +21,7 @@ tags: [hymn, frances-ridley-havergal ]
 
 ## Lyrics *Take my Life and Let it Be*
 
-```
+<pre>
 1 Take my life and let it be  
 consecrated, Lord, to thee.  
 Take my moments and my days;  
@@ -51,7 +51,7 @@ it shall be thy royal throne.
 at thy feet its treasure store.  
 Take myself, and I will be  
 ever, only, all for thee.   
-```
+</pre>
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
 

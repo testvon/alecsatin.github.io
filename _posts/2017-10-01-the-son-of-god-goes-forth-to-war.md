@@ -30,7 +30,7 @@ Dear Lord, protect your sheep.  Give us that love of the truth that lived inside
 
 ## Lyrics *The Son of God Goes Forth to War* by Reginald Heber
 
-```
+<pre>
   1. The Son of God goes forth to war
      A kingly crown to gain.
      His blood-red banner streams afar;
@@ -73,6 +73,6 @@ Dear Lord, protect your sheep.  Give us that love of the truth that lived inside
   Author: Reginald Heber, 1827
   Composer: Henry S. Cutler, 1872
   Tune: "All Saints New"
-```
+</pre>
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

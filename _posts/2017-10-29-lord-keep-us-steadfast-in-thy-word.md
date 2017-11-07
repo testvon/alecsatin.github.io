@@ -23,7 +23,7 @@ Here is William Lee Hunton's description of this justly famous hymn, *Lord, Keep
 
 ## Lyrics *Lord, Keep us Steadfast in Thy Word* by Martin Luther
 
-```
+<pre>
   by Martin Luther, 1483-1546
   
   1. Lord, keep us steadfast in Thy Word;
@@ -50,6 +50,6 @@ Here is William Lee Hunton's description of this justly famous hymn, *Lord, Keep
   Tune: "Erhalt uns, Herr"
   1st Published in: Geistliche Lieder
   Town: Wittenberg, 1543
-```
+</pre>
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

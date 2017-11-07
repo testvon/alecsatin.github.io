@@ -24,7 +24,7 @@ May God be with you today and always.  Amen.
 
 ## Lyrics
 
-```
+<pre>
   At the Name of Jesus, every knee shall bow,
   Every tongue confess Him King of glory now;
   ’Tis the Father’s pleasure we should call Him Lord,
@@ -64,6 +64,6 @@ May God be with you today and always.  Amen.
   With His Father’s glory, with His angel train;
   For all wreaths of empire meet upon His brow,
   And our hearts confess Him King of glory now.
-```
+</pre>
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

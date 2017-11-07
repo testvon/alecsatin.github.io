@@ -24,7 +24,7 @@ May God be with you today and always.  Amen.
 
 ## Lyrics
 
-```
+<pre>
   1. Lord of our life and God of our salvation.
   Star of our night and Hope of every nation,
   Hear and receive Thy Church's supplication,
@@ -58,6 +58,6 @@ Translated by: Philip Pusey, 1840, alt.
 Titled: "Christe, du Beistand"
 Composer: Johann Crueger, 1640
 Tune: "Herzliebster Jesu"
-```
+</pre>
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

@@ -24,7 +24,7 @@ Dear Lord, thank you for You.  You our our help, our hope, our promise for the u
 
 ## Lyrics *O God Our Help In Ages Past* by Isaac Watts
 
-```
+<pre>
   1 Our God, our help in ages past,
   Our hope for years to come,
   Our shelter from the stormy blast,
@@ -69,6 +69,6 @@ Dear Lord, thank you for You.  You our our help, our hope, our promise for the u
   Our hope for years to come,
   Be Thou our guard while troubles last,
   And our eternal home.
-```
+</pre>
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>

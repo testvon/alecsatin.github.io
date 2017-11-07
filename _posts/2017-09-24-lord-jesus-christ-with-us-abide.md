@@ -24,7 +24,7 @@ Lord Jesus Christ, with us abide, today and always.  Amen.
 
 ## by Nikolaus Selnecker, 1532-1592
 
-```
+<pre>
   1. Lord Jesus Christ, with us abide,
   For round us falls the eventide;
   Nor let Thy Word, that heavenly light,
@@ -69,7 +69,7 @@ Lord Jesus Christ, with us abide, today and always.  Amen.
   We here may live and die, dear Lord;
   And when our journey endeth here,
   Receive us into glory there.
-```
+</pre>
 
 The Lutheran Hymnal
 Hymn #292
