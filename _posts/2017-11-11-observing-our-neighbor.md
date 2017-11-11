@@ -1,5 +1,5 @@
 ---
-date: 2017-11-01 07:29
+date: 2017-11-11 08:06
 title: Observing the faults of our neighbor
 header:
   teaser: /assets/images/category-devotions.png
