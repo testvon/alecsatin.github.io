@@ -1,7 +1,7 @@
 # top navigation menu
 main:
   - title: "Lutheran Library E-Books"
-    url: /lutheran-library/lutheran-library/   
+    url: http://www.lutheranlibrary.org/   
   - title: "Recent posts"
     url: /#recent-posts    
   - title: "Search"
