@@ -3,9 +3,6 @@ title: Come ye thankful people come
 date: 2017-11-19 06:00
 header:
   teaser: "/assets/images/category-songs.png"
-  video:
-    id: ldJtnE9h4fU?rel=0&amp;start=10
-    provider: youtube
 categories: songs
 tags: [thanksgiving, hymn, fall, gratitude]
 excerpt: "This song of gratitude to the Lord appears in 608 hymnals."
