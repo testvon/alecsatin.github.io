@@ -14,6 +14,9 @@ According to an online website specializing in hymns[^alR], *Come ye thankful pe
 
 
 
+**Please note:** If you're reading this in an email or RSS feed, the video may not appear.  [Visit the website](http://www.alecsatin.com/#recent-posts) to watch the video.
+{: .notice}
+
 ## Lyrics
 
 ```
