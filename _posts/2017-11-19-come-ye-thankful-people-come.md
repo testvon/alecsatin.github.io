@@ -10,7 +10,8 @@ categories: songs
 tags: [thanksgiving, hymn, fall, gratitude]
 excerpt: "This song of gratitude to the Lord appears in 608 hymnals."
 ---
-According to an online website specializing in hymns[^alR], *Come ye thankful people come* appears in 608 hymnals.  On the one hand it's a song of gratitude to the Lord for the food provided in this year's harvest.  Yet a closer look at the lyrics shows the references to Mark 4:26-29 and Matthew 13:24-30 and 36-43, which call for a separating out of the true believers from the false – a hastening of God's righteous judgment against all those who are defined by their iniquity.
+According to an online website specializing in hymns[^alR], *Come ye thankful people come* appears in 608 hymnals.  On the one hand it's a song of gratitude to the Lord for the food provided in this year's harvest.  Yet a closer look at the lyrics shows the references to Mark 4:26-29 and Matthew 13:24-30 and 36-43, which call for a hastening of God's final harvest.  
+
 
 **Please note:** If you're reading this in an email or RSS feed, you must [visit the website](http://www.alecsatin.com/#recent){: .btn .btn--warning} to watch the video.
 {: .notice}
