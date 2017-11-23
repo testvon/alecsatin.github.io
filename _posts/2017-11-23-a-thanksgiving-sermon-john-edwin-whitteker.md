@@ -1,6 +1,6 @@
 ---
 date: 2017-11-23 07:03 
-title: "[E-Book] – First Principles of the Reformation: The Three Primary Works of Martin Luther translated by Wace and Buchheim"
+title: "Church and State - A Thanksgiving Day Sermon by John Edwin Whitteker"
 header:
   teaser: /assets/images/category-lutheran-library.png
   image: /assets/images/144tc-whitteker-church-and-state-a-thanksgiving-sermon-1024.jpg
@@ -31,6 +31,7 @@ This small pamphlet consists of one sermon, *Church and State*, delivered by Rev
 You can download a free copy directly from the publisher: [*A Thanksgiving Sermon*](http://www.lutheranlibrary.org/144tc-whitteker-church-and-state-a-thanksgiving-sermon/#download-the-ebook).
 
 
-[![download](/assets/images/posts/144tc-whitteker-church-and-state-a-thanksgiving-sermon-300x480.jpg)](http://www.lutheranlibrary.org/144tc-whitteker-church-and-state-a-thanksgiving-sermon/#download-the-ebook)
+[![download](/assets/images/144tc-whitteker-church-and-state-a-thanksgiving-sermon-300x480.jpg)](http://www.lutheranlibrary.org/144tc-whitteker-church-and-state-a-thanksgiving-sermon/#download-the-ebook)
 
->Let the Church give its loftiest effort, not to little outside policies, but to the great essential principles; and Christian manhood will be the result. 
+__Happy Thanksgiving!__ 
+
