@@ -1,5 +1,5 @@
 ---
-date: 2017-11-23 07:03 
+date: 2017-11-23 07:20 
 title: "Church and State - A Thanksgiving Day Sermon by John Edwin Whitteker"
 header:
   teaser: /assets/images/category-lutheran-library.png
