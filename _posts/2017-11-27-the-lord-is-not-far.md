@@ -1,6 +1,6 @@
 ---
 date: 2017-11-27 06:50
-title: Says Jesus, "Follow Me"
+title: The Lord is not far
 header:
   teaser: /assets/images/category-devotions.png
 categories: devotions
