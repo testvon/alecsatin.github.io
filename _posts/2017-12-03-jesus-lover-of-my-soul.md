@@ -1,5 +1,5 @@
 ---
-title: Jesus Lover of my Soul 
+title: Jesus Lover of my Soul - Hymn by Charles Wesley 
 date: 2017-12-03 06:21
 header:
   teaser: "/assets/images/category-songs.png"
