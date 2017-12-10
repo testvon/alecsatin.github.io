@@ -7,7 +7,7 @@ header:
 categories: biblical-orthodoxy
 comments: true
 tags: [samuel-laird, sermon]
-excerpt: "" 
+excerpt: "He left His servants as a nobleman. He will return to His subjects as a King." 
 ---
 
 ## Who was Samuel Laird?
