@@ -12,6 +12,8 @@ excerpt: "He left His servants as a nobleman. He will return to His subjects as 
 
 ## Who was Samuel Laird?
 
+![Samuel Laird](/assets/images/i01-samuel-laird.jpg)
+
 George Sandt, the author of the excellent ["Life and Teachings of Theodore Schmauk"](http://www.lutheranlibrary.org/102lb-sandt-schmauk-biography/) describes Samuel Laird:
 
 >To those who knew Dr. Laird as a preacher, a catechist, a pastor, a leader in the Church, and a man among men, the sermons that appear in this book have an added value. It is not only what is being preached, but also what the preacher himself is that enters into the estimate of a sermon; for what is a sermon other than the Gospel seeking utterance through a personality whom it has inspired and transformed? My acquaintance with the author of these sermons dates back to my seminary days in the early <span class="inline">[eighteen-]</span>eighties, when I frequently listened to his preaching and occasionally attended his catechetical lectures. He was then in the vigor of his manhood and one of the leading pulpit lights in the city of Philadelphia. 
