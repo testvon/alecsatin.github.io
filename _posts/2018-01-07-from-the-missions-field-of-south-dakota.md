@@ -6,7 +6,7 @@ header:
  image: /assets/images/kiess-mission-field-south-dakota.jpg
 categories: lutheran-library
 tags: [missions, ebook]
-excerpt: ""
+excerpt: "When I came to his place, I told him who I was, that quick he got mad and red in his face and ordered me from his place with the words, 'Pastors and fools ride in one cart'"
 ---
 
 Frank Kiess writes:
