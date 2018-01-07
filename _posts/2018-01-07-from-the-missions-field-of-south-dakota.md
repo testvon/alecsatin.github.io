@@ -16,7 +16,7 @@ In the near neighborhood of one of my preaching stations, there lived a German f
 
 – Kiess, Frank.  _My experiences in the mission field of South Dakota during the years 1892-1897_. Originally published 1932.  [Lutheran Library edition forthcoming](http://www.lutheranlibrary.org/) 
 
-[South Dakota Blizzard](/assets/images/kiess-mission-field-south-dakota-2.jpg)
+![South Dakota Blizzard](/assets/images/kiess-mission-field-south-dakota-2.jpg)
 
 <div>Originally published at: <a href='http://www.alecsatin.com/'>Comfort for Christians</a></div>
 
