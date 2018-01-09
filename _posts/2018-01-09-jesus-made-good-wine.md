@@ -6,8 +6,9 @@ tags: [lords-supper, communion, alcohol, grape-juice]
 header:
   teaser: /assets/images/category-ever-wonder.png
   image: /assets/images/jesus-made-good-wine.jpg
-excerpt:  ""
+excerpt:  "Jesus Christ tells us Himself that He did drink wine... some people have become so fanatical that instead of giving the wine in the holy communion, as I said a moment ago, they are giving raisin tea."
 ---
+
 ## Is wine evil?  Should the Lord's Supper be given with grape juice?  
 
 The following is from "A Marriage and a Miracle" - an exposition of the Marriage of Cana.
