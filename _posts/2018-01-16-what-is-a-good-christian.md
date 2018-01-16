@@ -1,5 +1,5 @@
 ---
-date: 2018-01-09 09:31
+date: 2018-01-16 09:31
 title: What is "a good Christian"?
 categories: ever-wonder
 tags: [christian-life,long-simon-peter]
