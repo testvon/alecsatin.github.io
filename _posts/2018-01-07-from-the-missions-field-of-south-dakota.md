@@ -1,6 +1,6 @@
 ---
 date: 2018-01-07 07:00
-title: From the Mission Field of South Dakota
+title: The Blasphemous Family of South Dakota
 header:
  teaser: /assets/images/category-lutheran-library.png
  image: /assets/images/kiess-mission-field-south-dakota.jpg
