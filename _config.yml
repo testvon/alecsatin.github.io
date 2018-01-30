@@ -20,7 +20,7 @@ teaser                   : # "/assets/images/category-cats-dogs-lemurs.png" # pa
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : #"disqus" # "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "comfortforchristians" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
