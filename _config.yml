@@ -37,6 +37,9 @@ atom_feed:
   title: "Comfort for Christians"
   description: "Quotes, Hymns and Devotions to Strengthen Faith."
 
+# Don't show future posts
+future: false
+
 # SEO Related
 google_site_verification : zuwFldso9dW0CyKoAMCBtp1dtOVGDHtbMyZmpBXaVQ0
 bing_site_verification   :
