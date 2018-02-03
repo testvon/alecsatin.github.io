@@ -9,14 +9,16 @@ tags: [long-simon-peter-1860-1929, sermons, sexagesima]
 excerpt:   >
   The way children learn to walk, is by walking; the only way you can grow in strength and grace, and plow deeply and bring forth a harvest of the fruit that will please God on this road to heaven, is to use every gift that God has given you, and every power that you are blessed with, to His glory and for the upbuilding of His kingdom. 
 ---
-And here is an exposition of the Parable of the good seed, by the Rev. Simon Peter Long.
+Here is an exposition of the Parable of the good seed, by the Rev. Simon Peter Long.
 
-* blank line
-{:toc}
 
 # The Parable of the Good Seed – Luke 8:4-15
 
 >And when much people were gathered together, and were come to Him from out of every city, He spake by a parable: A sower went out to sow his seed, and as he sowed, some fell by the wayside; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; And as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up and bare fruit an hundredfold. And when He had said these things, He cried, 'He that hath ears to hear, let him hear.' And His disciples asked Him, saying, 'What might this parable be?' And He said: 'Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand. Now the parable is this: __The seed is the Word of God.__ Those by the wayside are those that hear; then cometh the devil and taketh away the Word out of their hearts, lest they should believe and be saved. They on the rock are they, which, when they hear, receive the Word with joy; and these have no root, which for a while believe, and in time of temptation fall away. And that which fell among thorns are they, which, when they have heard, go. forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection. But that on the good ground are they, which in an honest and good heart, having heard the Word, keep it, and bring forth fruit with patience." 
+
+
+* blank line
+{:toc}
 
 # Introduction
 
