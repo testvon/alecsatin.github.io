@@ -9,7 +9,6 @@ tags: [long-simon-peter-1860-1929, sermons, sexagesima]
 excerpt:   >
   The way children learn to walk, is by walking; the only way you can grow in strength and grace, and plow deeply and bring forth a harvest of the fruit that will please God on this road to heaven, is to use every gift that God has given you, and every power that you are blessed with, to His glory and for the upbuilding of His kingdom. 
 ---
-
 And here is an exposition of the Parable of the good seed, by the Rev. Simon Peter Long.
 
 * blank line
